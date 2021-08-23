@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/girls-sunglasses.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2016-09-16T18:28:00-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8583163084</id>
+    <published>2016-09-16T18:28:00-05:00</published>
+    <updated>2016-09-16T18:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/wide-brimmed-girls-sunglasses-multiple-colors"/>
+    <title>Wide Rimmed Girls Sunglasses - Multiple Colors</title>
+    <s:type>Girls - Sunglasses</s:type>
+    <s:vendor>Ellen - China Broker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/17147_-_Elizabeth_Dejesus_2.jpg?v=1520320879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen - China Broker<br>
+        <strong>Type: </strong>Girls - Sunglasses<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable Sunglasses your little girl will absolutely love!! Lots of styles to choose from at Wholesale Princess!</p>
+<p>• Wide Rimmed Frames</p>
+<p>• Multiple Color Options:</p>
+<p> <span class="Apple-tab-span">•</span> Lime Green with Pink Earpiece</p>
+<p> <span class="Apple-tab-span" style="white-space: pre;">• </span>Light Pink Frames with Red Earpiece</p>
+<p><span class="Apple-tab-span" style="white-space: pre;"> • </span>Light Blue Frames with White Earpiece</p>
+<p> • Red Frames with Yellow Earpiece</p>
+<p> • Leopard Print Frames</p>
+<p> • White Frames with Lime Green Earpiece</p>
+<p> • Yellow Rims with Blue Earpiece</p>
+<p> • Black Frames </p>
+<p>• Great for photoshoots and birthday parties!</p>
+<p>• One Size Fits All </p>
+<p>• Metal/Plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Sunglasses</s:tag>
+    <s:tag>Green Frames with Pink Earpiece</s:tag>
+    <s:tag>Leopard Print</s:tag>
+    <s:tag>Light Blue Frames with White Earpiece</s:tag>
+    <s:tag>Multicolor</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink Frames with Red Earpiece</s:tag>
+    <s:tag>Red Frames with Yellow Earpiece</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>White Frames with Lime Earpiece</s:tag>
+    <s:tag>Yellow Frames with Light Blue Earpiece</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Black</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-BLK</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Green Frames with Pink Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-GRNPNK</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Light Blue Frames with White Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-LBLWHT</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Leopard Print</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-LPD</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Pink Frames with Red Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-PNKRD</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Red Frames with Yellow Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-RDYLW</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>White Frames with Lime Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-WHTLME</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Yellow Frames with Light Blue Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-YLWLBL</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+</feed>

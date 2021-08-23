@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/sale-hats-head-wraps.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2017-08-10T12:40:26-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/33401372697</id>
+    <published>2017-08-10T12:40:26-05:00</published>
+    <updated>2017-08-10T12:40:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/womens-colorful-bandanas-with-tassels"/>
+    <title>Women&apos;s Colorful Bandanas with Tassels</title>
+    <s:type>Women - Head Wraps</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/21734-BlueDot2.jpg?v=1529505558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Head Wraps<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Bandanas with Tassels are a great accessory.  They look amazing in your hair or around your neck.  Available in many different colors, each measures 21" x 21".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Bandana</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blue Dot</s:tag>
+    <s:tag>Blue Paisley</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>Coral Daisy</s:tag>
+    <s:tag>Coral Dot</s:tag>
+    <s:tag>Coral Paisley</s:tag>
+    <s:tag>Daisy</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Floral</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Green Dot</s:tag>
+    <s:tag>Hats &amp; Head Wraps</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Hot Pink Dot</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Mint Daisy</s:tag>
+    <s:tag>Mint Dot</s:tag>
+    <s:tag>Mint Paisley</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>Paisley</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink Daisy</s:tag>
+    <s:tag>Polka Dots</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Scarves &amp; Shawls</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Head Wraps</s:tag>
+    <s:tag>Women - Scarves</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Yellow Daisy</s:tag>
+    <s:tag>Yellow Paisley</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Blue Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-BLUDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Blue Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-BLUPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Coral Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-CORDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Coral Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-CORPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Coral Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-CORDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Green Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-GRNDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Hot Pink Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-HPKDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Mint Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-MINTDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Mint Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-MINTDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Mint Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-MINTPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Pink Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-PKDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Yellow Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-YELDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Yellow Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-YELPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

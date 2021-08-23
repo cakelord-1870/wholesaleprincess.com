@@ -1,0 +1,4375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/4th-of-july.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2021-08-13T17:55:02-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10395660556</id>
+    <published>2021-08-13T17:55:02-05:00</published>
+    <updated>2021-08-13T17:55:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/lace-detail-button-up-sleeved-blouse"/>
+    <title>Lace Detail Button Up Sleeved Blouse</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Dear Lover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Army-Green-Lace-Detail-Button-Up-Sleeved-Blouse-LC25881-9-18569.JPG?v=1492727976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dear Lover<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's all in the shape of this of this top with a flowing silhouette and handkerchief hem. Insets of floral lace crochet and crisp pleats accentuate the Victorian feel of a front-button blouse relaxed with a breezy silhouette and skin-baring V-neckline 3/4 sleeves.</p>
+[features]
+<p>Army Green, Black, Blue, Dark Green, Gray, Deep Red or Terracotta<br>4 Buttons Down Front<br>Floral Crochet Pattern<br>3/4 Sleeves</p>
+[/features] [materials]
+<p>Hand Wash Cold<br>Hang Dry<br>Imported Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Bust</td>
+<td style="height: 20px;">Waist</td>
+<td style="height: 20px;">Length</td>
+<td style="height: 20px;">Sleeve</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">36"</td>
+<td style="height: 20px;">34.5"</td>
+<td style="height: 20px;">27.5"</td>
+<td style="height: 20px;">20.75"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8-10)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">36.5"</td>
+<td style="height: 20px;">28"</td>
+<td style="height: 20px;">21"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Large (12-14)</td>
+<td style="height: 20px;">40"</td>
+<td style="height: 20px;">38.5"</td>
+<td style="height: 20px;">29"</td>
+<td style="height: 20px;">21.25"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">X-Large (14-16)</td>
+<td style="height: 20.5px;">43"</td>
+<td style="height: 20.5px;">41"</td>
+<td style="height: 20.5px;">29.5"</td>
+<td style="height: 20.5px;">21.75"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Army Green</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Dark Green</s:tag>
+    <s:tag>Deep Red</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Large (12-14)</s:tag>
+    <s:tag>Medium (8-10)</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Small (4-6)</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Terracotta</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:tag>X-Large (14-16)</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Blue / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21533-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Blue / X-Large (14-16)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21533-LC25881-XL</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Gray / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21534-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Gray / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21534-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Gray / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21534-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Terracotta / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21535-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Terracotta / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21535-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Terracotta / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21535-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Terracotta / X-Large (14-16)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21535-LC25881-XL</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Army Green / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21536-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Army Green / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21536-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Army Green / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21536-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Army Green / X-Large (14-16)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21536-LC25881-XL</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Dark Green / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21537-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Dark Green / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21537-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Dark Green / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21537-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Dark Green / X-Large (14-16)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21537-LC25881-XL</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Deep Red / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21538-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Deep Red / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21538-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Deep Red / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21538-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Black / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21539-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Black / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21539-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Black / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21539-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4813367214182</id>
+    <published>2020-05-05T15:51:06-05:00</published>
+    <updated>2020-05-05T15:51:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/blue-and-white-star-pattern-top-and-red-light-corduroy-shorts-set"/>
+    <title>Blue and White Star Pattern Top and Red Light Corduroy Shorts Set</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/StarsStripesOutfit-Jane.jpg?v=1588748928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This adorable two piece set is perfect for Memorial Day, 4th of July, and all Summer long. The top has a drop shoulder neckline and features a star pattern and ric-rac accent matching the shorts. The red shorts have light corduroy texture, elastic waist and a matching ribbon belt.</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p><strong>Top:</strong><br>95% Polyester, 5% Spandex<br>Hand wash cold.<br>Hang dry.</p>
+<p><strong>Bottom:</strong><br>97% Cotton, 3% Spandex<br>Hand wash cold.<br>Hang dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12-18M</s:tag>
+    <s:tag>20-30</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5Y</s:tag>
+    <s:tag>6Y</s:tag>
+    <s:tag>7Y</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Memorial Day</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>12-18M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34825</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>2T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34826</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>3T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34827</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>4T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34828</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>5Y</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34829</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>6Y</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34830</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>7Y</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34831</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4574538989670</id>
+    <published>2020-02-06T09:28:08-06:00</published>
+    <updated>2020-02-06T09:28:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/girls-plaid-sundress-2-colors-1"/>
+    <title>Girls Plaid Sundress - 2 Colors</title>
+    <s:type>Girls - Dresses</s:type>
+    <s:vendor>Shi Shi Sheng Shang Garment Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_9224_f716687f-a59b-46b5-9950-7de02357aa99.jpg?v=1581048142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shi Shi Sheng Shang Garment Co.<br>
+        <strong>Type: </strong>Girls - Dresses<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These plaid sundresses are the perfect addition to your little girls summer wardrobe.  The lace straps make an "X" in the back and tie at waist.  Ruffles have pom pom detailing.  Perfect for your summer cook outs and July 4th festivities!</p>
+<p>95% Polyester, 5% Spandex</p>
+<p>Hand Wash Cold, Hang Dry</p>
+<p>Imported</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>20-30</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Clothing</s:tag>
+    <s:tag>Girls - Dresses</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4574538989670</id>
+      <title>12-18 Months / Red</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>33842-80</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4574538989670</id>
+      <title>12-18 Months / Blue</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>33841-80</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4574538989670</id>
+      <title>2T / Red</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>33842-90</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4574538989670</id>
+      <title>2T / Blue</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>33841-90</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4574538989670</id>
+      <title>3T / Red</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>33842-100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4574538989670</id>
+      <title>3T / Blue</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>33841-100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4574538989670</id>
+      <title>4T / Red</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>33842-110</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4574538989670</id>
+      <title>4T / Blue</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>33841-110</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4574538989670</id>
+      <title>5 / Red</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>33842-120</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4574538989670</id>
+      <title>5 / Blue</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>33841-120</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3879961133158</id>
+    <published>2019-08-16T11:30:23-05:00</published>
+    <updated>2019-08-16T11:30:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/unisex-colorful-toddler-pullover-fleece-hoodie-13-colors-1"/>
+    <title>Unisex Colorful Toddler Full-Zip Fleece Hoodie - 8 Colors</title>
+    <s:type>Girls - Tops</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_7891.jpg?v=1565972974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls - Tops<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>An all-season favorite for cooler weather or on a windy day. Specially made with ribbed long sleeve cuffs and bottom to allow for freedom of movement.  DIY Ready! Get creative and add your own embellishments!</span></p>
+<p><strong>Features:</strong><span> </span></p>
+<p>• 7.5 oz. 60/40 combed ringspun cotton/polyester fleece </p>
+<p><span>• </span>Jersey-lined double needle hem hood</p>
+<p>• Topstitched hood, zipper and neck</p>
+<p>• Coverstitched shoulders and armholes</p>
+<p>• Coverstitched ribbed cuffs and bottom band</p>
+<p>• Front pouch pockets</p>
+<p>• Side seam construction</p>
+<p>• EasyTear™ label</p>
+<p>• Machine wash</p>
+<p>• Tumble dry low</p>
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">30"</td>
+<td style="height: 20px;">16"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">31"</td>
+<td style="height: 20px;">17"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-30</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Tops</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Heather Gray</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>Smoke Gray</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Whtie</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Black / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32228-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Black / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32228-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Black / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32228-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Heather Gray / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32229-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Heather Gray / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32229-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Heather Gray / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32229-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Navy / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32230-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Navy / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32230-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Navy / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32230-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Pink / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32231-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Pink / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32231-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Pink / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32231-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Red / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32232-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Red / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32232-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Red / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32232-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Royal Blue / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32233-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Royal Blue / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32233-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Royal Blue / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32233-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Smoke Gray / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32234-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Smoke Gray / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32234-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Smoke Gray / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32234-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>White / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32235-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Whtie / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32235-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>White / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32235-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3879395164262</id>
+    <published>2019-07-24T13:11:51-05:00</published>
+    <updated>2019-07-24T13:11:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/ladies-premium-jersey-tank-10-colors"/>
+    <title>Ladies Relaxed Classic Premium Jersey Tank - 10 Colors</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_7913.jpg?v=1564211479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Classic comfort meets color with these premium jersey scoop neck tanks for women.  </span></p>
+<p><strong>Features:</strong><br><span>• 5.5 oz. 100% combed ringspun cotton premium jersey</span></p>
+<p>• Self-fabric binding on neck, armholes and bottom hem</p>
+<p><span>• </span>Double needle bottom hem</p>
+<p><span>• </span>EasyTear label</p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><span>• Machine wash/Tumble dry low</span></p>
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">36"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">37"</td>
+<td style="height: 20px;">28"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">38"</td>
+<td style="height: 21.4px;">29"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">39"</td>
+<td style="height: 20px;">30"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">41"</td>
+<td style="height: 20px;">31"</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Cobalt Blue</s:tag>
+    <s:tag>Heather Gray</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Papaya</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>Vintage Smoke</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Aqua / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32170-3590-S</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Aqua / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32170-3590-M</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Aqua / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32170-3590-L</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Aqua / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32170-3590-XL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Aqua / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32170-3590-XXL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Cobalt Blue / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32171-3590-S</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Cobalt Blue / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32171-3590-M</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Cobalt Blue / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32171-3590-L</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Cobalt Blue / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32171-3590-XL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Cobalt Blue / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32171-3590-XXL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Heather Gray / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32172-3590-S</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Heather Gray / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32172-3590-M</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Heather Gray / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32172-3590-L</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Heather Gray / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32172-3590-XL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Heather Gray / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32172-3590-XXL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Papaya / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32173-3590-S</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Papaya / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32173-3590-M</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Papaya / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32173-3590-L</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Papaya / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32173-3590-XL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Papaya / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32173-3590-XXL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Hot Pink / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32174-3590-S</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Hot Pink / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32174-3590-M</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Hot Pink / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32174-3590-L</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Hot Pink / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32174-3590-XL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Hot Pink / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32174-3590-XXL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Pink / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32175-3590-S</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Pink / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32175-3590-M</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Pink / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32175-3590-L</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Pink / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32175-3590-XL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Pink / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32175-3590-XXL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Purple / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32176-3590-S</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Purple / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32176-3590-M</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Purple / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32176-3590-L</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Purple / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32176-3590-XL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Purple / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32176-3590-XXL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32177-3590-S</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Red / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32177-3590-M</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32177-3590-L</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Red / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32177-3590-XL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Red / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32177-3590-XXL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Vintage Smoke / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32178-3590-S</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Vintage Smoke / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32178-3590-M</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Vintage Smoke / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32178-3590-L</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Vintage Smoke / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32178-3590-XL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>Vintage Smoke / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32178-3590-XXL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>White / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32179-3590-S</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>White / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32179-3590-M</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>White / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32179-3590-L</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>White / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32179-3590-XL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879395164262</id>
+      <title>White / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32179-3590-XXL</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3532821495910</id>
+    <published>2019-06-09T14:49:04-05:00</published>
+    <updated>2019-06-09T14:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/copy-of-strappy-back-summer-tank-top-1"/>
+    <title>Summer Crop Top</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Dear Lover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31922.jpg?v=1560150273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dear Lover<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This crop top is perfect for Hot Summer Days &amp; Nights.  It looks amazing with shorts and jeans.  The tie around the waist gives it a little extra flair and makes it that much cuter!</p>
+[features]
+<p>Black, Red, Army Green, Pink, White</p>
+[/features] [materials]
+<p>Hand Wash Cold<br>Hang Dry<br>Imported Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Bust</td>
+<td style="height: 20px;">Waist</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4)</td>
+<td style="height: 20px;">33.5"</td>
+<td style="height: 20px;"></td>
+<td style="height: 20px;"></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (6)</td>
+<td style="height: 20px;">35"</td>
+<td style="height: 20px;"></td>
+<td style="height: 20px;"></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Large (8)</td>
+<td style="height: 20px;">37"</td>
+<td style="height: 20px;"></td>
+<td style="height: 20px;"></td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">X-Large (10)</td>
+<td style="height: 20.5px;">40"</td>
+<td style="height: 20.5px;"></td>
+<td style="height: 20.5px;"></td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>4</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>Army Green</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Large (8)</s:tag>
+    <s:tag>Medium (6)</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Small (4)</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:tag>X-Large (10)</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Black / Small (4)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31923-sj_vd5091</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Black / Medium (6)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31923-sj_vd5091</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Black / Large (8)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31923-sj_vd5091</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Black / X-Large (10)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31923-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Army Green / Small (4)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31926-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Army Green / Medium (6)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31926-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Army Green / Large (8)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31926-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Army Green / X-Large (10)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31926-sj_vd5091</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Red / Small (4)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31922-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Red / Medium (6)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31922-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Red / Large (8)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31922-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Red / X-Large (10)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31922-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Pink / Small (4)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31925-sj_vd5091</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Pink / Medium (6)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31925-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Pink / Large (8)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31925-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Pink / X-Large (10)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31925-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>White / Small (4)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31924-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>White / Medium (6)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31924-sj_vd5091</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>White / Large (8)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31924-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>White / X-Large (10)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31924-sj_vd5091</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3528172109926</id>
+    <published>2019-05-31T13:50:34-05:00</published>
+    <updated>2019-05-31T13:50:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/my-first-red-white-boom-bodysuit"/>
+    <title>My First Red White &amp; BOOM Bodysuit</title>
+    <s:type>Boys - Graphic Bodysuits</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31425-bs.jpg?v=1561965140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Boys - Graphic Bodysuits<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> These adorable bodysuit are super stylish, soft and comfortable for play time! Perfect for photos!!</p>
+<p>[features]</p>
+<p><span>• My First Red White &amp; BOOM Bodysuit</span></p>
+<p>[/features] [materials]</p>
+<p><span>• </span>Hand Wash Cold<br><span>• </span>Hang Dry<br><span>• </span>Imported Material</p>
+<p><span>[/materials]</span></p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Soft T-Shirt Material</p>
+<p><span>Sizes</span></p>
+<p><span>• Newborn</span></p>
+<p><span>• 6 Months</span></p>
+<p><span>• 12 Months</span></p>
+<p><span>• 18 Months</span></p>
+<p><span>• 24 Months</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 Months</s:tag>
+    <s:tag>0-6M</s:tag>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>24 Months</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3528172109926</id>
+      <title>Newborn</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31425-BSNBRN</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3528172109926</id>
+      <title>6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31425-BS6MO</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3528172109926</id>
+      <title>12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31425-BS12MO</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3528172109926</id>
+      <title>18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31425-BS18MO</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3528172109926</id>
+      <title>24 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31425-BS24MO</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3519282741350</id>
+    <published>2019-05-20T13:34:49-05:00</published>
+    <updated>2019-05-20T13:34:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/red-white-blue-country-girl-graphic-t-shirt-bandanna-set"/>
+    <title>Red, White &amp; Blue Country Girl - Graphic T-Shirt &amp; Bandanna Set</title>
+    <s:type>Girls - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31726-wt-red-band.jpg?v=1561014681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable short sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• Two pieces</p>
+<p>• Bandanna</p>
+<p>• Red, White &amp; Blue Country Girl Graphic T-Shirt</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% cotton</p>
+<p>• Soft material</p>
+<p>• Machine wash cold</p>
+<p>• Tumble dry low</p>
+<p>• Imported</p>
+<p>• Lightweight</p>
+<p>Fit &amp; Sizing:</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">18"</td>
+<td style="height: 20px;">12"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">20"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">18 Months</td>
+<td style="height: 20px;">21"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">24"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">26"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">28"</td>
+<td style="height: 20.5px;">15.5"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">30"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">7 Years</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">19.5"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Graphic T-Shirts</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519282741350</id>
+      <title>6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>31726-Tshirt-6M-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519282741350</id>
+      <title>12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>31726-Tshirt-12M-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519282741350</id>
+      <title>18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>31726-Tshirt-18M-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519282741350</id>
+      <title>2T</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>31726-Tshirt-2T-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519282741350</id>
+      <title>3T</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>31726-Tshirt-3T-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519282741350</id>
+      <title>4T</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>31726-Tshirt-4T-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519282741350</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>31726-Tshirt-5/6Y-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519282741350</id>
+      <title>7 Years</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>31726-Tshirt-7Y-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3519228837990</id>
+    <published>2019-05-20T12:03:33-05:00</published>
+    <updated>2019-05-20T12:03:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/american-cowgirl-graphic-t-shirt-bandanna-set"/>
+    <title>American Cowgirl - Graphic T-Shirt &amp; Bandanna Set</title>
+    <s:type>Girls - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30327-wt-rwb-band.jpg?v=1561014664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable short sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• Two pieces</p>
+<p>• Bandanna</p>
+<p>• American Cowgirl Graphic T-Shirt</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% cotton</p>
+<p>• Soft material</p>
+<p>• Machine wash cold</p>
+<p>• Tumble dry low</p>
+<p>• Imported</p>
+<p>• Lightweight</p>
+<p>Fit &amp; Sizing:</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">18"</td>
+<td style="height: 20px;">12"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">20"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">18 Months</td>
+<td style="height: 20px;">21"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">24"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">26"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">28"</td>
+<td style="height: 20.5px;">15.5"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">30"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">7 Years</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">19.5"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Graphic T-Shirts</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519228837990</id>
+      <title>6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>30327-Tshirt-6M-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519228837990</id>
+      <title>12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>30327-Tshirt-12M-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519228837990</id>
+      <title>18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>30327-Tshirt-18M-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519228837990</id>
+      <title>2T</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>30327-Tshirt-2T-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519228837990</id>
+      <title>3T</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>30327-Tshirt-3T-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519228837990</id>
+      <title>4T</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>30327-Tshirt-4T-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519228837990</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>30327-Tshirt-5/6Y-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3519228837990</id>
+      <title>7 Years</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>30327-Tshirt-7Y-Bandna</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3504441589862</id>
+    <published>2019-05-06T16:07:21-05:00</published>
+    <updated>2019-05-06T16:07:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/4th-of-july-dress-navy-white-red-with-stars-lace"/>
+    <title>4th Of July Dress - Navy, White &amp; Red with Stars &amp; Lace</title>
+    <s:type>Girls - Dresses</s:type>
+    <s:vendor>jamieyu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31460.jpg?v=1559804796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jamieyu<br>
+        <strong>Type: </strong>Girls - Dresses<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adorable dress is super stylish for your little girl. Too cute for photo shoots and Perfect for 4th of July!</p>
+<p>[features]</p>
+<p>• 1 piece</p>
+<p>• Red, White &amp; Navy</p>
+<p>• Navy with White Stars</p>
+<p>• White Lace and Red Trim Ruffles</p>
+<p>[/features][materials]</p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12-18 Months</td>
+<td style="height: 20px;">21"</td>
+<td style="height: 20px;"><span>21"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;"><span>22"</span></td>
+<td style="height: 20px;"><span>23"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;"><span>23"</span></td>
+<td style="height: 20px;"><span>24"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">4T</td>
+<td style="height: 20px;"><span>24"</span></td>
+<td style="height: 20px;"><span>24"</span></td>
+</tr>
+<tr style="height: 17px;">
+<td style="height: 17px;">5 Years</td>
+<td style="height: 17px;"><span>25"</span></td>
+<td style="height: 17px;"><span>25"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Years</td>
+<td style="height: 20px;"><span>26"</span></td>
+<td style="height: 20px;"><span>26"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">7 Years</td>
+<td style="height: 20px;"><span>27"</span></td>
+<td style="height: 20px;"><span>27"</span></td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5 Years</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Dresses</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504441589862</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31460-XS</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504441589862</id>
+      <title>2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31460-S</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504441589862</id>
+      <title>3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31460-M</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504441589862</id>
+      <title>4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31460-L</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504441589862</id>
+      <title>5 Years</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31460-XL</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504441589862</id>
+      <title>6 Years</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31460-2XL</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504441589862</id>
+      <title>7 Years</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31460-3XL</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3504436871270</id>
+    <published>2019-05-06T15:53:39-05:00</published>
+    <updated>2019-05-06T15:53:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/anchors-away-dress-navy-white-red-with-anchors-stripes"/>
+    <title>Anchors Away Dress - Navy, White &amp; Red with Anchors &amp; Stripes</title>
+    <s:type>Girls - Dresses</s:type>
+    <s:vendor>jamieyu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31459.jpg?v=1559804795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jamieyu<br>
+        <strong>Type: </strong>Girls - Dresses<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adorable dress is super stylish for your little girl. Too cute for photo shoots and Perfect for 4th of July!</p>
+<p>[features]</p>
+<p>• 1 piece</p>
+<p>• Red, White &amp; Navy</p>
+<p>• Navy with White Anchors &amp; Stripes</p>
+<p>• Large Red Bow</p>
+<p>[/features][materials]</p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12-18 Months</td>
+<td style="height: 20px;">22"</td>
+<td style="height: 20px;"><span>19"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;"><span>22"</span></td>
+<td style="height: 20px;">22<span>"</span>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;"><span>23"</span></td>
+<td style="height: 20px;">22<span>"</span>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">4T</td>
+<td style="height: 20px;"><span>24"</span></td>
+<td style="height: 20px;"><span>23"</span></td>
+</tr>
+<tr style="height: 17px;">
+<td style="height: 17px;">5 Years</td>
+<td style="height: 17px;"><span>25"</span></td>
+<td style="height: 17px;"><span>23.5"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Years</td>
+<td style="height: 20px;"><span>26"</span></td>
+<td style="height: 20px;"><span>24"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">7 Years</td>
+<td style="height: 20px;"><span>27"</span></td>
+<td style="height: 20px;"><span>25.5"</span></td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>4th of July Sets</s:tag>
+    <s:tag>5 Years</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Dresses</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504436871270</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31459-XS</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504436871270</id>
+      <title>2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31459-S</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504436871270</id>
+      <title>3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31459-M</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504436871270</id>
+      <title>4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31459-L</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504436871270</id>
+      <title>5 Years</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31459-XL</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504436871270</id>
+      <title>6 Years</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31459-2XL</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3504436871270</id>
+      <title>7 Years</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31459-3XL</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3502012072038</id>
+    <published>2019-05-03T13:59:24-05:00</published>
+    <updated>2019-05-03T13:59:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/usa-holiday-2-piece-outfit-top-capris"/>
+    <title>USA Holiday 2 Piece Outfit - Top &amp; Capris</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_6847_c353171b-5584-48e9-aad1-15852724360b.jpg?v=1557201884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[features]</p>
+<p>• 2 pieces</p>
+<p>• Red, White and Navy Striped Sleeveless Top</p>
+<p>• Navy Capri Pants with Red Bows</p>
+<p>• Extra cute for photos!</p>
+<p>[/features][materials]</p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px; width: 24.5387%;">Size</td>
+<td style="height: 20px; width: 11.7343%;">Chest</td>
+<td style="height: 20px; width: 21.2915%;">Top Length</td>
+<td style="height: 20px; width: 10.8856%;">Waist (Stretched)</td>
+<td style="height: 20px; width: 25.8303%;">Pants Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">12-18 Months</td>
+<td style="height: 20px; width: 11.7343%;">21"</td>
+<td style="height: 20px; width: 21.2915%;"><span>19"</span></td>
+<td style="height: 20px; width: 10.8856%;"><span>26"</span></td>
+<td style="height: 20px; width: 25.8303%;">12<span>"</span>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">2T</td>
+<td style="height: 20px; width: 11.7343%;"><span>22"</span></td>
+<td style="height: 20px; width: 21.2915%;"><span>20"</span></td>
+<td style="height: 20px; width: 10.8856%;"><span>26"</span></td>
+<td style="height: 20px; width: 25.8303%;">13<span>"</span>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">3T</td>
+<td style="height: 20px; width: 11.7343%;"><span>22"</span></td>
+<td style="height: 20px; width: 21.2915%;"><span>21"</span></td>
+<td style="height: 20px; width: 10.8856%;"><span>28"</span></td>
+<td style="height: 20px; width: 25.8303%;"><span>13.5"</span></td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px; width: 24.5387%;">4T</td>
+<td style="height: 20.5px; width: 11.7343%;"><span>23"</span></td>
+<td style="height: 20.5px; width: 21.2915%;"><span>23"</span></td>
+<td style="height: 20px; width: 10.8856%;"><span>28"</span></td>
+<td style="height: 20.5px; width: 25.8303%;"><span>15"</span></td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px; width: 24.5387%;">5 Years</td>
+<td style="height: 20.5px; width: 11.7343%;"><span>24"</span></td>
+<td style="height: 20.5px; width: 21.2915%;"><span>23.5</span></td>
+<td style="height: 20px; width: 10.8856%;"><span>30"</span></td>
+<td style="height: 20.5px; width: 25.8303%;"><span>15"</span></td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px; width: 24.5387%;">6 Years</td>
+<td style="height: 20.5px; width: 11.7343%;"><span>25"</span></td>
+<td style="height: 20.5px; width: 21.2915%;">24<span>"</span>
+</td>
+<td style="height: 20px; width: 10.8856%;"><span>30"</span></td>
+<td style="height: 20.5px; width: 25.8303%;"><span>16"</span></td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px; width: 24.5387%;">7 Years</td>
+<td style="height: 20.5px; width: 11.7343%;"><span>25"</span></td>
+<td style="height: 20.5px; width: 21.2915%;">25<span>"</span>
+</td>
+<td style="height: 20px; width: 10.8856%;"><span>30"</span></td>
+<td style="height: 20.5px; width: 25.8303%;"><span>17"</span></td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>4th of July Sets</s:tag>
+    <s:tag>5 Years</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Red/White/Blue</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>stripes</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3502012072038</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31396-XS</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3502012072038</id>
+      <title>2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31396-S</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3502012072038</id>
+      <title>3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31396-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3502012072038</id>
+      <title>4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31396-L</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3502012072038</id>
+      <title>5 Years</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31396-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3502012072038</id>
+      <title>6 Years</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31396-XXL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3502012072038</id>
+      <title>7 Years</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31396-XXXL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501979271270</id>
+    <published>2019-05-03T13:19:34-05:00</published>
+    <updated>2019-05-03T13:19:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/young-wild-free-graphic-t-shirt-short-3-piece-set"/>
+    <title>Young Wild &amp; Free - Graphic T-Shirt &amp; Short 3 Piece Set</title>
+    <s:type>Girls - Mix &amp; Match Sets</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30924-wt-31138-usa-bow.jpg?v=1559545615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Mix &amp; Match Sets<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable short sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• 3 Pieces</p>
+<p><span>• Young Wild &amp; Free Graphic T-Shirt</span></p>
+<p><span>• Denim Shorts</span></p>
+<p><span>• Matching Bow</span></p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% cotton</p>
+<p>• Soft material</p>
+<p>• Machine wash cold</p>
+<p>• Tumble dry low</p>
+<p>• Imported</p>
+<p>• Lightweight</p>
+<p>Fit &amp; Sizing:</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px; width: 24.5387%;">Size</td>
+<td style="height: 20px; width: 11.7343%;">
+<p>Elastic Waist (stretched)</p>
+</td>
+<td style="height: 20px; width: 21.2915%;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">3T</td>
+<td style="height: 20px; width: 11.7343%;">22"</td>
+<td style="height: 20px; width: 21.2915%;"><span>8"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">4T</td>
+<td style="height: 20px; width: 11.7343%;">24"</td>
+<td style="height: 20px; width: 21.2915%;"><span>9"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">5 Years</td>
+<td style="height: 20px; width: 11.7343%;"><span>24"</span></td>
+<td style="height: 20px; width: 21.2915%;"><span>9.5"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">6 Years</td>
+<td style="height: 20px; width: 11.7343%;"><span>25"</span></td>
+<td style="height: 20px; width: 21.2915%;"><span>10"</span></td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px; width: 24.5387%;">7 Years</td>
+<td style="height: 20.5px; width: 11.7343%;"><span>26"</span></td>
+<td style="height: 20.5px; width: 21.2915%;"><span>10"</span></td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5 Years</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Girls - Mix &amp; Match Sets</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501979271270</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30924-31138-Tshirt-3T-BOW</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501979271270</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30924-31138-Tshirt-4T-BOW</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501979271270</id>
+      <title>5 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30924-31138-Tshirt-5Y-BOW</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501979271270</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30924-31138-6Y-BOW</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501979271270</id>
+      <title>7 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30924-31138-Tshirt-7Y-BOW</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501978189926</id>
+    <published>2019-05-03T13:17:25-05:00</published>
+    <updated>2019-05-03T13:17:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/uncle-sam-personalized-graphic-t-shirt"/>
+    <title>Uncle Sam Personalized Graphic T-Shirt</title>
+    <s:type>Girls, Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31359-wt.jpg?v=1559545613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable short sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• Uncle Sam Personalized Graphic T-Shirt</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% cotton</p>
+<p>• Soft material</p>
+<p>• Machine wash cold</p>
+<p>• Tumble dry low</p>
+<p>• Imported</p>
+<p>• Lightweight</p>
+<p>Fit &amp; Sizing:</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">18"</td>
+<td style="height: 20px;">12"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">20"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">18 Months</td>
+<td style="height: 20px;">21"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">24"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">26"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">28"</td>
+<td style="height: 20.5px;">15.5"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">30"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">7 Years</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">19.5"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Graphic T-Shirts</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501978189926</id>
+      <title>6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31359-Tshirt-6M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501978189926</id>
+      <title>12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31359-Tshirt-12M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501978189926</id>
+      <title>18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31359-Tshirt-18M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501978189926</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31359-Tshirt-2T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501978189926</id>
+      <title>3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31359-Tshirt-3T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501978189926</id>
+      <title>4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31359-Tshirt-4T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501978189926</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31359-Tshirt-5/6Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501978189926</id>
+      <title>7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31359-Tshirt-7Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501970620518</id>
+    <published>2019-05-03T13:09:53-05:00</published>
+    <updated>2019-05-03T13:09:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/happy-4th-of-july-graphic-t-shirt"/>
+    <title>Happy 4th Of July Graphic T-Shirt</title>
+    <s:type>Girls, Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31357-wt.jpg?v=1559545610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable short sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• Happy 4th Of July Graphic T-Shirt</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% cotton</p>
+<p>• Soft material</p>
+<p>• Machine wash cold</p>
+<p>• Tumble dry low</p>
+<p>• Imported</p>
+<p>• Lightweight</p>
+<p>Fit &amp; Sizing:</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">18"</td>
+<td style="height: 20px;">12"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">20"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">18 Months</td>
+<td style="height: 20px;">21"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">24"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">26"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">28"</td>
+<td style="height: 20.5px;">15.5"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">30"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">7 Years</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">19.5"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Graphic T-Shirts</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501970620518</id>
+      <title>6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31357-Tshirt-6M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501970620518</id>
+      <title>12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31357-Tshirt-12M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501970620518</id>
+      <title>18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31357-Tshirt-18M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501970620518</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31357-Tshirt-2T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501970620518</id>
+      <title>3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31357-Tshirt-3T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501970620518</id>
+      <title>4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31357-Tshirt-4T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501970620518</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31357-Tshirt-5/6Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501970620518</id>
+      <title>7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31357-Tshirt-7Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501969244262</id>
+    <published>2019-05-03T13:08:07-05:00</published>
+    <updated>2019-05-03T13:08:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/usa-graffiti-graphic-t-shirt"/>
+    <title>USA Graffiti Graphic T-Shirt</title>
+    <s:type>Girls, Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31308-wt.jpg?v=1559545609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable short sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• USA Graffiti Graphic T-Shirt</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% cotton</p>
+<p>• Soft material</p>
+<p>• Machine wash cold</p>
+<p>• Tumble dry low</p>
+<p>• Imported</p>
+<p>• Lightweight</p>
+<p>Fit &amp; Sizing:</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">18"</td>
+<td style="height: 20px;">12"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">20"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">18 Months</td>
+<td style="height: 20px;">21"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">24"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">26"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">28"</td>
+<td style="height: 20.5px;">15.5"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">30"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">7 Years</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">19.5"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Graphic T-Shirts</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501969244262</id>
+      <title>6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31308-Tshirt-6M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501969244262</id>
+      <title>12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31308-Tshirt-12M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501969244262</id>
+      <title>18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31308-Tshirt-18M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501969244262</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31308-Tshirt-2T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501969244262</id>
+      <title>3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31308-Tshirt-3T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501969244262</id>
+      <title>4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31308-Tshirt-4T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501969244262</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31308-Tshirt-5/6Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501969244262</id>
+      <title>7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31308-Tshirt-7Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501934411878</id>
+    <published>2019-05-03T12:32:42-05:00</published>
+    <updated>2019-05-03T12:32:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/god-bless-america-graphic-t-shirt"/>
+    <title>God Bless America Graphic T-Shirt</title>
+    <s:type>Girls, Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31240-wt.jpg?v=1559545608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adorable short sleeve "God Bless America" t-shirt is super stylish for your little one.</p>
+<p>Kids' American Flag Shirt Details:</p>
+<p>• God Bless America Graphic T-Shirt</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% cotton</p>
+<p>• Soft material</p>
+<p>• Machine wash cold</p>
+<p>• Tumble dry low</p>
+<p>• Imported</p>
+<p>• Lightweight</p>
+<p>Fit &amp; Sizing:</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">18"</td>
+<td style="height: 20px;">12"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">20"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">18 Months</td>
+<td style="height: 20px;">21"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">24"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">26"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">28"</td>
+<td style="height: 20.5px;">15.5"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">30"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">7 Years</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">19.5"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Graphic T-Shirts</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501934411878</id>
+      <title>6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31240-Tshirt-6M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501934411878</id>
+      <title>12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31240-Tshirt-12M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501934411878</id>
+      <title>18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31240-Tshirt-18M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501934411878</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31240-Tshirt-2T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501934411878</id>
+      <title>3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31240-Tshirt-3T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501934411878</id>
+      <title>4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31240-Tshirt-4T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501934411878</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31240-Tshirt-5/6Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501934411878</id>
+      <title>7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31240-Tshirt-7Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501928710246</id>
+    <published>2019-05-03T12:27:55-05:00</published>
+    <updated>2019-05-03T12:27:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/young-wild-free-graphic-t-shirt-bow-set-1"/>
+    <title>Young Wild &amp; Free Graphic T-Shirt</title>
+    <s:type>Girls, Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30924-wt.jpg?v=1559545606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable short sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• Young Wild &amp; Free Graphic T-Shirt</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% cotton</p>
+<p>• Soft material</p>
+<p>• Machine wash cold</p>
+<p>• Tumble dry low</p>
+<p>• Imported</p>
+<p>• Lightweight</p>
+<p>Fit &amp; Sizing:</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">18"</td>
+<td style="height: 20px;">12"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">20"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">18 Months</td>
+<td style="height: 20px;">21"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">24"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">26"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">28"</td>
+<td style="height: 20.5px;">15.5"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">30"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">7 Years</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">19.5"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Graphic T-Shirts</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501928710246</id>
+      <title>6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>30924-Tshirt-6M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501928710246</id>
+      <title>12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>30924-Tshirt-12M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501928710246</id>
+      <title>18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>30924-Tshirt-18M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501928710246</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>30924-Tshirt-2T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501928710246</id>
+      <title>3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>30924-Tshirt-3T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501928710246</id>
+      <title>4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>30924-Tshirt-4T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501928710246</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>30924-Tshirt-5/6Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501928710246</id>
+      <title>7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>30924-Tshirt-7Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501892075622</id>
+    <published>2019-05-03T11:55:24-05:00</published>
+    <updated>2019-05-03T11:55:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/happy-4th-of-july-with-stars-white-jersey-dress-2pc-dress-bow-set"/>
+    <title>Happy 4th of July with Stars White Jersey Dress - 2pc Dress &amp; Bow Set</title>
+    <s:type>Girls - Dresses</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/34316-white-dress-white-bow.jpg?v=1559545605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls - Dresses<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[features]</p>
+<p><span>• 2 Pieces</span></p>
+<p>• Happy 4th of July with Stars Graphic Dress</p>
+<p>• Matching Bow</p>
+<p>[/features][materials]</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Soft Material</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Length</td>
+<td style="height: 20px;">Chest</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">15"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">16"</td>
+<td style="height: 20px;">18"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;"><span>18 Months</span></td>
+<td style="height: 20px;">17"</td>
+<td style="height: 20px;">19"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;"><span>24 Months</span></td>
+<td style="height: 20.5px;">18"</td>
+<td style="height: 20.5px;">20"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">2T</td>
+<td style="height: 20.5px;">20"</td>
+<td style="height: 20.5px;">21"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">3T</td>
+<td style="height: 20.5px;">22"</td>
+<td style="height: 20.5px;">23"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">23.5"</td>
+<td style="height: 20.5px;">25"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">25"</td>
+<td style="height: 20.5px;">27"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Dresses</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501892075622</id>
+      <title>6 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34316-31141-6M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501892075622</id>
+      <title>12 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34316-31141-12M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501892075622</id>
+      <title>18 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34316-31141-18M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501892075622</id>
+      <title>2T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34316-31141-2T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501892075622</id>
+      <title>3T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34316-31141-3T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501892075622</id>
+      <title>4T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34316-31141-4T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501892075622</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34316-31141-5/6-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501887553638</id>
+    <published>2019-05-03T11:51:29-05:00</published>
+    <updated>2019-05-03T11:51:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/boom-in-the-usa-gray-jersey-dress-2pc-dress-bow-set"/>
+    <title>Born In The USA Gray Jersey Dress - 2pc Dress &amp; Bow Set</title>
+    <s:type>Girls - Dresses</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31363-gray-dress-red-bow.jpg?v=1559545604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls - Dresses<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[features]</p>
+<p><span>• 2 Pieces</span></p>
+<p>• Boom In The USA Graphic Dress</p>
+<p>• Matching Bow</p>
+<p>[/features][materials]</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Soft Material</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Length</td>
+<td style="height: 20px;">Chest</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">15"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">16"</td>
+<td style="height: 20px;">18"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;"><span>18 Months</span></td>
+<td style="height: 20px;">17"</td>
+<td style="height: 20px;">19"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;"><span>24 Months</span></td>
+<td style="height: 20.5px;">18"</td>
+<td style="height: 20.5px;">20"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">2T</td>
+<td style="height: 20.5px;">20"</td>
+<td style="height: 20.5px;">21"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">3T</td>
+<td style="height: 20.5px;">22"</td>
+<td style="height: 20.5px;">23"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">23.5"</td>
+<td style="height: 20.5px;">25"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">25"</td>
+<td style="height: 20.5px;">27"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Dresses</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501887553638</id>
+      <title>6 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31363-31143-6M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501887553638</id>
+      <title>12 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31363-31143-12M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501887553638</id>
+      <title>18 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31363-31143-18M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501887553638</id>
+      <title>2T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31363-31143-2T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501887553638</id>
+      <title>3T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31363-31143-3T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501887553638</id>
+      <title>4T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31363-31143-4T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501887553638</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31363-31143-5/6-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501886144614</id>
+    <published>2019-05-03T11:49:38-05:00</published>
+    <updated>2019-05-03T11:49:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/happy-4th-of-july-gray-jersey-dress-2pc-dress-bow-set"/>
+    <title>Happy 4th of July Gray Jersey Dress - 2pc Dress &amp; Bow Set</title>
+    <s:type>Girls - Dresses</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/grat-dress-31357-red-bow.jpg?v=1559545603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls - Dresses<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[features]</p>
+<p><span>• 2 Pieces</span></p>
+<p>• Happy 4th of July Graphic Dress</p>
+<p>• Matching Bow</p>
+<p>[/features][materials]</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Soft Material</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Length</td>
+<td style="height: 20px;">Chest</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">15"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">16"</td>
+<td style="height: 20px;">18"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;"><span>18 Months</span></td>
+<td style="height: 20px;">17"</td>
+<td style="height: 20px;">19"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;"><span>24 Months</span></td>
+<td style="height: 20.5px;">18"</td>
+<td style="height: 20.5px;">20"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">2T</td>
+<td style="height: 20.5px;">20"</td>
+<td style="height: 20.5px;">21"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">3T</td>
+<td style="height: 20.5px;">22"</td>
+<td style="height: 20.5px;">23"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">23.5"</td>
+<td style="height: 20.5px;">25"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">25"</td>
+<td style="height: 20.5px;">27"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Dresses</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501886144614</id>
+      <title>6 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31143-6M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501886144614</id>
+      <title>12 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31143-12M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501886144614</id>
+      <title>18 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31143-18M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501886144614</id>
+      <title>2T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31143-2T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501886144614</id>
+      <title>3T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31143-3T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501886144614</id>
+      <title>4T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31143-4T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501886144614</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31143-5/6-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501854097510</id>
+    <published>2019-05-03T11:21:44-05:00</published>
+    <updated>2019-05-03T11:21:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/personalized-uncle-sam-white-jersey-dress-2pc-dress-bow-set"/>
+    <title>Personalized Aunt Martha White Jersey Dress - 2pc Dress &amp; Bow Set</title>
+    <s:type>Girls - Dresses</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31360-dress--red-bow-girl.jpg?v=1559545602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls - Dresses<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[features]</p>
+<p><span>• 2 Pieces</span></p>
+<p>• Personalized Aunt Martha Graphic Dress</p>
+<p>• Matching Bow</p>
+<p>[/features][materials]</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Soft Material</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Length</td>
+<td style="height: 20px;">Chest</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">15"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">16"</td>
+<td style="height: 20px;">18"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;"><span>18 Months</span></td>
+<td style="height: 20px;">17"</td>
+<td style="height: 20px;">19"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;"><span>24 Months</span></td>
+<td style="height: 20.5px;">18"</td>
+<td style="height: 20.5px;">20"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">2T</td>
+<td style="height: 20.5px;">20"</td>
+<td style="height: 20.5px;">21"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">3T</td>
+<td style="height: 20.5px;">22"</td>
+<td style="height: 20.5px;">23"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">23.5"</td>
+<td style="height: 20.5px;">25"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">25"</td>
+<td style="height: 20.5px;">27"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Dresses</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501854097510</id>
+      <title>6 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31360-31141-6M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501854097510</id>
+      <title>12 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31360-31141-12M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501854097510</id>
+      <title>18 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31360-31141-18M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501854097510</id>
+      <title>2T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31360-31141-2T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501854097510</id>
+      <title>3T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31360-31141-3T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501854097510</id>
+      <title>4T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31360-31141-4T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501854097510</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31360-31141-5/6-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501851738214</id>
+    <published>2019-05-03T11:19:57-05:00</published>
+    <updated>2019-05-03T11:19:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/happy-4th-of-july-white-jersey-dress-2pc-dress-bow-set"/>
+    <title>Happy 4th of July White Jersey Dress - 2pc Dress &amp; Bow Set</title>
+    <s:type>Girls - Dresses</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31357-31141-red-bow.jpg?v=1559545600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls - Dresses<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[features]</p>
+<p><span>• 2 Pieces</span></p>
+<p>• Happy 4th of July Graphic Dress</p>
+<p>• Matching Bow</p>
+<p>[/features][materials]</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Soft Material</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Length</td>
+<td style="height: 20px;">Chest</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">15"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">16"</td>
+<td style="height: 20px;">18"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;"><span>18 Months</span></td>
+<td style="height: 20px;">17"</td>
+<td style="height: 20px;">19"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;"><span>24 Months</span></td>
+<td style="height: 20.5px;">18"</td>
+<td style="height: 20.5px;">20"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">2T</td>
+<td style="height: 20.5px;">20"</td>
+<td style="height: 20.5px;">21"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">3T</td>
+<td style="height: 20.5px;">22"</td>
+<td style="height: 20.5px;">23"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">23.5"</td>
+<td style="height: 20.5px;">25"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">25"</td>
+<td style="height: 20.5px;">27"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Dresses</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501851738214</id>
+      <title>6 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31141-6M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501851738214</id>
+      <title>12 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31141-12M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501851738214</id>
+      <title>18 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31141-18M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501851738214</id>
+      <title>2T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31141-2T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501851738214</id>
+      <title>3T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31141-3T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501851738214</id>
+      <title>4T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31141-4T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501851738214</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31357-31141-5/6-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501843611750</id>
+    <published>2019-05-03T11:12:43-05:00</published>
+    <updated>2019-05-03T11:12:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/personalized-star-gray-jersey-dress-2pc-dress-bow-set"/>
+    <title>Personalized Star Gray Jersey Dress - 2pc Dress &amp; Bow Set</title>
+    <s:type>Girls - Dresses</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31356-31143-red-bow.jpg?v=1559545599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls - Dresses<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[features]</p>
+<p><span>• 2 Pieces</span></p>
+<p>• Personalized Star Graphic Dress</p>
+<p>• Matching Bow</p>
+<p>[/features][materials]</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Soft Material</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Length</td>
+<td style="height: 20px;">Chest</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">15"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">16"</td>
+<td style="height: 20px;">18"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;"><span>18 Months</span></td>
+<td style="height: 20px;">17"</td>
+<td style="height: 20px;">19"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;"><span>24 Months</span></td>
+<td style="height: 20.5px;">18"</td>
+<td style="height: 20.5px;">20"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">2T</td>
+<td style="height: 20.5px;">20"</td>
+<td style="height: 20.5px;">21"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">3T</td>
+<td style="height: 20.5px;">22"</td>
+<td style="height: 20.5px;">23"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">23.5"</td>
+<td style="height: 20.5px;">25"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">25"</td>
+<td style="height: 20.5px;">27"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Dresses</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501843611750</id>
+      <title>6 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31356-31143-6M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501843611750</id>
+      <title>12 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31356-31143-12M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501843611750</id>
+      <title>18 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31356-31143-18M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501843611750</id>
+      <title>2T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31356-31143-2T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501843611750</id>
+      <title>3T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31356-31143-3T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501843611750</id>
+      <title>4T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31356-31143-4T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501843611750</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31356-31143-5/6-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3501821657190</id>
+    <published>2019-05-03T10:54:43-05:00</published>
+    <updated>2019-05-03T10:54:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/star-spangled-babe-white-jersey-dress-2pc-dress-bow-set"/>
+    <title>Star Spangled Babe White Jersey Dress - 2pc Dress &amp; Bow Set</title>
+    <s:type>Girls - Dresses</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31321-dress-bow.jpg?v=1559545598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls - Dresses<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[features]</p>
+<p><span>• 2 Pieces</span></p>
+<p>• Star Spangled Babe Graphic Dress</p>
+<p>• Matching Bow</p>
+<p>[/features][materials]</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Soft Material</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Length</td>
+<td style="height: 20px;">Chest</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">15"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">16"</td>
+<td style="height: 20px;">18"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;"><span>18 Months</span></td>
+<td style="height: 20px;">17"</td>
+<td style="height: 20px;">19"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;"><span>24 Months</span></td>
+<td style="height: 20.5px;">18"</td>
+<td style="height: 20.5px;">20"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">2T</td>
+<td style="height: 20.5px;">20"</td>
+<td style="height: 20.5px;">21"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">3T</td>
+<td style="height: 20.5px;">22"</td>
+<td style="height: 20.5px;">23"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">23.5"</td>
+<td style="height: 20.5px;">25"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">25"</td>
+<td style="height: 20.5px;">27"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Dresses</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501821657190</id>
+      <title>6 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31321-31141-6M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501821657190</id>
+      <title>12 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31321-31141-12M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501821657190</id>
+      <title>18 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31321-31141-18M-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501821657190</id>
+      <title>2T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31321-31141-2T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501821657190</id>
+      <title>3T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31321-31141-3T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501821657190</id>
+      <title>4T</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31321-31141-4T-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3501821657190</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31321-31141-5/6-BOW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

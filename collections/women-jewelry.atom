@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/women-jewelry.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2017-04-17T14:07:17-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10344449164</id>
+    <published>2017-04-17T14:07:17-05:00</published>
+    <updated>2017-04-17T14:07:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/women-weaving-dreams-bracelet"/>
+    <title>Women Weaving Dreams Bracelet</title>
+    <s:type>Women - Bracelets</s:type>
+    <s:vendor>Praols</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/3899_1024x1024_10327fd1-d231-4737-8ad9-1f862660ebf4.png?v=1520324849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Praols<br>
+        <strong>Type: </strong>Women - Bracelets<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Be Strong. Be Confident. Be Kind. Be you.  Make a difference..... one woman at a time. </span></p>
+<p><span>These bracelets are hand woven by a group of woman artisans in the southeast region of Mexico and the colors they choose are reflected in the vibrant clothes they wear.  We hope they chase your winter blues away. </span></p>
+<p><span>Comes on a card. </span></p>
+<p><span>Size is adjustable, as it ties on.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Blue/Purple</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Green/Blue</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Bracelets</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10344449164</id>
+      <title>Green/Blue</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>3900</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10344449164</id>
+      <title>Blue/Purple</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>3899</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8579202508</id>
+    <published>2016-09-16T08:53:00-05:00</published>
+    <updated>2016-09-16T08:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/unique-mom-bracelet"/>
+    <title>Unique Mom Bracelet</title>
+    <s:type>Women - Bracelets</s:type>
+    <s:vendor>Praols</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/3909.png?v=1474033987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Praols<br>
+        <strong>Type: </strong>Women - Bracelets<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique Mom Bracelets Any time is the perfect time to celebrate a Mother's Love. This hand wire nest with a pearl in the center, base metal chain and three glass beads that add a special touch to this delicate bracelet, and as delicate it may seem just as we think a nest can be, represents a mother who builds her nest piece by piece making it strong so it can withhold almost any storm and with love and patience turns it into a home and while we spread our wings to soar, we know that we have her unconditional love and her nest to return to.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Bracelets</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8579202508</id>
+      <title>Silver</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3909</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8579201804</id>
+    <published>2016-09-16T08:52:00-05:00</published>
+    <updated>2016-09-16T08:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/tree-of-life-bracelet"/>
+    <title>Tree Of Life Bracelet</title>
+    <s:type>Women - Bracelets</s:type>
+    <s:vendor>Praols</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/3904.png?v=1474033966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Praols<br>
+        <strong>Type: </strong>Women - Bracelets<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tree of Life Bracelet Faceted roundels in shades of green and gold come together in this leather knotted bracelet, the card reads: Every fruit bared by a tree, carries its own seed to grow its own tree; so like the essence of a tree, reach for the sky, while remaining grounded by the strength of your roots, if in the process you lose some leaves, just remember that you will grow new ones with the beauty and bounty of wisdom. Handmade in the USA 7" long bracelet/pewter tree of life charm/ natural leather. Story card included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-30</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Gold/Mint</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pewter</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Bracelets</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8579201804</id>
+      <title>Gold/Mint</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3904</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

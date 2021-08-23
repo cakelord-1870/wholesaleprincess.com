@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/girls-bags-and-purses.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2019-04-12T10:10:27-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3483274575974</id>
+    <published>2019-04-12T10:10:27-05:00</published>
+    <updated>2019-04-12T10:10:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/plain-white-pillowcase"/>
+    <title>Plain White Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31256-halloween_pillowcase.jpg?v=1555139378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483274575974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>31256</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1642832101478</id>
+    <published>2019-01-25T15:20:26-06:00</published>
+    <updated>2019-01-25T15:20:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/bunny-ear-easter-basket"/>
+    <title>Bunny Ear Easter Basket</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Bess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30429-30430_2.jpg?v=1551078750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Round Easter Basket with a cute little Bunny face and ears.  Perfect for those Easter Egg Hunts or giving Easter gifts!</span></p>
+<p><span>Measurements   24" round   6" tall</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Easter Basket</s:tag>
+    <s:tag>Easter Bunny</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Girls Boys Women - Bags</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642832101478</id>
+      <title>Blue</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>30429</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642832101478</id>
+      <title>Pink</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>30430</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1642777935974</id>
+    <published>2019-01-25T15:04:29-06:00</published>
+    <updated>2019-01-25T15:04:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/round-polka-dot-easter-basket-tote-personalized"/>
+    <title>Personalized Round Polka Dot Easter Basket/Tote - 5 Colors</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Alice B.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30420-30424.jpg?v=1551078747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice B.<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round Easter Basket with polka dots and ruffles.  Perfect for those Easter Egg Hunts or giving Easter gifts!  Personalized at no additional cost!</p>
+<p>Measurements   27" round   9" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Basket</s:tag>
+    <s:tag>Blue-Personalized</s:tag>
+    <s:tag>Blue-Plain</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Easter Basket</s:tag>
+    <s:tag>Easter Bunny</s:tag>
+    <s:tag>Easter Egg</s:tag>
+    <s:tag>Easter Eggs</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Lime Green-Personalized</s:tag>
+    <s:tag>Lime Green-Plain</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink-Personalized</s:tag>
+    <s:tag>Pink-Plain</s:tag>
+    <s:tag>Purple-Personalized</s:tag>
+    <s:tag>Purple-Plain</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Yellow-Personalized</s:tag>
+    <s:tag>Yellow-Plain</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642777935974</id>
+      <title>Lime Green-Personalized</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30420-Lime-Personalized</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642777935974</id>
+      <title>Lime Green-Plain</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30420-Lime-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642777935974</id>
+      <title>Blue-Personalized</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30421-Blue-Per</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642777935974</id>
+      <title>Blue-Plain</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30421-Blue-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642777935974</id>
+      <title>Pink-Personalized</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30422-Pink-Personalized</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642777935974</id>
+      <title>Pink-Plain</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30422-Pink-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642777935974</id>
+      <title>Yellow-Personalized</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30423-Purple-Personalized</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642777935974</id>
+      <title>Yellow-Plain</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30423-Pink-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642777935974</id>
+      <title>Purple-Personalized</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30424-Purple-Personalized</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1642777935974</id>
+      <title>Purple-Plain</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30424-Purple-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1134636040236</id>
+    <published>2018-08-08T15:05:56-05:00</published>
+    <updated>2018-08-08T15:05:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/north-pole-large-canvas-christmas-bags"/>
+    <title>North Pole Large Canvas Christmas Bags</title>
+    <s:type>Girls, Boys, Women - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28130.jpg?v=1533793322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys, Women - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These canvas holiday gift bags are LARGE and perfect for Santa to deliver lots of goodies to your little ones this holiday season!</span></p>
+<p>27.5" long by 19" wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Girls Boys Women - Bags</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1134636040236</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>28130</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1011429212204</id>
+    <published>2018-05-17T10:37:52-05:00</published>
+    <updated>2018-05-17T10:37:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-whale-personalized-summer-fun-canvas-bag"/>
+    <title>Baby Whale Personalized Summer Fun Canvas Bag</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/24900--font_is_gallimaufry_-_ss-691350937.jpg-2.jpg?v=1529744850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sun's out, fun's out! This set is perfect for outdoor summer parties, birthdays or to just keep cool on those hot summer days. The versatile personalized canvas drawstring bag can be used to tote swimsuits, sunscreen, and any other beach or pool essentials. </p>
+<p>Features:</p>
+<ul>
+<li>3 pieces</li>
+<li>Personalized Canvas bag- 12" wide by 13" tall with rope drawstrings</li>
+<li>Magic Water Balloon pack- How To Use: Each package comes with three sets of 37 water balloons (111 total balloons). Attach each set onto your hose and fill them up until they detach. Each balloon is already tied!</li>
+<li>1 pair of wide-rimmed sunglasses- red frame with yellow earpiece</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Animals</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Birthday</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Mermaid</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1011429212204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>24900</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/463942811687</id>
+    <published>2018-01-27T15:01:50-06:00</published>
+    <updated>2018-01-27T15:01:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/round-cottontail-bunny-easter-basket-with-handle"/>
+    <title>Round Cottontail Bunny Easter Basket/Tote - Personalizable</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/group.jpg?v=1520325080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round personalized Easter Basket for kids with bunny print and cute cottontail.  Choose whether you would prefer a matching bottom or white bottom.  Perfect for those Easter Egg Hunts or giving Easter gifts! This bunny Easter bucket can be customized at no additional cost!</p>
+<p>Measurements: 27" round 9" tall<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Basket</s:tag>
+    <s:tag>Blue-Plain</s:tag>
+    <s:tag>BlueWB-Personalized</s:tag>
+    <s:tag>BlueWB-Plain</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Easter Basket</s:tag>
+    <s:tag>Easter Bunny</s:tag>
+    <s:tag>Easter Egg</s:tag>
+    <s:tag>Easter Eggs</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Lime Green-Plain</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink WB-Personalized</s:tag>
+    <s:tag>Pink-Plain</s:tag>
+    <s:tag>PinkWB-Plain</s:tag>
+    <s:tag>Purple-Personalized</s:tag>
+    <s:tag>Purple-Plain</s:tag>
+    <s:tag>PurpleWB-Personalized</s:tag>
+    <s:tag>PurpleWB-Plain</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>Pink-Personalized</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22538-Pink-Personalized</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>Pink WB-Personalized</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22538-PinkWB-Personalized</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>Pink-Plain</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22538-Pink-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>PinkWB-Plain</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22538-PinkWB-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>Lime Green-Personalized</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22539-Lime-Personalized</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>Lime Green-Plain</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22539-Lime-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>Blue-Personalized</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22536-Blue-Per</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>BlueWB-Personalized</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22536-BlueWB-Per</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>Blue-Plain</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22536-Blue-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>BlueWB-Plain</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22536-BlueWB-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>Purple-Personalized</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22537-Purple-Personalized</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>PurpleWB-Personalized</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22537-PurpleWB-Personalized</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>Purple-Plain</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22537-Purple-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/463942811687</id>
+      <title>PurpleWB-Plain</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22537-PurpleWB-Plain</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9769217036</id>
+    <published>2017-02-23T17:21:00-06:00</published>
+    <updated>2017-02-23T17:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/spring-color-split-willow-easter-basket-round-or-oval"/>
+    <title>Spring Color Split Willow Easter Basket - Round or Oval</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/9724864.jpg?v=1520317930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Round and oval spring color split willow basket assortment with overhead handles. Soft colors include: yellow, blue, pink, purple, orange, and green. PVC liners included.<br><br>Oval: 3 1/2"H X 7"W X 9"D<br>Round: 3 1/2"H X 6 1/2"Opening</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>098111084934</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Easter Basket</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Blue / Oval</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Blue-Oval</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Blue / Round</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Blue-Round</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Lime Green / Oval</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Lime-Oval</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Lime Green / Round</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Lime-Round</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Orange / Oval</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Org-Oval</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Orange / Round</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Org-Round</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Pink / Oval</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Pink-Oval</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Pink / Round</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Pink-Round</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Purple / Oval</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Pur-Oval</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Purple / Round</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Pur-Round</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Yellow / Oval</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Yel-Oval1</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9769217036</id>
+      <title>Yellow / Round</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9724864-Yel-Round</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1691583447142</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/personalized-canvas-bag"/>
+    <title>Personalized Canvas Beach Bags - 4 Colors</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31022-black.jpg?v=1556176299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These big canvas beach bags are super cute and perfect to keep your little ones goodies in.  </span><span>Each bag is personalized.</span></p>
+<p>• Canvas Bag</p>
+<p>• 18" wide by 12.5" tall</p>
+<p>• Soft Rope Handles</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-30</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Dark Pink</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Swimwear</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1691583447142</id>
+      <title>Black</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>31022</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1691583447142</id>
+      <title>Red</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>31023</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1691583447142</id>
+      <title>Navy</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>31024</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1691583447142</id>
+      <title>Dark Pink</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>31025</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176960237612</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/lime-little-zombie-girl-with-cat-personalized-pillowcase"/>
+    <title>Little Zombie Girl Halloween Trick or Treat Bag - Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28173-see_shirt_design_lime_monster_girl_sue_this_one_I_think.jpg?v=1620851791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little one's name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176960237612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>28173</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176956010540</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/skull-personalized-pillowcase"/>
+    <title>Skull Halloween Trick or Treat Bag - Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28172-see_shirt_design_black_skull_face.jpg?v=1620851790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little one's goodies in for Halloween.  </span><span>Each bag is personalized with your little one's name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176956010540</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>28172</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176952930348</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/cat-wearing-witch-hat-personalized-pillowcase"/>
+    <title>Cat Wearing Witch Hat Halloween Trick or Treat Bag - Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28171-see_shirt_design_black_cat_font_is_haunted_house_pillow_case.jpg?v=1620851789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little one's goodies in for Halloween.  </span><span>Each bag is personalized with your little one's name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176952930348</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>28171</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176949948460</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/lime-little-zombie-girl-personalized-pillowcase"/>
+    <title>Lime Little Zombie Girl Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28170-lime_monster_gilr.jpg?v=1620851788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little ones name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176949948460</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>28170</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176942444588</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/witch-with-cat-personalized-pillowcase"/>
+    <title>Witch with Cat Trick or Treat Bag - Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28169-_black_witch_with_cat_and_caldron_-_pillow_case.jpg?v=1620851787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little one's goodies in for Halloween.  </span><span>Each bag is personalized with your little one's name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176942444588</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>28169</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176923635756</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/halloween-trio-personalized-pillowcase"/>
+    <title>Halloween Trio Trick or Treat Bag- Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26385.jpg?v=1620851786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little one's goodies in for Halloween.  </span><span>Each bag is personalized with your little one's name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176923635756</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26385</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176917901356</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/trick-or-treat-ghost-personalized-pillowcase"/>
+    <title>Trick Or Treat Ghost Halloween Bag - Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26384.jpg?v=1620851785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little one's goodies in for Halloween.  </span><span>Each bag is personalized with your little one's name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176917901356</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26384</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176916033580</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/spell-book-personalized-pillowcase"/>
+    <title>Spell Book Trick or Treat Halloween Bag - Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26374_4f9047f6-ecf2-4415-ba71-b0c47998da56.jpg?v=1620851784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little one's goodies in for Halloween.  </span><span>Each bag is personalized with your little one's name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176916033580</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26383</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176914296876</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/halloween-baby-jack-o-lantern-personalized-pillowcase"/>
+    <title>Halloween Baby Jack O&apos; Lantern Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26382.jpg?v=1620851783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little ones name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176914296876</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26382</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176909545516</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/halloween-haunted-house-personalized-pillowcase"/>
+    <title>Halloween Haunted House Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26381.jpg?v=1620851781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little ones name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176909545516</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26381</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176904695852</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/orange-and-white-witch-legs-personalized-pillowcase"/>
+    <title>Orange and White Witch Legs Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26380.jpg?v=1620851780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little ones name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176904695852</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26380</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176902074412</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/jack-o-lantern-personalized-pillowcase"/>
+    <title>Jack O&apos; Lantern Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26379.jpg?v=1620851779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little ones name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176902074412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26379</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176898109484</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/ghost-zombie-girl-personalized-pillowcase"/>
+    <title>Ghost Zombie Girl Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26378.jpg?v=1620851778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little ones name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176898109484</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26378</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176893358124</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/happy-halloween-calderon-cats-personalized-pillowcase"/>
+    <title>Happy Halloween Calderon &amp; Cats Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26377.jpg?v=1620851777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little ones name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176893358124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26377</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176888606764</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/bat-cat-personalized-pillowcase"/>
+    <title>Bat Cat Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26376.jpg?v=1620851776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little ones name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176888606764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26376</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176886444076</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/hot-pink-girly-skull-personalized-pillowcase"/>
+    <title>Hot Pink Girly Skull Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26375.jpg?v=1620851775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little ones name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176886444076</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26375</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1176883167276</id>
+    <published>2016-09-16T14:45:00-05:00</published>
+    <updated>2016-09-16T14:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/autumn-witch-legs-with-broom-personalized-pillowcase"/>
+    <title>Autumn Witch Legs with Broom Personalized Pillowcase</title>
+    <s:type>Girls, Boys - Bags</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26374.jpg?v=1620851774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Bags<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These little pillowcases are super cute and perfect to keep your little ones goodies in for Halloween.  </span><span>Each bag is personalized with your little ones name.</span></p>
+<p>• Pillowcase</p>
+<p>• 19.5" wide by 31" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags &amp; Purses</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Bags</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - More</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1176883167276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26374</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+</feed>

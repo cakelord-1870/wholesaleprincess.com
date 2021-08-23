@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/sale-more.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2016-09-16T08:44:00-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8579171596</id>
+    <published>2016-09-16T08:44:00-05:00</published>
+    <updated>2016-09-16T08:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/15-inch-butterfly-wings-with-straps-many-colors-available"/>
+    <title>15&quot; Butterfly Wings With Straps - Many Colors Available</title>
+    <s:type>Girls, Toys - Costumes &amp; Accessories</s:type>
+    <s:vendor>K&amp;D International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/15502_7987ced8-c8de-4c5c-9657-d986925fce91.jpg?v=1615563965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&amp;D International<br>
+        <strong>Type: </strong>Girls, Toys - Costumes &amp; Accessories<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our kids' fairy wings are just adorable. These glitter butterfly wings measure 15" wide x 12" tall and are the perfect accessory! Each set of wings has 2 straps on the back that will fit ages 2-16.</p>
+<p>Black </p>
+<p>Hot Pink </p>
+<p>Lavender </p>
+<p>Light Pink </p>
+<p>Lime</p>
+<p>Navy Blue</p>
+<p>Orange</p>
+<p>Purple </p>
+<p>Rainbow</p>
+<p>Red</p>
+<p>Royal Blue</p>
+<p>Turquoise </p>
+<p>White</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Costumes &amp; Accessories</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Fix_Model Photos</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Toys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>More</s:tag>
+    <s:tag>Navy Blue</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8579171596</id>
+      <title>Rainbow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>15502</s:sku>
+      <s:grams>74</s:grams>
+    </s:variant>
+  </entry>
+</feed>

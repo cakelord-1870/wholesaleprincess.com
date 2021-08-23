@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/pets.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2018-11-01T14:58:32-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1425019240492</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/oktoberfest-personalized-pet-bandana"/>
+    <title>Oktoberfest Personalized Pet Bandana</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/hans-modesto_poster.jpg?v=1542180974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Pets - Clothing</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1425019240492</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>29703</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1424808673324</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/adopt-a-pet-personalized-pet-bandana-2-colors"/>
+    <title>Adopt a Pet Personalized Pet Bandana - 3 Styles</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/1-a.jpg?v=1542180973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Abby</s:tag>
+    <s:tag>Berty</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Polka Dots</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sammy</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424808673324</id>
+      <title>Berty</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>29699</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424808673324</id>
+      <title>Sammy</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>29700</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424808673324</id>
+      <title>Abby</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>29701</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1424801366060</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/polka-dot-personalized-pet-bandana-with-snaps-2-colors"/>
+    <title>Polka Dot Personalized Pet Bandana with Snaps - 2 Colors</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Snap-Red-Dot_1.jpg?v=1542180972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Marley</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Polka Dots</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spot</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424801366060</id>
+      <title>Marley</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22324</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424801366060</id>
+      <title>Spot</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22325</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1424784359468</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/rainbow-tie-dye-personalized-pet-bandana-4-styles"/>
+    <title>Rainbow Tie Dye Personalized Pet Bandana - 4 Styles</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/59-Gracia-LeOsler_Rough_Reg.jpg?v=1542180971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Buzzy</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Mick</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Stoney</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tie Dye</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424784359468</id>
+      <title>Garcia</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22413</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424784359468</id>
+      <title>Buzzy</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22411</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424784359468</id>
+      <title>Mick</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>29697</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424784359468</id>
+      <title>Stoney</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>29698</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1424578215980</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baseball-personalized-pet-bandana"/>
+    <title>Baseball Personalized Pet Bandana</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/60-Pete-elph_chubba_elph.jpg?v=1542180969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baseball</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Pets - Clothing</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424578215980</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22412</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1424560750636</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/christmas-personalized-pet-bandana-5-styles"/>
+    <title>Christmas Personalized Pet Bandana - 5 Styles</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/47-Elfie-Lumberjack_Regular.jpg?v=1542180968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Einstein</s:tag>
+    <s:tag>Elfie</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Jingles</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Santa Claus</s:tag>
+    <s:tag>Snowflake</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424560750636</id>
+      <title>Elfie</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22361</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424560750636</id>
+      <title>Candy</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22364</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424560750636</id>
+      <title>Snowflake</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22362</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424560750636</id>
+      <title>Einstein</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22363</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424560750636</id>
+      <title>Jingles</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22365</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1424549904428</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/striped-personalized-pet-bandana-2-colors"/>
+    <title>Striped Personalized Pet Bandana - 3 Colors</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/34-Spinner-Caferus_Basic_Regular.jpg?v=1542180967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Duke</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Oliver</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spinner</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424549904428</id>
+      <title>Spinner</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22326</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424549904428</id>
+      <title>Duke</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22328</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424549904428</id>
+      <title>Oliver</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22327</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1424546070572</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/traditional-personalized-pet-bandana"/>
+    <title>Traditional Personalized Pet Bandana</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31-lucy-Lumberjack_Regular.jpg?v=1542180966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Pets - Clothing</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424546070572</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22366</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1424520839212</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/hawaiian-floral-design-personalized-pet-bandana-8-colors"/>
+    <title>Hawaiian Floral Design Personalized Pet Bandana - 7 Colors</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/36-Bailey-Candy_Shop_Black_Regular.jpg?v=1542180964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Bailey</s:tag>
+    <s:tag>Bella</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Daisy</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Maui</s:tag>
+    <s:tag>Molly</s:tag>
+    <s:tag>Muana</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Sadie</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424520839212</id>
+      <title>Bailey</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22367</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424520839212</id>
+      <title>Bella</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22368</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424520839212</id>
+      <title>Molly</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22369</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424520839212</id>
+      <title>Sadie</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22370</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424520839212</id>
+      <title>Daisy</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22371</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424520839212</id>
+      <title>Maui</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22372</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424520839212</id>
+      <title>Muana</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>29696</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1424505077804</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/floral-design-personalized-pet-bandana-11-colors"/>
+    <title>Floral Design Personalized Pet Bandana - 8 Colors</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/25-Scout-Blatant_Regular.jpg?v=1542180962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Breast Cancer</s:tag>
+    <s:tag>Buddy</s:tag>
+    <s:tag>Cooper</s:tag>
+    <s:tag>Cuddles</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Maggie</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Rocky</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Scout</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Toby</s:tag>
+    <s:tag>Tucker</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424505077804</id>
+      <title>Scout</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22336b</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424505077804</id>
+      <title>Cuddles</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22348</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424505077804</id>
+      <title>Buddy</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22349</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424505077804</id>
+      <title>Cooper</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22350</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424505077804</id>
+      <title>Maggie</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22351</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424505077804</id>
+      <title>Tucker</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22352</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424505077804</id>
+      <title>Toby</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22353</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1424505077804</id>
+      <title>Rocky</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22354</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420879298604</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/sharing-gods-joy-personalized-pet-bandana"/>
+    <title>Sharing God&apos;s Joy Personalized Pet Bandana</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/2.jpg?v=1542180960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Pets - Clothing</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420879298604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22384-2</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420858228780</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/tie-di-personalized-pet-bandanas"/>
+    <title>Tie Dye Personalized Pet Bandana - 6 Colors</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/17-Lola-_all_exes_must_die_bold_italic.jpg?v=1542180959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Buttercup</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Ginger</s:tag>
+    <s:tag>Gover</s:tag>
+    <s:tag>Lola</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Precious</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Sprite</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420858228780</id>
+      <title>Lola</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22341</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420858228780</id>
+      <title>Sprite</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22342</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420858228780</id>
+      <title>Ginger</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22343</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420858228780</id>
+      <title>Precious</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22344</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420858228780</id>
+      <title>Gover</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22345</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420858228780</id>
+      <title>Buttercup</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22346</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420830670892</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/hearts-personalized-pet-bandanas"/>
+    <title>Sweethearts Personalized Pet Bandana - 4 Styles</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/15-Sugarplum-KG_Inimitable_Original_Regular.jpg?v=1542180957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Eloise</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Hamlet</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Sugarplumb</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweety</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420830670892</id>
+      <title>Sugarplumb</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22355</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420830670892</id>
+      <title>Eloise</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22360</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420830670892</id>
+      <title>Hamlet</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22359</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420830670892</id>
+      <title>Sweety</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22356</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420819759148</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/touchdown-personalized-pet-bandanas"/>
+    <title>Touchdown Personalized Pet Bandana</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/10-Touchdown-Austral_Slab_Rough_Reg.jpg?v=1542180956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Football</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Pets - Clothing</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420819759148</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22380</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420784074796</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/paisley-design-personalized-pet-bandanas"/>
+    <title>Western Design Personalized Pet Bandana - 11 Colors</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/09-Ringo-_30_girl_pack.jpg?v=1542180954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Bear</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Brutus</s:tag>
+    <s:tag>Buster</s:tag>
+    <s:tag>Charlie</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Gretta</s:tag>
+    <s:tag>Maverick</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Prince</s:tag>
+    <s:tag>Ringo</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Smokey</s:tag>
+    <s:tag>Sophia</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Watson</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Ringo</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22330</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Gretta</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22329</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Bear</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22336</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Charlie</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22340</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Brutus</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22339</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Prince</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22331</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Watson</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22335</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Smokey</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22337</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Sophia</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22334</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Maverick</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22333</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420784074796</id>
+      <title>Buster</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22338</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420779061292</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/easter-egg-personalized-pet-bandanas"/>
+    <title>Easter Egg Personalized Pet Bandana</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/08-Hopper-Anise_Reg.jpg?v=1542180953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Pets - Clothing</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420779061292</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22379</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420777390124</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/camouflage-personalized-pet-bandanas"/>
+    <title>Camouflage Personalized Pet Bandana - 2 Colors</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/06_-_Dodger-_A_pompadour_display.jpg?v=1542180952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Dodger</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Lucky</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420777390124</id>
+      <title>Dodger</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22377</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420777390124</id>
+      <title>Lucky</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22382</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420736331820</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/pink-ribbon-designs-personalized-pet-bandanas"/>
+    <title>Pink Ribbon Designs Personalized Pet Bandana - 6 Styles</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/05_-_Princess-_Allemo_Demo.jpg?v=1542180949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Breast Cancer</s:tag>
+    <s:tag>Coco</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Hazel</s:tag>
+    <s:tag>Lulu</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Princess</s:tag>
+    <s:tag>Queeny</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420736331820</id>
+      <title>Princess</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22376</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420736331820</id>
+      <title>Lulu</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22378</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420736331820</id>
+      <title>Queeny</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22381</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420736331820</id>
+      <title>Hazel</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22383</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420736331820</id>
+      <title>Coco</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22385</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420731449388</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/pirate-personalized-pet-bandanas"/>
+    <title>Pirate Personalized Pet Bandana - 4 Styles</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/04_-_Ranger-_30_girl_pack.jpg?v=1542180948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Pets - Clothing</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420731449388</id>
+      <title>Ranger</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22375</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420731449388</id>
+      <title>Sailor</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22387</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420731449388</id>
+      <title>Bones</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22388</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420731449388</id>
+      <title>Skully</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22390</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420641108012</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/camp-glam-personalized-pet-bandanas"/>
+    <title>Camp Glam Personalized Pet Bandana - 2 Colors</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/1.jpg?v=1542180947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Carly</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Maddy</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420641108012</id>
+      <title>Maddy</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22384</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420641108012</id>
+      <title>Carly</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22374</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1420632948780</id>
+    <published>2018-11-01T14:58:32-05:00</published>
+    <updated>2018-11-01T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/personalized-pet-bandanas"/>
+    <title>Stars &amp; Stripes Personalized Pet Bandana</title>
+    <s:type>Boys, Girls, Women, Pets - Bandanas</s:type>
+    <s:vendor>Oriental Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_6682-sq.jpg?v=1542180945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oriental Trading<br>
+        <strong>Type: </strong>Boys, Girls, Women, Pets - Bandanas<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our personalized bandanas are a perfect little gift for your favorite 4 legged friends.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Boys Girls Women Pets - Bandanas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Pets - Clothing</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1420632948780</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22386</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+</feed>

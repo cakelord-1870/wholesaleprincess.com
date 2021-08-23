@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/all-costumes-accessories.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2019-05-17T10:23:08-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3515994570854</id>
+    <published>2019-05-17T10:23:08-05:00</published>
+    <updated>2019-05-17T10:23:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/copy-of-toddler-cape-6-colors"/>
+    <title>Toddler Superhero Cape - 6 Choices</title>
+    <s:type>Girls, Boys, Toys - Costumes &amp; Accessories</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/cape-captain-america-001.jpg?v=1560755507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls, Boys, Toys - Costumes &amp; Accessories<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Let your toddler's imagination run wild with the endless possibilities offered with this toddler cape!</p>
+<p>Features:</p>
+<p><span>• </span>Reversible design</p>
+<p><span>• </span>Velcro hook &amp; loop closure</p>
+<p>Fabric &amp; Care:</p>
+<p><span>• </span>100% Satin Polyester</p>
+<p><span>• </span>Machine washable/Tumble dry low</p>
+<p><span>• </span>21" Long</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Costume</s:tag>
+    <s:tag>Costumes</s:tag>
+    <s:tag>Costumes &amp; Accessories</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Costumes &amp; Accessories</s:tag>
+    <s:tag>Girls Boys Toys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Girls Toys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Personalzied</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3515994570854</id>
+      <title>Captain America</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30073-CapAm</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3515994570854</id>
+      <title>Batman</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30076-Bat</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3515994570854</id>
+      <title>Hulk</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30076-Hulk</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3515994570854</id>
+      <title>Spiderman</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30073-Spider</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3515994570854</id>
+      <title>Superman</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30076-Super</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3515994570854</id>
+      <title>Wonder Woman</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30076-WW</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1644474859622</id>
+    <published>2019-01-28T10:56:14-06:00</published>
+    <updated>2019-01-28T10:56:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/personalized-toddler-cape-6-colors"/>
+    <title>Toddler Cape - 6 Colors</title>
+    <s:type>Girls, Boys, Toys - Costumes &amp; Accessories</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30071-30076.jpg?v=1551338138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls, Boys, Toys - Costumes &amp; Accessories<br>
+        <strong>Price: </strong>
+            15.99 - 17.99
+            <a href="https://wholesaleprincess.com/products/personalized-toddler-cape-6-colors">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Let your toddler's imagination run wild with the endless possibilities offered with this toddler cape!</p>
+<p>Features:</p>
+<p><span>• </span>Personalization Available</p>
+<p><span>• </span>Reversible design</p>
+<p><span>• </span>Velcro hook &amp; loop closure</p>
+<p>Fabric &amp; Care:</p>
+<p><span>• </span>100% Satin Polyester</p>
+<p><span>• </span>Machine washable/Tumble dry low</p>
+<p><span>• </span>21" Long</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Black &amp; White-Personalized</s:tag>
+    <s:tag>Black &amp; White-Plain</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Costume</s:tag>
+    <s:tag>Costumes</s:tag>
+    <s:tag>Costumes &amp; Accessories</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Costumes &amp; Accessories</s:tag>
+    <s:tag>Girls Boys Toys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Girls Toys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Navy &amp; Red-Personalized</s:tag>
+    <s:tag>Navy &amp; Red-Plain</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Personalzied</s:tag>
+    <s:tag>Pink &amp; Silver-Personalized</s:tag>
+    <s:tag>Pink &amp; Silver-Plain</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Royal &amp; Red-Personalized</s:tag>
+    <s:tag>Royal &amp; Red-Plain</s:tag>
+    <s:tag>Solid Black-Personalized</s:tag>
+    <s:tag>Solid Black-Plain</s:tag>
+    <s:tag>Solid White-Personalized</s:tag>
+    <s:tag>Solid White-Plain</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Pink &amp; Silver-Plain</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30071-Plain</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Pink &amp; Silver-Personalized</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30071-Personalized</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Black &amp; White-Plain</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30072-Plain</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Black &amp; White-Personalized</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30072-Personalized</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Royal &amp; Red-Plain</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30073-Plain</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Royal &amp; Red-Personalized</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30073-Personalized</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Solid White-Plain</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30074-Plain</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Solid White-Personalized</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30074-Personalized</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Navy &amp; Red-Plain</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30075-Plain</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Navy &amp; Red-Personalized</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30075-Personalized</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Solid Black-Plain</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30076-Plain</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1644474859622</id>
+      <title>Solid Black-Personalized</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30076-Personalized</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8587417548</id>
+    <published>2016-09-17T08:01:00-05:00</published>
+    <updated>2016-09-17T08:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/pink-and-white-bunny-ears-furry-headband"/>
+    <title>Furry Bunny Ears Headband</title>
+    <s:type>Girls, Boys, Toys - Costumes &amp; Accessories</s:type>
+    <s:vendor>Flying Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/18385_27.jpg?v=1577557978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Beauty<br>
+        <strong>Type: </strong>Girls, Boys, Toys - Costumes &amp; Accessories<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages!! Perfect for Easter Egg Hunts!!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Headband Color: Pink and White or Blue &amp; White</p>
+<p>• Headband Style: Furry Bunny Ears</p>
+<p><strong>Size</strong></p>
+<p>.50" wide</p>
+<p>Ears - 6" Long</p>
+<p>Full Headband - 12" Long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Costumes &amp; Accessories</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys Toys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8587417548</id>
+      <title>Pink</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>18385-Pink</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8587417548</id>
+      <title>Light Blue</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>18385-Light Blue</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8580898188</id>
+    <published>2016-09-16T14:29:00-05:00</published>
+    <updated>2016-09-16T14:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/gold-crown-with-white-headband"/>
+    <title>Gold Crown With White Headband</title>
+    <s:type>Girls, Toys - Costumes &amp; Accessories</s:type>
+    <s:vendor>Ellen - China Broker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/19607_20dl-nw_20_3.jpg?v=1474054203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen - China Broker<br>
+        <strong>Type: </strong>Girls, Toys - Costumes &amp; Accessories<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>• Number of Pieces: 1</p>
+<p>• Headband Color: Gold/White</p>
+<p>• Headband Style: .25" Elastic</p>
+<p>• Includes: 3.5" Crown Attachment</p>
+• Age: All Ages
+<p>• Material: Polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Birthday</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Costumes &amp; Accessories</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Fix_New Photos</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Toys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring Clearance</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8580898188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>19607</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8579171596</id>
+    <published>2016-09-16T08:44:00-05:00</published>
+    <updated>2016-09-16T08:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/15-inch-butterfly-wings-with-straps-many-colors-available"/>
+    <title>15&quot; Butterfly Wings With Straps - Many Colors Available</title>
+    <s:type>Girls, Toys - Costumes &amp; Accessories</s:type>
+    <s:vendor>K&amp;D International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/15502_7987ced8-c8de-4c5c-9657-d986925fce91.jpg?v=1615563965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&amp;D International<br>
+        <strong>Type: </strong>Girls, Toys - Costumes &amp; Accessories<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our kids' fairy wings are just adorable. These glitter butterfly wings measure 15" wide x 12" tall and are the perfect accessory! Each set of wings has 2 straps on the back that will fit ages 2-16.</p>
+<p>Black </p>
+<p>Hot Pink </p>
+<p>Lavender </p>
+<p>Light Pink </p>
+<p>Lime</p>
+<p>Navy Blue</p>
+<p>Orange</p>
+<p>Purple </p>
+<p>Rainbow</p>
+<p>Red</p>
+<p>Royal Blue</p>
+<p>Turquoise </p>
+<p>White</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Costumes &amp; Accessories</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Fix_Model Photos</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Toys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>More</s:tag>
+    <s:tag>Navy Blue</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8579171596</id>
+      <title>Rainbow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>15502</s:sku>
+      <s:grams>74</s:grams>
+    </s:variant>
+  </entry>
+</feed>

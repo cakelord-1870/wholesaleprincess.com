@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/birth-announcement-shirts.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2016-09-16T17:54:00-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10646558476</id>
+    <published>2016-09-16T17:54:00-05:00</published>
+    <updated>2016-09-16T17:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/oops-they-did-it-again-big-sister-raglan-t-shirt"/>
+    <title>Oops They Did It Again Big Sister Raglan T-Shirt</title>
+    <s:type>Girls - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Big_20Sister_e36fd8f3-d7a4-412d-99f8-c363af084a8d.jpg?v=1494448914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable long sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• One piece</p>
+<p>• Oops they did it again I'm going to be a big sister is printed on the front of the shirt</p>
+<p>• Yellow</p>
+<p>Fabric &amp; Care:</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Hand Wash Only</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>XX-Small - 6 to 12 months</p>
+<p>X-Small - 12 to 18 months</p>
+<p>Small - 2T</p>
+<p>Medium - 3T</p>
+<p>Large - 4T</p>
+<p>X-Large - 5 years</p>
+<p>XX-Large - 6 years</p>
+<p>XXX-Large - 7 years</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5 YEARS</s:tag>
+    <s:tag>6 YEARS</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>7 YEARS</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Birth Announcement</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Yellow / 6-12 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-YEL-XXS</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Yellow / 12-18 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-YEL-XS</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Yellow / 2T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-YEL-SM</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Yellow / 3T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-YEL-MD</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Yellow / 4T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-YEL-LG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Yellow / 5 YEARS</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-YEL-XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Yellow / 6 YEARS</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-YEL-2XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Yellow / 7 YEARS</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-YEL-3XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lime Green / 6-12 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LM-XXS</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lime Green / 12-18 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LM-XS</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lime Green / 2T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LM-SM</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lime Green / 3T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LM-MD</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lime Green / 4T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LM-LG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lime Green / 5 YEARS</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LM-XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lime Green / 6 YEARS</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LM-2XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lime Green / 7 YEARS</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LM-3XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lavender / 6-12 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LV-XXS</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lavender / 12-18 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LV-XS</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lavender / 2T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LV-SM</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lavender / 3T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LV-MD</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lavender / 4T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LV-LG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lavender / 5 YEARS</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LV-XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lavender / 6 YEARS</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LV-2XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10646558476</id>
+      <title>Lavender / 7 YEARS</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15828-LV-3XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8582692044</id>
+    <published>2016-09-16T17:53:00-05:00</published>
+    <updated>2016-09-16T17:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/oops-they-did-it-again-big-brother-raglan-t-shirt"/>
+    <title>Oops They Did It Again Big Brother Raglan T-Shirt</title>
+    <s:type>Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Big_20Brother.jpg?v=1474066421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable long sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• One piece</p>
+<p>• Oops They did it again! I'm going to be a big brother is printed on the front of the shirt</p>
+<p>• Red</p>
+<p>Fabric &amp; Care:</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Hand Wash Only</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>XX-Small - 6 to 12 months</p>
+<p>X-Small - 12 to 18 months</p>
+<p>Small - 2T</p>
+<p>Medium - 3T</p>
+<p>Large - 4T</p>
+<p>X-Large - 5 years</p>
+<p>XX-Large - 6 years</p>
+<p>XXX-Large - 7 years</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Birth Announcement</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>XX-Small / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Red-XXSM</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>X-Small / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Red-X</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>Small / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Red-S</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>Medium / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Red-M</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>Large / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Red-L</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>X-Large / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Red-XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>XX-Large / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Red-2XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>XXX-Large / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Red-3XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>XX-Small / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Gray-XXSM</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>X-Small / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Gray-XS</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>Small / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Gray-S</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>Medium / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Gray-M</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>Large / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Gray-L</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>X-Large / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Gray-XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>XX-Large / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Gray-2XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8582692044</id>
+      <title>XXX-Large / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>15824-Gray-3XL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+</feed>

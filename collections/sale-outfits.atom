@@ -1,0 +1,3060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/sale-outfits.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2020-05-05T15:51:06-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4813367214182</id>
+    <published>2020-05-05T15:51:06-05:00</published>
+    <updated>2020-05-05T15:51:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/blue-and-white-star-pattern-top-and-red-light-corduroy-shorts-set"/>
+    <title>Blue and White Star Pattern Top and Red Light Corduroy Shorts Set</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/StarsStripesOutfit-Jane.jpg?v=1588748928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This adorable two piece set is perfect for Memorial Day, 4th of July, and all Summer long. The top has a drop shoulder neckline and features a star pattern and ric-rac accent matching the shorts. The red shorts have light corduroy texture, elastic waist and a matching ribbon belt.</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p><strong>Top:</strong><br>95% Polyester, 5% Spandex<br>Hand wash cold.<br>Hang dry.</p>
+<p><strong>Bottom:</strong><br>97% Cotton, 3% Spandex<br>Hand wash cold.<br>Hang dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12-18M</s:tag>
+    <s:tag>20-30</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5Y</s:tag>
+    <s:tag>6Y</s:tag>
+    <s:tag>7Y</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Memorial Day</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>12-18M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34825</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>2T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34826</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>3T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34827</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>4T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34828</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>5Y</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34829</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>6Y</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34830</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4813367214182</id>
+      <title>7Y</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>34831</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1609587884134</id>
+    <published>2020-01-15T10:35:35-06:00</published>
+    <updated>2020-01-15T10:35:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/valentine-princess-3pc-a-line-tunic-set-top-pants-scarf"/>
+    <title>Valentine Princess 3pc A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30091_2.jpg?v=1547710103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Red Top with a Honeycomb Heart Applique and Pom Poms Along the Bottom</p>
+<p>• White with Honeycomb Hearts Design Printed on the Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Perfect For Photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>XX-Small: 6-12 months - 18" Chest , 10" Sleeve Length, 15" Long</p>
+<p><span>X-Small: 12-18 months - 18" Chest , 11" Sleeve Length, 17" Long</span></p>
+<p>Small: 2T - 19" Chest , 12" Sleeve Length, 19" Long</p>
+<p>Medium: 3T - 21" Chest , 13" Sleeve Length, 20" Long</p>
+<p>Large: 4T - 21" Chest , 13" Sleeve Length, 21" Long</p>
+<p>X-Large: 5 Years - 23" Chest , 14" Sleeve Length, 22" Long</p>
+<p>XX-Large: 6 Years - 24" Chest ,15" Sleeve Length, 23" Long</p>
+<p><strong>Pants:</strong></p>
+<p>XX-Small: 6-12 months - 18" Long, 20" Waist (Stretched)</p>
+<p><span>X-Small: 12-18 months - 18.5" Long, 20" Waist (Stretched)</span></p>
+<p>Small: 2T - 21" Long, 23" Waist <span>(Stretched)</span></p>
+<p>Medium: 3T - 23" Long, 24" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 25" Long, 24" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 26" Long, 25" Waist <span>(Stretched)</span></p>
+<p>XX-Large: 6 Years - 27" Long, 26" Waist <span>(Stretched)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Hearts</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1609587884134</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30091-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1609587884134</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30091-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1609587884134</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30091-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1609587884134</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30091-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1609587884134</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30091-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1609587884134</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30091-XXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1609587884134</id>
+      <title>7 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30091-3XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4457629319270</id>
+    <published>2020-01-03T10:00:42-06:00</published>
+    <updated>2020-01-03T10:00:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/blue-and-pink-floral-top-and-denim-pant-set"/>
+    <title>Blue and Pink Floral Top and Denim Capri Set</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_9139.jpg?v=1578121813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adorable two piece set is perfect for Spring.  The top has a boat neck with short sleeves. The blue jean capris are adjustable and have a button and zipper, as well as some distressing and small cutouts with matching fabric patches. Ribbon belt included.  </p>
+<p>Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• Top: 95% cotton, 5% spandex excluding reindeer decoration</p>
+<p>• Bottoms: 76% cotton, 3% spandex, 23% polyester</p>
+<p>• soft lightweight tee-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>30-50</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Denim</s:tag>
+    <s:tag>Floral</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Clothing</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4457629319270</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33534-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4457629319270</id>
+      <title>2T</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33534-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4457629319270</id>
+      <title>3T</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33534-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4457629319270</id>
+      <title>4T</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33534-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4457629319270</id>
+      <title>5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33534-5</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4457629319270</id>
+      <title>6</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33534-6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4457629319270</id>
+      <title>7</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33534-7</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4358568181862</id>
+    <published>2019-11-14T19:10:55-06:00</published>
+    <updated>2019-11-14T19:10:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/copy-of-black-orange-and-white-pumpkin-2-piece-outfit"/>
+    <title>White &amp; Red Elf on the Shelf 2 Piece Outfit</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>jamieyu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_9061.jpg?v=1573781103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jamieyu<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Is your little girl ready for Christmas?  Does she love the Elf on the Shelf?  If so, she's in luck!  This is an outfit completely dedicated to the eluding Elf on the Shelf!  The soft long sleeve top has both the male and female elves, as well as Christmas trees and presents on a white background. It is an A-line style top with ruffle sleeves.  The leggings are solid red.  Perfect for any Christmas occasion or just hanging around the house.</p>
+<p> </p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton, 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-30</s:tag>
+    <s:tag>3XL-7</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Fall Outfits</s:tag>
+    <s:tag>Girls - clothing</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>L - 4T</s:tag>
+    <s:tag>L-4</s:tag>
+    <s:tag>M-3T</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>S-2T</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>XL - 5</s:tag>
+    <s:tag>XS-12/18M</s:tag>
+    <s:tag>XXL - 6</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4358568181862</id>
+      <title>XS-12/18M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33096-XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4358568181862</id>
+      <title>S-2T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33096-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4358568181862</id>
+      <title>M-3T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33096-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4358568181862</id>
+      <title>L-4</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33096-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4358568181862</id>
+      <title>XL-5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33096-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4358568181862</id>
+      <title>XXL-6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33096-XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4358568181862</id>
+      <title>3XL-7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33096-3XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4355316383846</id>
+    <published>2019-11-14T19:10:55-06:00</published>
+    <updated>2019-11-14T19:10:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/reindeer-buffalo-plaid-shirt-and-denim-pant-set"/>
+    <title>Reindeer Buffalo Plaid Shirt and Denim Pant Set</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_9059.jpg?v=1573781211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adorable two piece set is perfect for that winter weather and all your Christmas activities.  The red and black buffalo plaid long sleeve top has ruffle sleeves and an adorable reindeer with bow and closed eyes.  The blue jeans are adjustable and have a button and zipper, as well as some distressing and small cutouts with buffalo plaid fabric patches.  </p>
+<p>Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• Top: 95% cotton, 5% spandex excluding reindeer decoration</p>
+<p>• Bottoms: 76% cotton, 3% spandex, 23% polyester</p>
+<p>• soft lightweight tee-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-30</s:tag>
+    <s:tag>All - Outfits</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Denim</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - clothing</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>L - 4T</s:tag>
+    <s:tag>M - 3T</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>S - 2T</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>XL - 5</s:tag>
+    <s:tag>XS - 12/18 months</s:tag>
+    <s:tag>XXL - 6</s:tag>
+    <s:tag>XXXL - 7</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4355316383846</id>
+      <title>XS - 12/18 months</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33097-1</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4355316383846</id>
+      <title>S - 2T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33097-2</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4355316383846</id>
+      <title>M - 3T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33097-3</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4355316383846</id>
+      <title>L - 4T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33097-4</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4355316383846</id>
+      <title>XL - 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33097-5</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4355316383846</id>
+      <title>XXL - 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33097-6</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4101833949286</id>
+    <published>2019-09-19T09:21:15-05:00</published>
+    <updated>2019-09-19T09:21:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/orange-boo-crew-top-with-ruffle-sleeve-and-denim-pant-set"/>
+    <title>Orange Boo Crew Top with Ruffle Sleeve and Denim Pant Set</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/32777_2.jpg?v=1568963473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adorable two piece set is perfect for that Fall weather and all your Halloween activities.  The orange long sleeve top has ruffle sleeves.  The blue jeans are adjustable and have a button and zipper, as well as distressing and small cutouts with Halloween themed fabric patches.  </p>
+<p>Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>All - Outfits</s:tag>
+    <s:tag>Denim</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - clothing</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>L - 4T</s:tag>
+    <s:tag>M - 3T</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>S - 2T</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>XL - 5</s:tag>
+    <s:tag>XS - 12/18 months</s:tag>
+    <s:tag>XXL - 6</s:tag>
+    <s:tag>XXXL - 7</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4101833949286</id>
+      <title>XS - 12/18 months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>32777-1</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4101833949286</id>
+      <title>S - 2T</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>32777-2</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4101833949286</id>
+      <title>M - 3T</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>32777-3</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4101833949286</id>
+      <title>L - 4T</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>32777-4</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4101833949286</id>
+      <title>XL - 5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>32777-5</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4101833949286</id>
+      <title>XXL - 6</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>32777-6</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4101833949286</id>
+      <title>XXXL - 7</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>32777-7</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3962359808102</id>
+    <published>2019-09-16T09:31:01-05:00</published>
+    <updated>2019-09-16T09:31:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/brown-orange-and-blue-boho-3-piece-tunic-set-top-pants-scarf"/>
+    <title>Brown, Orange and Blue Boho 3 Piece Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/32812_2.jpg?v=1568704180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Brown Top</p>
+<p>• Orange, Brown &amp; Blue Bohemian Design Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1/2T</s:tag>
+    <s:tag>2/3T</s:tag>
+    <s:tag>20-30</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3/4T</s:tag>
+    <s:tag>4/5T</s:tag>
+    <s:tag>5-6 Years</s:tag>
+    <s:tag>5/6</s:tag>
+    <s:tag>6/7</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Fall Outfits</s:tag>
+    <s:tag>Girls clothing</s:tag>
+    <s:tag>Girls Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Thanksgiving</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3962359808102</id>
+      <title>1/2T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32812-1/2T</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3962359808102</id>
+      <title>2/3T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32812-2/3T</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3962359808102</id>
+      <title>3/4T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32812-3/4T</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3962359808102</id>
+      <title>4/5T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32812-4/5T</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3962359808102</id>
+      <title>5/6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32812-5/6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3962359808102</id>
+      <title>6/7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32812-6/7</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1326588428332</id>
+    <published>2019-08-28T15:06:21-05:00</published>
+    <updated>2019-08-28T15:06:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/holiday-paisley-a-line-tunic-set-top-pants-scarf"/>
+    <title>Holiday Paisley A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/21792_3.jpg?v=1542181975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Red &amp; Green</p>
+<p>• Red Top with Ruffles</p>
+<p>• Green &amp; Red Paisley Design Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>X-Small: 18 months - 20" Chest , 12" Sleeve Length, 13/20" Long</p>
+<p><span>Small: 2T - 21" Chest , 12" Sleeve Length, 15/21" Long</span></p>
+<p>Medium: 3T - 22" Chest , 13" Sleeve Length, 16/22" Long</p>
+<p>Large: 4T - 22" Chest , 14" Sleeve Length, 17/23" Long</p>
+<p>X-Large: 5 Years - 23" Chest , 15" Sleeve Length, 18/24" Long</p>
+<p>XX-Large: 6 Years - 24" Chest ,16" Sleeve Length, 19/25" Long</p>
+<p><span>XXX-Large: 7 Years - 24" Chest ,16" Sleeve Length, 19/25" Long</span></p>
+<p><strong>Pants:</strong></p>
+<p>X-Small: <span>18 months</span> - 16.5" Long, 16" Waist</p>
+<p><span>Small: 2T - 19" Long, 17" Waist</span></p>
+<p>Medium: 3T - 20.5" Long, 18" Waist</p>
+<p>Large: 4T - 22" Long, 19" Waist</p>
+<p>X-Large: 5 Years - 23" Long, 20" Waist</p>
+<p>XX-Large: 6 Years - 24" Long, 21" Waist</p>
+<p><span>XXX-Large: 7 Years - 24" Long, 21" Waist</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>20-30</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1326588428332</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>21792-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1326588428332</id>
+      <title>2T</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>21792-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1326588428332</id>
+      <title>3T</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>21792-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1326588428332</id>
+      <title>4T</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>21792-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1326588428332</id>
+      <title>5T</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>21792-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1326588428332</id>
+      <title>6 Years</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>21792-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1326588428332</id>
+      <title>7 Years</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>21792-3XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1398500655148</id>
+    <published>2019-08-28T15:04:52-05:00</published>
+    <updated>2019-08-28T15:04:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/plaid-christmas-tree-a-line-tunic-set-top-pants-scarf"/>
+    <title>Plaid Christmas Tree A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29618.jpg?v=1543216171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Red, White &amp; Black</p>
+<p>• Red Top with Ruffles</p>
+<p>• White with Black &amp; Red Plaid Christmas Tree &amp; Polka Dot Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p><span>X-Small: 12-18 months - 19" Chest , 12" Sleeve Length, 14/19" Long</span></p>
+<p><span>Small: 2T - 20" Chest , 12" Sleeve Length, 15/20" Long</span></p>
+<p>Medium: 3T - 20" Chest , 13" Sleeve Length, 16/21" Long</p>
+<p>Large: 4T - 22" Chest , 14" Sleeve Length, 18/24" Long</p>
+<p>X-Large: 5 Years - 24" Chest , 14" Sleeve Length, 18/23" Long</p>
+<p>XX-Large: 6 Years - 24" Chest ,16" Sleeve Length, 19/25" Long</p>
+<p><strong>Pants:</strong></p>
+<p><span>X-Small: </span><span>18 months</span><span> - 19" Long, 18" Waist (Stretched)</span></p>
+<p><span>Small: 2T - 21" Long, 20" Waist (Stretched)</span></p>
+<p>Medium: 3T - 23" Long, 20" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 24" Long, 22" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 25" Long, 24" Waist <span>(Stretched)</span></p>
+<p>XX-Large: 6 Years - 27" Long, 24" Waist <span>(Stretched)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Tree</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Plaid</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398500655148</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29618-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398500655148</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29618-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398500655148</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29618-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398500655148</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29618-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398500655148</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29618-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398500655148</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29618-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398500655148</id>
+      <title>7 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29618-3XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1456983506988</id>
+    <published>2019-07-15T11:39:18-05:00</published>
+    <updated>2019-07-15T11:39:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/snowman-3pc-set-a-line-tunic-set-top-pants-scarf"/>
+    <title>Snowman 3pc Set A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29740.jpg?v=1544771405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Black Top with a Snowman Applique</p>
+<p>• Red, White &amp; Green Snowflake Printed Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Perfect For Fall &amp; Winter</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>XX-Small: 6-12 months - 17" Chest , 10" Sleeve Length, 13.5" Long</p>
+<p><span>X-Small: 12-18 months - 18" Chest , 11" Sleeve Length, 16" Long</span></p>
+<p>Small: 2T - 20" Chest , 12" Sleeve Length, 18" Long</p>
+<p>Medium: 3T - 21" Chest , 13" Sleeve Length, 20" Long</p>
+<p>Large: 4T - 22" Chest , 13.5" Sleeve Length, 20" Long</p>
+<p>X-Large: 5 Years - 23" Chest , 14.5" Sleeve Length, 21" Long</p>
+<p>XX-Large: 6 Years - 24" Chest ,15" Sleeve Length, 22" Long</p>
+<p><strong>Pants:</strong></p>
+<p>XX-Small: 6-12 months - 17" Long, 18" Waist (Stretched)</p>
+<p><span>X-Small: 12-18 months - 18" Long, 19" Waist (Stretched)</span></p>
+<p>Small: 2T - 20" Long, 21" Waist <span>(Stretched)</span></p>
+<p>Medium: 3T - 23" Long, 22" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 23.5" Long, 23" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 26" Long, 24" Waist <span>(Stretched)</span></p>
+<p>XX-Large: 6 Years - 26.5" Long, 26" Waist <span>(Stretched)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Tree</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1456983506988</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29740-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1456983506988</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29740-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1456983506988</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29740-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1456983506988</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29740-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1456983506988</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29740-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1456983506988</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29740-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1456983506988</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29740-XXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1456983506988</id>
+      <title>7 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29740-XXXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1453504167980</id>
+    <published>2018-11-26T13:15:57-06:00</published>
+    <updated>2018-11-26T13:15:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/winter-tribal-reindeer-3pc-set-with-fringe-a-line-tunic-set-top-pants-scarf"/>
+    <title>Winter Tribal Reindeer 3pc Set with Fringe A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_8845.jpg?v=1570553697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Black Top with Mint Reindeer, Mint Fringe</p>
+<p>• Winter Tribal Reindeer Printed Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Perfect For Fall &amp; Winter</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>XX-Small: 6-12 months - 17" Chest , 10" Sleeve Length, 14.5" Long</p>
+<p><span>X-Small: 12-18 months - 18" Chest , 11" Sleeve Length, 16" Long</span></p>
+<p>Small: 2T - 19" Chest , 12" Sleeve Length, 18" Long</p>
+<p>Medium: 3T - 20" Chest , 12" Sleeve Length, 19" Long</p>
+<p>Large: 4T - 22" Chest , 13" Sleeve Length, 20.5" Long</p>
+<p>X-Large: 5 Years - 24" Chest , 15" Sleeve Length, 22.5" Long</p>
+<p>XX-Large: 6 Years - 24" Chest ,15" Sleeve Length, 22.5" Long</p>
+<p><strong>Pants:</strong></p>
+<p>XX-Small: 6-12 months - 18" Long, 18" Waist (Stretched)</p>
+<p><span>X-Small: 12-18 months - 20" Long, 18" Waist (Stretched)</span></p>
+<p>Small: 2T - 20" Long, 21" Waist <span>(Stretched)</span></p>
+<p>Medium: 3T - 22" Long, 23" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 24" Long, 24" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 26" Long, 26" Waist <span>(Stretched)</span></p>
+<p>XX-Large: 6 Years - 26" Long, 27" Waist <span>(Stretched)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>20-30</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Reindeer</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1453504167980</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32901-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1453504167980</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32901-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1453504167980</id>
+      <title>2T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32901-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1453504167980</id>
+      <title>3T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32901-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1453504167980</id>
+      <title>4T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32901-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1453504167980</id>
+      <title>5T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32901-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1453504167980</id>
+      <title>6 Years</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32901-XXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1453504167980</id>
+      <title>7 Years</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>32901-XXXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1457134141484</id>
+    <published>2018-11-26T13:14:19-06:00</published>
+    <updated>2018-11-26T13:14:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/boho-reindeer-3pc-set-a-line-tunic-set-top-pants-scarf"/>
+    <title>Boho Reindeer 3pc Set A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29743.jpg?v=1544771408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Red Top with a Reindeer Applique</p>
+<p>• Red, White &amp; Green Christmas Boho Printed Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Perfect For Fall &amp; Winter</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>XX-Small: 6-12 months - 18" Chest , 10" Sleeve Length, 13.5" Long</p>
+<p><span>X-Small: 12-18 months - 18" Chest , 11" Sleeve Length, 17" Long</span></p>
+<p>Small: 2T - 20" Chest , 12" Sleeve Length, 18" Long</p>
+<p>Medium: 3T - 21" Chest , 13" Sleeve Length, 19" Long</p>
+<p>Large: 4T - 22" Chest , 13" Sleeve Length, 21" Long</p>
+<p>X-Large: 5 Years - 23" Chest , 14.5" Sleeve Length, 22" Long</p>
+<p>XX-Large: 6 Years - 24" Chest ,15" Sleeve Length, 23" Long</p>
+<p><strong>Pants:</strong></p>
+<p>XX-Small: 6-12 months - 17" Long, 20" Waist (Stretched)</p>
+<p><span>X-Small: 12-18 months - 19" Long, 22" Waist (Stretched)</span></p>
+<p>Small: 2T - 21" Long, 24" Waist <span>(Stretched)</span></p>
+<p>Medium: 3T - 23" Long, 26" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 24" Long, 26" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 25" Long, 26" Waist <span>(Stretched)</span></p>
+<p>XX-Large: 6 Years - 26" Long, 27" Waist <span>(Stretched)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Tree</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Reindeer</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457134141484</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29743-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457134141484</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29743-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457134141484</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29743-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457134141484</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29743-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457134141484</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29743-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457134141484</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29743-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457134141484</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29743-XXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1457217077292</id>
+    <published>2018-11-26T13:04:50-06:00</published>
+    <updated>2018-11-26T13:04:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/christmas-reindeer-a-line-tunic-set-top-pants"/>
+    <title>Christmas Reindeer A-Line Tunic Set - Top &amp; Pants</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29744.jpg?v=1544771409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 2 pieces</p>
+<p>• Red, White, &amp; Silver</p>
+<p>• Silver &amp; White Honeycomb Print Top with a Reindeer Applique along with Red and White Polka Dot Ruffles on Bottom</p>
+<p>• Silver &amp; White Honeycomb Print with Red &amp; Whites Polka Dot Ruffles on Bottom</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p><span>X-Small: 12-18 months - 20" Chest , 11.5" Sleeve Length, 13.5" Long</span></p>
+<p>Small: 2T - 21" Chest , 11.5" Sleeve Length, 14" Long</p>
+<p>Medium: 3T - 22" Chest , 12.5" Sleeve Length, 14.5" Long</p>
+<p>Large: 4T - 22" Chest , 13" Sleeve Length, 17" Long</p>
+<p>X-Large: 5 Years - 24" Chest , 14" Sleeve Length, 18" Long</p>
+<p><strong>Pants:</strong></p>
+<p><span>X-Small: 12-18 months - 19" Long, 22" Waist (Stretched)</span></p>
+<p>Small: 2T - 21" Long, 23" Waist <span>(Stretched)</span></p>
+<p>Medium: 3T - 23" Long, 24" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 25" Long, 24" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 27" Long, 26" Waist <span>(Stretched)</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Reindeer</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Santa Claus</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457217077292</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29744-XS-80</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457217077292</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29744-S-90</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457217077292</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29744-M-100</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457217077292</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29744-L-110</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457217077292</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29744-XL-120</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1457085808684</id>
+    <published>2018-11-26T13:04:42-06:00</published>
+    <updated>2018-11-26T13:04:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/ho-ho-ho-santa-3pc-set-a-line-tunic-set-top-pants-scarf"/>
+    <title>Ho Ho Ho Santa 3pc Set A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29741.jpg?v=1544771406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Black Top with a Santa Applique</p>
+<p>• Red &amp; White Ho Ho Ho Printed Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Perfect For Fall &amp; Winter</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>XX-Small: 6-12 months - 17" Chest , 10" Sleeve Length, 13.5" Long</p>
+<p><span>X-Small: 12-18 months - 18" Chest , 11" Sleeve Length, 16" Long</span></p>
+<p>Small: 2T - 20" Chest , 12" Sleeve Length, 18" Long</p>
+<p>Medium: 3T - 21" Chest , 13" Sleeve Length, 20" Long</p>
+<p>Large: 4T - 22" Chest , 13.5" Sleeve Length, 20" Long</p>
+<p>X-Large: 5 Years - 23" Chest , 14.5" Sleeve Length, 21" Long</p>
+<p>XX-Large: 6 Years - 24" Chest ,15" Sleeve Length, 22" Long</p>
+<p><strong>Pants:</strong></p>
+<p>XX-Small: 6-12 months - 17" Long, 18" Waist (Stretched)</p>
+<p><span>X-Small: 12-18 months - 18" Long, 19" Waist (Stretched)</span></p>
+<p>Small: 2T - 20" Long, 21" Waist <span>(Stretched)</span></p>
+<p>Medium: 3T - 23" Long, 22" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 23.5" Long, 23" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 26" Long, 24" Waist <span>(Stretched)</span></p>
+<p>XX-Large: 6 Years - 26.5" Long, 26" Waist <span>(Stretched)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>20-30</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Tree</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457085808684</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>29741-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457085808684</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>29741-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457085808684</id>
+      <title>2T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>29741-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457085808684</id>
+      <title>3T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>29741-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457085808684</id>
+      <title>4T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>29741-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457085808684</id>
+      <title>5T</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>29741-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457085808684</id>
+      <title>6 Years</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>29741-XXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1457085808684</id>
+      <title>7 Years</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>29741-XXXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9131681420</id>
+    <published>2018-11-12T15:43:00-06:00</published>
+    <updated>2018-11-12T15:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/white-long-sleeve-reindeer-top-with-red-and-white-christmas-pants-matching-scarf"/>
+    <title>White Long Sleeve Reindeer Top with Red and White Christmas Pants &amp; Matching Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_2981.jpg?v=1570028543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• White Top with Reindeer Applique</p>
+<p>• <span>Red &amp; White Christmas Pattern Pants</span></p>
+<p>• Matching Infinity Scarf</p>
+<p>• Perfect For Fall &amp; Winter</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>XX-Small: 6-12 months - 17" Chest , 10" Sleeve Length, 14" Long</p>
+<p><span>X-Small: 12-18 months - 19" Chest , 11" Sleeve Length, 16" Long</span></p>
+<p>Small: 2T - 20" Chest , 11.5" Sleeve Length, 18" Long</p>
+<p>Medium: 3T - 21" Chest , 13" Sleeve Length, 19" Long</p>
+<p>Large: 4T - 22" Chest , 13.5" Sleeve Length, 20" Long</p>
+<p>X-Large: 5 Years - 23" Chest , 14" Sleeve Length, 21" Long</p>
+<p>XX-Large: 6 Years - 24" Chest ,15" Sleeve Length, 22" Long</p>
+<p><strong>Pants:</strong></p>
+<p>XX-Small: 6-12 months - 18" Long, 17" Waist (Stretched)</p>
+<p><span>X-Small: 12-18 months - 20" Long, 17.5" Waist (Stretched)</span></p>
+<p>Small: 2T - 21" Long, 19.5" Waist <span>(Stretched)</span></p>
+<p>Medium: 3T - 23" Long, 22" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 24" Long, 23.5" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 26" Long, 25" Waist <span>(Stretched)</span></p>
+<p>XX-Large: 6 Years - 27" Long, 26" Waist <span>(Stretched)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-30</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Reindeer</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9131681420</id>
+      <title>XX-Small</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>21003-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9131681420</id>
+      <title>X-Small</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>21003-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9131681420</id>
+      <title>Small</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>21003-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9131681420</id>
+      <title>Medium</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>21003-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9131681420</id>
+      <title>Large</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>21003-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9131681420</id>
+      <title>X-Large</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>21003-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9131681420</id>
+      <title>XX-Large</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>21003-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9131681420</id>
+      <title>XXX-Large</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>21003-XXXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1588913733734</id>
+    <published>2018-08-03T13:17:24-05:00</published>
+    <updated>2018-08-03T13:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/red-roses-a-line-tunic-set-top-pants-scarf"/>
+    <title>Red Roses A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29907.jpg?v=1543561766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Red &amp; White</p>
+<p>• Red Top with Ruffles</p>
+<p>• White with Rose Design Pants</p>
+<p><span>• Matching Infinity Scarf</span></p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p><span>XX-Small: 6-12 months - 18" Chest , 11" Sleeve Length, 14/19" Long</span></p>
+<p><span>X-Small: 12-18 months - 19" Chest , 12" Sleeve Length, 15/19" Long</span></p>
+<p><span>Small: 2T - 19" Chest , 12" Sleeve Length, 16/21" Long</span></p>
+<p>Medium: 3T - 20" Chest , 13" Sleeve Length, 16/21" Long</p>
+<p>Large: 4T - 23" Chest , 14" Sleeve Length, 18/23" Long</p>
+<p>X-Large: 5 Years - 23" Chest , 15" Sleeve Length, <span>18/23</span>" Long</p>
+<p>XX-Large: 6 Years - 24" Chest ,16" Sleeve Length, 19/24" Long</p>
+<p><strong>Pants:</strong></p>
+<p><span>XX-Small: 6-12</span><span> months</span><span> - 17.5</span><span>" Long, 20" Waist (Stretched)</span></p>
+<p><span>X-Small: 18 months - 18.5" Long, 22" Waist (Stretched)</span></p>
+<p><span>Small: 2T - 21" Long, 23" Waist (Stretched)</span></p>
+<p>Medium: 3T - 22.5" Long, 24" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 24" Long, 25" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 25.5" Long, 26" Waist <span>(Stretched)</span></p>
+<p>XX-Large: 6 Years - 27" Long, 26" Waist <span>(Stretched)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>Floral</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Hearts</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1588913733734</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29907-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1588913733734</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29907-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1588913733734</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29907-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1588913733734</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29907-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1588913733734</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29907-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1588913733734</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29907-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1588913733734</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29907-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1398135488556</id>
+    <published>2018-08-03T13:17:24-05:00</published>
+    <updated>2018-08-03T13:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/red-white-reindeer-a-line-tunic-set-top-pants-scarf"/>
+    <title>Red &amp; White Reindeer A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29666.jpg?v=1543216167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Red &amp; White</p>
+<p>• Red Top with The Reindeer Applique</p>
+<p>• Red &amp; White Reindeer &amp; Snowflake Design Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p><span>XX-Small: 6-12 months - 18" Chest , 10" Sleeve Length, 14" Long</span></p>
+<p><span>X-Small: 12-18 months - 20" Chest , 10" Sleeve Length, 15" Long</span></p>
+<p>Small: 2T - 20" Chest , 11" Sleeve Length, 16" Long</p>
+<p>Medium: 3T - 21" Chest , 13" Sleeve Length, 18" Long</p>
+<p>Large: 4T - 22" Chest , 13" Sleeve Length, 19" Long</p>
+<p>X-Large: 5 Years - 24" Chest , 14" Sleeve Length, 20" Long</p>
+<p>XX-Large: 6 Years - 25" Chest ,14" Sleeve Length, 20.5" Long</p>
+<p><strong>Pants:</strong></p>
+<p><span>XX-Small: 6-12 months - 18" Long, 17" Waist (Stretched)</span></p>
+<p><span>X-Small: 12-18 months - 18" Long, 18.5" Waist (Stretched)</span></p>
+<p>Small: 2T - 18.5" Long, 20" Waist <span>(Stretched)</span></p>
+<p>Medium: 3T - 21.5" Long, 22" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 23" Long, 23" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 24" Long, 24" Waist <span>(Stretched)</span></p>
+<p>XX-Large: 6 Years - 25.5" Long, 25" Waist <span>(Stretched)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Reindeer</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398135488556</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29660-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398135488556</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29660-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398135488556</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29660-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398135488556</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29660-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398135488556</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29660-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398135488556</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29660-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398135488556</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29660-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1398076407852</id>
+    <published>2018-08-03T13:17:24-05:00</published>
+    <updated>2018-08-03T13:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/turquoise-floral-print-a-line-tunic-set-top-pants-scarf"/>
+    <title>Turquoise Floral Print A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29664.jpg?v=1543216164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Turquoise Pink and Orange</p>
+<p>• Turquoise Top with Ruffles</p>
+<p>• Turquoise, Pink and Orange Floral Print Design Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>XX-Small: 6-12 months - 18" Chest , 11.5" Sleeve Length, 11.5/19" Long</p>
+<p><span>X-Small: 12-18 months - 20" Chest , 12" Sleeve Length, 12/20" Long</span></p>
+<p><span>Small: 2T - 21" Chest , 12.5" Sleeve Length, 13/20.5" Long</span></p>
+<p>Medium: 3T - 22" Chest , 13.5" Sleeve Length, 14.5/21" Long</p>
+<p>Large: 4T - 22" Chest , 14" Sleeve Length, 14.5/21" Long</p>
+<p>X-Large: 5 Years - 24" Chest , 15" Sleeve Length, 16.5/24" Long</p>
+<p>XX-Large: 6 Years - 25" Chest ,15.5" Sleeve Length, 16.5/25" Long</p>
+<p><strong>Pants:</strong></p>
+<p>XX-Small: <span>18 months</span> - 18" Long, 19.5" Waist (Stretched)</p>
+<p><span>X-Small: </span><span>18 months</span><span> - 18.5" Long, 20" Waist (Stretched)</span></p>
+<p><span>Small: 2T - 18.5" Long, 20" Waist (Stretched)</span></p>
+<p>Medium: 3T - 22.5" Long, 22" Waist <span>(Stretched)</span></p>
+<p>Large: 4T - 23.5" Long, 23" Waist <span>(Stretched)</span></p>
+<p>X-Large: 5 Years - 25" Long, 24" Waist <span>(Stretched)</span></p>
+<p>XX-Large: 6 Years - 26" Long, 24" Waist <span>(Stretched)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398076407852</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29659-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398076407852</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29659-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398076407852</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29659-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398076407852</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29659-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398076407852</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29659-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398076407852</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29659-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398076407852</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29659-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1392456400940</id>
+    <published>2018-08-03T13:17:24-05:00</published>
+    <updated>2018-08-03T13:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/unicorn-minnie-a-line-tunic-set-top-pants-scarf"/>
+    <title>Unicorn Minnie A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29614.jpg?v=1543043414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Black &amp; Pink</p>
+<p>• Black Top with Unicorn Minnie Applique</p>
+<p>• Pink with Unicorn Minnie and Rainbow Design Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p><span>X-Small: 18 months - 17" Chest , 11.5" Sleeve Length, 15" Long</span></p>
+<p>Small: 2T - 18" Chest , 12" Sleeve Length, 16" Long</p>
+<p>Medium: 3T - 20" Chest , 13" Sleeve Length, 17" Long</p>
+<p>Large: 4T - 21" Chest , 14" Sleeve Length, 19" Long</p>
+<p>X-Large: 5 Years - 23" Chest , 15" Sleeve Length, 19" Long</p>
+<p>XX-Large: 6 Years - 24" Chest ,15" Sleeve Length, 20" Long</p>
+<p><strong>Pants:</strong></p>
+<p><span>X-Small: 18 months - 19" Long, 16" Waist</span></p>
+<p>Small: 2T - 21" Long, 16" Waist</p>
+<p>Medium: 3T - 23" Long, 18" Waist</p>
+<p>Large: 4T - 24" Long, 18" Waist</p>
+<p>X-Large: 5 Years - 26" Long, 19" Waist</p>
+<p>XX-Large: 6 Years - 26.5" Long, 20" Waist</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Minnie Mouse</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1392456400940</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29614-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1392456400940</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29614-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1392456400940</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29614-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1392456400940</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29614-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1392456400940</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29614-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1392456400940</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29614-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1221626036268</id>
+    <published>2018-08-03T13:17:24-05:00</published>
+    <updated>2018-08-03T13:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/polka-dot-turkey-brown-long-sleeve-pant-set-top-pants"/>
+    <title>Polka Dot Turkey Brown Long Sleeve Pant Set - Top &amp; Pants</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29080.jpg?v=1542181866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 2 pieces</p>
+<p>• Brown &amp; Orange</p>
+<p>• Brown Top with Orange Polka Dot Turkey Applique</p>
+<p>• Orange &amp; White Polka Dot Design Pants</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>X-Small: 18 months - 20" Chest , 11.5" Sleeve Length, 16" Long</p>
+<p>Small: 2T-3T - 20" Chest , 12" Sleeve Length, 18" Long</p>
+<p>Medium: 3T-4T - 22" Chest , 13.5" Sleeve Length, 19" Long</p>
+<p>Large: 4T-5T - 23" Chest , 14" Sleeve Length, 20" Long</p>
+<p>X-Large: 5-6 Years - 24" Chest , 14.5" Sleeve Length, 20" Long</p>
+<p>XX-Large: 6-7 Years - 25" Chest ,16" Sleeve Length, 21" Long</p>
+<p><strong>Pants:</strong></p>
+<p><span>X-Small: 18 months - 18" Long, 16" Waist</span></p>
+<p>Small: 2T-3T - 19.5" Long, 17" Waist</p>
+<p>Medium: 3T-4T - 22" Long, 18" Waist</p>
+<p>Large: 4T-5T - 24" Long, 18" Waist</p>
+<p>X-Large: 5-6 Years - 25" Long, 20" Waist</p>
+<p>XX-Large: 6-7 Years - 28" Long, 20" Waist</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>Animals</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Thanksgiving</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1221626036268</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>29080-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1221626036268</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>29080-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1221626036268</id>
+      <title>2T</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>29080-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1221626036268</id>
+      <title>3T</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>29080-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1221626036268</id>
+      <title>4T</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>29080-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1221626036268</id>
+      <title>5T</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>29080-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1221626036268</id>
+      <title>6 Years</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>29080-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1189095669804</id>
+    <published>2018-08-03T13:17:24-05:00</published>
+    <updated>2018-08-03T13:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/brown-orange-plaid-a-line-tunic-set-top-pants-scarf"/>
+    <title>Brown &amp; Orange Plaid A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28324.jpg?v=1542181781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Brown, Orange &amp; White</p>
+<p>• Brown Top</p>
+<p>• Orange with Brown &amp; White Plaid Design Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p><span>X-Small: 12 months - 18" Chest , 10" Sleeve Length, 17.5" Long</span></p>
+<p>Small: 2T - 19" Chest , 11" Sleeve Length, 18" Long</p>
+<p>Medium: 3T - 19" Chest , 12" Sleeve Length, 19.5" Long</p>
+<p>Large: 4T - 20" Chest , 12.5" Sleeve Length, 20.5" Long</p>
+<p>X-Large: 5 Years - 21" Chest , 13.5" Sleeve Length, 21.5" Long</p>
+<p>XX-Large: 6 Years - 22" Chest ,14" Sleeve Length, 22.5" Long</p>
+<p><span>XXX-Large: 7 Years - 22" Chest ,15" Sleeve Length, 23" Long</span></p>
+<p><strong>Pants:</strong></p>
+<p><span>X-Small: 12 months - 16.5" Long, 15" Waist</span></p>
+<p>Small: 2T - 18.5" Long, 16" Waist</p>
+<p>Medium: 3T - 20" Long, 17" Waist</p>
+<p>Large: 4T - 22.5" Long, 18" Waist</p>
+<p>X-Large: 5 Years - 23.5" Long, 19" Waist</p>
+<p>XX-Large: 6 Years - 25.5" Long, 20" Waist</p>
+<p><span>XXX-Large: 7 Years - 27" Long, 20" Waist</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Thanksgiving</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189095669804</id>
+      <title>12 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28324-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189095669804</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28324-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189095669804</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28324-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189095669804</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28324-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189095669804</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28324-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189095669804</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28324-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189095669804</id>
+      <title>7 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28324-XXXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1189063196716</id>
+    <published>2018-08-03T13:17:24-05:00</published>
+    <updated>2018-08-03T13:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/tribal-fox-a-line-tunic-set-top-pants-scarf"/>
+    <title>Tribal Fox A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28323.jpg?v=1542181780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Brown, Orange &amp; White</p>
+<p>• Brown Top</p>
+<p>• White with Orange Tribal Fox Design Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p><span>X-Small: 12 months - 18" Chest, 9.5" Sleeve Length, 17" Long</span></p>
+<p>Small: 2T - 18" Chest, 11" Sleeve Length, 18" Long</p>
+<p>Medium: 3T - 19" Chest, 12" Sleeve Length, 19.5" Long</p>
+<p>Large: 4T - 20" Chest, 12.5" Sleeve Length, 20" Long</p>
+<p>X-Large: 5 Years - 22" Chest, 13.5" Sleeve Length, 21.5" Long</p>
+<p>XX-Large: 6 Years - 21" Chest, 14" Sleeve Length, 23" Long</p>
+<p><span>XXX-Large: 7 Years - 23" Chest, 15.5" Sleeve Length, 23.5" Long</span></p>
+<p><strong>Pants:</strong></p>
+<p><span>X-Small: 12 months - 16" Long, 14" Waist</span></p>
+<p>Small: 2T - 18" Long, 16" Waist</p>
+<p>Medium: 3T - 20" Long, 17" Waist</p>
+<p>Large: 4T - 22" Long, 18" Waist</p>
+<p>X-Large: 5 Years - 24" Long, 18" Waist</p>
+<p>XX-Large: 6 Years - 25.5" Long, 20" Waist</p>
+<p><span>XXX-Large: 7 Years - 27" Long, 20" Waist</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Thanksgiving</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189063196716</id>
+      <title>12 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28323-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189063196716</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28323-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189063196716</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28323-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189063196716</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28323-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189063196716</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28323-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189063196716</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28323-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1189063196716</id>
+      <title>7 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28323-XXXL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1154510159916</id>
+    <published>2018-08-03T13:17:24-05:00</published>
+    <updated>2018-08-03T13:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/orange-purple-black-cat-a-line-tunic-set-top-pants-scarf"/>
+    <title>Orange &amp; Purple Black Cat A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28256.jpg?v=1542181684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Orange &amp; Purple</p>
+<p>• Orange Top with Black Cat Applique</p>
+<p>• Purple &amp; Black Cat Face Design Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>XX-Small: 6-12 months - 17" Chest , 10.5" Sleeve Length, 14" Long</p>
+<p><span>X-Small: 18 months - 18" Chest , 11" Sleeve Length, 15" Long</span></p>
+<p>Small: 2T-3T - 20" Chest , 11.5" Sleeve Length, 16.5" Long</p>
+<p>Medium: 3T-4T - 21" Chest , 12.5" Sleeve Length, 19" Long</p>
+<p>Large: 4T-5T - 22" Chest , 13" Sleeve Length, 19.5" Long</p>
+<p>X-Large: 5-6 Years - 22" Chest , 14" Sleeve Length, 21" Long</p>
+<p>XX-Large: 6-7 Years - 23" Chest ,15 " Sleeve Length, 22" Long</p>
+<p><strong>Pants:</strong></p>
+<p>XX-Small: 6-12 months - 15.5" Long, 15" Waist</p>
+<p><span>X-Small: 18 months - 18" Long, 15" Waist</span></p>
+<p>Small: 2T-3T - 19" Long, 16" Waist</p>
+<p>Medium: 3T-4T - 20.5" Long, 17" Waist</p>
+<p>Large: 4T-5T - 23" Long, 17" Waist</p>
+<p>X-Large: 5-6 Years - 24" Long, 18" Waist</p>
+<p>XX-Large: 6-7 Years - 26" Long, 20" Waist</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154510159916</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28256-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154510159916</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28256-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154510159916</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28256-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154510159916</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28256-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154510159916</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28256-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154510159916</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28256-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154510159916</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28256-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1154505769004</id>
+    <published>2018-08-03T13:17:24-05:00</published>
+    <updated>2018-08-03T13:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/black-white-orange-boo-ghost-a-line-tunic-set-top-pants-scarf"/>
+    <title>Black, White &amp; Orange Boo Ghost A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28254.jpg?v=1542181682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Black White &amp; Orange</p>
+<p>• Black Top with Boo Ghost Applique</p>
+<p>• Black, White &amp; Orange Pumpkin Design Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>XX-Small: 6-12 months - 16" Chest , 10.5" Sleeve Length, 13.5" Long</p>
+<p><span>X-Small: 18 months - 18" Chest , 11" Sleeve Length, 15" Long</span></p>
+<p>Small: 2T-3T - 20" Chest , 11.5" Sleeve Length, 16.5" Long</p>
+<p>Medium: 3T-4T - 21" Chest , 12.5" Sleeve Length, 19" Long</p>
+<p>Large: 4T-5T - 22" Chest , 13" Sleeve Length, 19.5" Long</p>
+<p>X-Large: 5-6 Years - 22" Chest , 14" Sleeve Length, 21" Long</p>
+<p>XX-Large: 6-7 Years - 23" Chest ,15 " Sleeve Length, 22" Long</p>
+<p><strong>Pants:</strong></p>
+<p>XX-Small: 6-12 months - 17" Long, 14" Waist</p>
+<p><span>X-Small: 18 months - 18" Long, 15" Waist</span></p>
+<p>Small: 2T-3T - 19" Long, 16" Waist</p>
+<p>Medium: 3T-4T - 20.5" Long, 17" Waist</p>
+<p>Large: 4T-5T - 23" Long, 17" Waist</p>
+<p>X-Large: 5-6 Years - 24" Long, 18" Waist</p>
+<p>XX-Large: 6-7 Years - 26" Long, 20" Waist</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154505769004</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28254-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154505769004</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28254-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154505769004</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28254-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154505769004</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28254-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154505769004</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28254-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154505769004</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28254-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1154505769004</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28254-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1138536022060</id>
+    <published>2018-08-03T13:17:24-05:00</published>
+    <updated>2018-08-03T13:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/brown-with-pumpkins-a-line-tunic-set-top-pants-scarf"/>
+    <title>Brown Old Fashion Pumpkin A-Line Tunic Set - Top, Pants &amp; Scarf</title>
+    <s:type>Girls - Outfits</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28107.jpg?v=1534380187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Outfits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p>• 3 pieces</p>
+<p>• Brown, Cream &amp; Orange</p>
+<p>• Brown Top with Pumpkin Applique</p>
+<p>• Brown, Cream &amp; Orange Old Fashion Pumpkin Design Pants</p>
+<p>• Matching Infinity Scarf</p>
+<p>• Extra cute for photos!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p><strong>Fit &amp; Sizing:</strong></p>
+<p><strong>Top:</strong></p>
+<p>XX-Small: 6-12 months - 16" Chest , 10.5" Sleeve Length, 13.5" Long</p>
+<p><span>X-Small: 18 months - 18" Chest , 11" Sleeve Length, 15" Long</span></p>
+<p>Small: 2T-3T - 20" Chest , 11.5" Sleeve Length, 16.5" Long</p>
+<p>Medium: 3T-4T - 21" Chest , 12.5" Sleeve Length, 19" Long</p>
+<p>Large: 4T-5T - 22" Chest , 13" Sleeve Length, 19.5" Long</p>
+<p>X-Large: 5-6 Years - 22" Chest , 14" Sleeve Length, 21" Long</p>
+<p>XX-Large: 6-7 Years - 23" Chest ,15 " Sleeve Length, 22" Long</p>
+<p><strong>Pants:</strong></p>
+<p>XX-Small: 6-12 months - 17" Long, 14" Waist</p>
+<p><span>X-Small: 18 months - 18" Long, 15" Waist</span></p>
+<p>Small: 2T-3T - 19" Long, 16" Waist</p>
+<p>Medium: 3T-4T - 20.5" Long, 17" Waist</p>
+<p>Large: 4T-5T - 23" Long, 17" Waist</p>
+<p>X-Large: 5-6 Years - 24" Long, 18" Waist</p>
+<p>XX-Large: 6-7 Years - 26" Long, 20" Waist</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5T</s:tag>
+    <s:tag>6 Years</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>6-12M</s:tag>
+    <s:tag>7 Years</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Outfits</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outfits &amp; Sets</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1138536022060</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28107-XXS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1138536022060</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28107-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1138536022060</id>
+      <title>2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28107-S</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1138536022060</id>
+      <title>3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28107-M</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1138536022060</id>
+      <title>4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28107-L</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1138536022060</id>
+      <title>5T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28107-XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1138536022060</id>
+      <title>6 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28107-2XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1138536022060</id>
+      <title>7 Years</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>28107-3XL</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+</feed>

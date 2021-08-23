@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/women-scarves-shawls.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2019-09-20T12:48:47-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4102751944806</id>
+    <published>2019-09-20T12:48:47-05:00</published>
+    <updated>2019-09-20T12:48:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/womens-crochet-scarves"/>
+    <title>Women&apos;s Crochet Scarves - 5 Colors</title>
+    <s:type>Women - Accessories</s:type>
+    <s:vendor>Dear Lover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_8832.jpg?v=1575569225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dear Lover<br>
+        <strong>Type: </strong>Women - Accessories<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These scarves are the perfect addition to your fall and winter wardrobe!  Accessorize any outfit with one or wear with your winter coat when it is especially chilly. One size fits all. Five colors to choose from.</p>
+<p>Fabric Care:</p>
+<ul>
+<li>Hand Wash Cold</li>
+<li>Hang Dry</li>
+<li>Light Weight Material, 100% Acrylic</li>
+<li>Made in China</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Accessory Sets</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Burgundy</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Olive Green</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Scarf</s:tag>
+    <s:tag>Scarves</s:tag>
+    <s:tag>Scarves &amp; Shawls</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Accessories</s:tag>
+    <s:tag>Women - Clothing</s:tag>
+    <s:tag>Women - Scarves</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4102751944806</id>
+      <title>Gray</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>32775-LC40563-11</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4102751944806</id>
+      <title>Brown</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>32776-LC40563-17</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4102751944806</id>
+      <title>Black</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>32774-LC40563-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4102751944806</id>
+      <title>Burgundy</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>32773-LC40563-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4102751944806</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>32772-LC40563-9</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1005715849260</id>
+    <published>2018-06-19T14:23:17-05:00</published>
+    <updated>2018-06-19T14:23:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/womens-neckerchief-accessory-set-2-pack"/>
+    <title>Women&apos;s Neckerchief Accessory Set, 2 pack</title>
+    <s:type>Women - Scarves</s:type>
+    <s:vendor>D&amp;Y</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26395.jpg?v=1529471797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D&amp;Y<br>
+        <strong>Type: </strong>Women - Scarves<br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Women's Neckerchief Set is the perfect balance of style and versatility. Can be wrapped around your neck, handbag, wrist or hat, or worn as a head scarf. This 2 piece accessory set is the ideal add-on to any dressy or casual outfit!! </p>
+<p>• Number of Pieces: 2</p>
+<div class="rte product-single__description" itemprop="description">
+<p>• Size: Printed Scarf: 22" x 22"; Textured Scarf: 22' x 23" </p>
+<p>• Available in 5 Colors</p>
+<p>• Hand Wash and Lay Flat to Dry</p>
+<div class="rte product-single__description" itemprop="description">
+<p>• 100% Polyester</p>
+<p>• Lightweight Material</p>
+<p>• Imported</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Light Blue/Gray</s:tag>
+    <s:tag>Light Pink/Ombre Blue</s:tag>
+    <s:tag>Navy/Ivory</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Scarves &amp; Shawls</s:tag>
+    <s:tag>Taupe/Ivory</s:tag>
+    <s:tag>Taupe/Taupe</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Scarves</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1005715849260</id>
+      <title>Taupe/Ivory</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>26393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1005715849260</id>
+      <title>Light Blue/Gray</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>26394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1005715849260</id>
+      <title>Navy/Ivory</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>26395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1005715849260</id>
+      <title>Light Pink/Ombre Blue</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>26396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1005715849260</id>
+      <title>Taupe/Taupe</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>26397</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/33401372697</id>
+    <published>2017-08-10T12:40:26-05:00</published>
+    <updated>2017-08-10T12:40:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/womens-colorful-bandanas-with-tassels"/>
+    <title>Women&apos;s Colorful Bandanas with Tassels</title>
+    <s:type>Women - Head Wraps</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/21734-BlueDot2.jpg?v=1529505558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Head Wraps<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Bandanas with Tassels are a great accessory.  They look amazing in your hair or around your neck.  Available in many different colors, each measures 21" x 21".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Bandana</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blue Dot</s:tag>
+    <s:tag>Blue Paisley</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>Coral Daisy</s:tag>
+    <s:tag>Coral Dot</s:tag>
+    <s:tag>Coral Paisley</s:tag>
+    <s:tag>Daisy</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Floral</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Green Dot</s:tag>
+    <s:tag>Hats &amp; Head Wraps</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Hot Pink Dot</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Mint Daisy</s:tag>
+    <s:tag>Mint Dot</s:tag>
+    <s:tag>Mint Paisley</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>Paisley</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink Daisy</s:tag>
+    <s:tag>Polka Dots</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Scarves &amp; Shawls</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Head Wraps</s:tag>
+    <s:tag>Women - Scarves</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Yellow Daisy</s:tag>
+    <s:tag>Yellow Paisley</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Blue Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-BLUDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Blue Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-BLUPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Coral Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-CORDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Coral Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-CORPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Coral Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-CORDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Green Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-GRNDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Hot Pink Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-HPKDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Mint Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-MINTDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Mint Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-MINTDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Mint Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-MINTPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Pink Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-PKDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Yellow Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-YELDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Yellow Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-YELPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

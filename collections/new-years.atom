@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/new-years.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2016-09-17T01:48:00-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8585892108</id>
+    <published>2016-09-17T01:48:00-05:00</published>
+    <updated>2016-09-17T01:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/yellow-2-inch-sequin-bow-on-skinny-headband-yellow"/>
+    <title>Yellow 2&quot; Sequin Bow On Skinny Headband - Yellow</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/14962.jpg?v=1474094936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Headband Color: Yellow</p>
+<p>• Headband Style: .25" Skinny Elastic</p>
+<p>• Includes: 2" Sequin Bow</p>
+<p>• Embellishments Colors: Yellow</p>
+<p>• Age: All Ages</p>
+<p>• Material: Metal and Polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>New Year&apos;s</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sequin</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8585892108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>14962</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8584030284</id>
+    <published>2016-09-16T20:03:00-05:00</published>
+    <updated>2016-09-16T20:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/white-2-5-inch-leather-bow-on-skinny-headband-ivory"/>
+    <title>White 2.5&quot; Leather Bow On Skinny Headband - Ivory</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/16788_20_3.jpg?v=1474074194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages from Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Headband Color: Ivory</p>
+<p>• Headband Style: Skinny Elastic</p>
+<p>• Includes: 2.5" Leather Bow</p>
+<p>• Embellishment Colors: White</p>
+<p>• Age: All Ages</p>
+<p>• Material: Elastic and Leather</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Ivory</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>New Year&apos;s</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8584030284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>16788</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8581210636</id>
+    <published>2016-09-16T15:16:00-05:00</published>
+    <updated>2016-09-16T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/black-and-white-polka-dot-sneakers"/>
+    <title>Black &amp; White Polka Dot Sneakers</title>
+    <s:type>Girls - Shoes</s:type>
+    <s:vendor>Baby Vision</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/18755_1.jpg?v=1474056981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby Vision<br>
+        <strong>Type: </strong>Girls - Shoes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simply cute black and white polka dot sneakers for baby girls from Wholesale Princess, Where Adorable Meets Affordable!</p>
+<p>Details:</p>
+<p>• 1 pair</p>
+<p>• Black with White Polka Dots and Hot Pink Trim</p>
+<p>• White Laces</p>
+<p>• perfect for pictures!!</p>
+<p>• great for a gift to start a little girl’s shoe collection!!</p>
+<p>Fabric &amp; Care:</p>
+<p>• hand wash</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>0-6 months (Small) - 11 Centimeters Long</p>
+<p>6-12 months (Medium) - 12 Centimeters Long</p>
+<p>12-18 months (Large) - 13 Centimeters Long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 Months</s:tag>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>Basic Shoes</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Shoes</s:tag>
+    <s:tag>New Year&apos;s</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Polka Dots</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581210636</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>18755-BV-11371-06</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581210636</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>18755-BV-11371-1218MO</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+</feed>

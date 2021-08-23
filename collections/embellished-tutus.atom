@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/embellished-tutus.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2017-12-13T17:10:44-06:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/435033440295</id>
+    <published>2017-12-13T17:10:44-06:00</published>
+    <updated>2017-12-13T17:10:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/tutu-headband-playtime-starter-sets"/>
+    <title>Tutu &amp; Headband Playtime Starter Sets</title>
+    <s:type>Girls - Tutus</s:type>
+    <s:vendor>Yiou Ornaments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/21758.jpg?v=1520325041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yiou Ornaments<br>
+        <strong>Type: </strong>Girls - Tutus<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your little girl will have a blast with our little six piece matching tutu &amp; headband sets. Each assortment comes with three sets of matching tutu &amp; headbands combinations. </p>
+<p><strong>Details:</strong></p>
+<p>• 6 pieces: Three Headbands &amp; Three Tutus</p>
+<p>• 3 Big Bow Lace Headbands</p>
+<p>• 3 Tulle Triple Layer Tutus with Satin Wrapped Elastic Waistband</p>
+<p>• Perfect gift set for any little girl!</p>
+<p><strong>Fabric &amp; Care:</strong></p>
+<p>• 100% polyester</p>
+<p>• hand wash</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p>• elastic waist on tutu</p>
+<p> </p>
+<p><strong>Choose Tutu Size in Drop-down Box:</strong></p>
+<ul>
+<li>0-24 Months (10" elastic waist, 7" long) *some styles &amp; colors not available in infant sizes.</li>
+<li>1-6 Years (12" elastic waist, 12" long)</li>
+</ul>
+<p><strong>Choose Color Combination in Drop-down Box: </strong></p>
+<ul>
+<li>Purple, Gray, Red</li>
+<li>Rainbow, Black, Red</li>
+<li>Lime Green, Hot Pink, Purple</li>
+<li>Yellow, Pink, Lavender</li>
+<li>Purple, Pink, Red - Sparkle Tutus</li>
+<li>Black, Lime Green, Red - Sparkle Tutus</li>
+<li>Royal Blue, Orange, Red Sparkle</li>
+<li>Pink Sparkle, Aqua, Black Sparkle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-24 Months</s:tag>
+    <s:tag>1-6 Years</s:tag>
+    <s:tag>10-20</s:tag>
+    <s:tag>Black/Lime/Red</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Tutus</s:tag>
+    <s:tag>Infant</s:tag>
+    <s:tag>Lime/Hot Pink/Purple</s:tag>
+    <s:tag>Purple/Gray/Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Royal/Orange/Red</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Yellow/Pink/Lavender</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Purple/Gray/Red / 0-24 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21754-SM</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Rainbow/Black/Red / 0-24 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21755-SM</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Rainbow/Black/Red / 1-6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21755-LG</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Lime/Hot Pink/Purple / 0-24 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21756-SM</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Lime/Hot Pink/Purple / 1-6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21756-LG</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Yellow/Pink/Lavender / 0-24 Months</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21757-SM</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Yellow/Pink/Lavender / 1-6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21757-LG</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Purple/Pink/Red / 1-6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21758-LG</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Black/Lime/Red / 1-6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21759-LG</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Royal/Orange/Red / 1-6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21760-LG</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/435033440295</id>
+      <title>Pink/Aqua/Black / 1-6 Years</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21761-LG</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

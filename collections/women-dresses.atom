@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/women-dresses.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2019-07-10T16:50:53-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3878915637350</id>
+    <published>2019-07-10T16:50:53-05:00</published>
+    <updated>2019-07-10T16:50:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/off-shoulder-ruffle-dress-with-sash-2-colors"/>
+    <title>Off-Shoulder Ruffle Dress with Sash - 3 Colors</title>
+    <s:type>Women - Dresses</s:type>
+    <s:vendor>Dear Lover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/LC611018-15-0.jpg?v=1564125175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dear Lover<br>
+        <strong>Type: </strong>Women - Dresses<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This stylish off-shoulder dress is super cute.  There is a ruffle along the top disguising a rubber lining that helps it stay put.  The zippered back is shirred for a more comfortable fit.  The matching sash provides a cute bow in the front or back.  The skirt has pockets and comes to half-way between the knees and ankles.  The front button detail completes the look.</p>
+<p>[features]</p>
+<p>Off-the-shoulder Ruffle Dress</p>
+<p>Rubber lining around the bust to keep the dress in place</p>
+<p>Shirred and zippered back conforms to your body </p>
+<p>Button detail with pockets</p>
+<p>Matching unattached sash 70" long</p>
+<p>2 Pieces - dress and sash</p>
+<p>[/features] [materials]</p>
+<p>Wash Cold, Hang Dry<br>95% Polyester/5% Spandex</p>
+[/materials] [sizes]
+<table style="width: 534px;">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px; width: 139px;">Size</td>
+<td style="height: 20px; width: 52px;">
+<p>Bust</p>
+</td>
+<td style="height: 20px; width: 58px;">
+<p>Waist</p>
+</td>
+<td style="height: 20px; width: 71px;">
+<p>Length     (from top of neckline)</p>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 139px;">Small (2-4)</td>
+<td style="height: 20px; width: 52px;">34"</td>
+<td style="height: 20px; width: 58px;">24"</td>
+<td style="height: 20px; width: 71px;">39.5"</td>
+</tr>
+<tr style="height: 11px;">
+<td style="height: 11px; width: 139px;">Medium (6-8)</td>
+<td style="height: 11px; width: 52px;">36"</td>
+<td style="height: 11px; width: 58px;">27"</td>
+<td style="height: 11px; width: 71px;">40"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 139px;">Large (10-12) </td>
+<td style="height: 20px; width: 52px;">39"</td>
+<td style="height: 20px; width: 58px;">30"</td>
+<td style="height: 20px; width: 71px;">40.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 139px;">X-Large (14-16)</td>
+<td style="height: 20px; width: 52px;">42"</td>
+<td style="height: 20px; width: 58px;">35"</td>
+<td style="height: 20px; width: 71px;">41"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>Vanilla</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Dresses</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Vanilla / Small</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32114-LC611018-15-S</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Vanilla / Medium</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32114-LC611018-15-M</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Vanilla / Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32114-LC611018-15-L</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Vanilla / X-Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32114-LC611018-15-XL</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Pink / Small</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32110-LC611018-10-S</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Pink / Medium</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32110-LC611018-10-M</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Pink / Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32110-LC611018-10-L</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Pink / X-Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32110-LC611018-10-XL</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32115-LC611018-2-S</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32115-LC611018-2-M</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32115-LC611018-2-L</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32115-LC611018-2-XL</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3483295187046</id>
+    <published>2019-04-12T11:40:00-05:00</published>
+    <updated>2019-04-12T11:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/casual-jersey-dress"/>
+    <title>Casual Jersey Dress - 6 Colors</title>
+    <s:type>Women - Dresses</s:type>
+    <s:vendor>Global Lover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31119-YA_0484-4.jpg?v=1557731100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Lover<br>
+        <strong>Type: </strong>Women - Dresses<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>If you are looking for a great addition to your Spring &amp; Summer closet you will definitely want to add this dress to your collection.<br>It is super soft and comfy... perfect for work, out with the girls, casual date night and Church on Sunday.</span><span><br></span></p>
+<p><span>Colors:<br>Black<br>Royal Blue<br>Gray<br>Pink<br>Fuchsia <br>Navy Blue</span></p>
+<p> [/features] [materials]</p>
+<p>Machine Wash Cold<br>Tumble Dry Low<br>Imported Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (2-4)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">39"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (6-8)</td>
+<td style="height: 20px;">39"</td>
+<td style="height: 20px;">40"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Large (10-12)</td>
+<td style="height: 20px;">40"</td>
+<td style="height: 20px;">41"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">X-Large (14-16)</td>
+<td style="height: 20.5px;">41"</td>
+<td style="height: 20.5px;">42"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-30</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Fuchsia</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Dresses</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Pink / Small</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31119-YA_0484-4-S</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Pink / Medium</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31119-YA_0484-4-M</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Pink / Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31119-YA_0484-4-L</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Pink / X-Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31119-YA_0484-4-XL</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31120-YA_0484-1-S</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31120-YA_0484-1-M</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31120-YA_0484-1-L</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31120-YA_0484-1-XL</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31121-YA_0484-3-S</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31121-YA_0484-3-M</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31121-YA_0484-3-L</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31121-YA_0484-3-XL</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Fuchsia / Small</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31122-YA_0484-5-S</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Fuchsia / Medium</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31122-YA_0484-5-M</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Fuchsia / Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31122-YA_0484-5-L</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Fuchsia / X-Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31122-YA_0484-5-XL</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Royal Blue / Small</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31123-YA_0484-2-S</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Royal Blue / Medium</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31123-YA_0484-2-M</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Royal Blue / Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31123-YA_0484-2-L</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Royal Blue / X-Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31123-YA_0484-2-XL</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Navy / Small</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31124-YA_0484-6-S</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Navy / Medium</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31124-YA_0484-6-M</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Navy / Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31124-YA_0484-6-L</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3483295187046</id>
+      <title>Navy / X-Large</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31124-YA_0484-6-XL</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+  </entry>
+</feed>

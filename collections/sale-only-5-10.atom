@@ -1,0 +1,1945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/sale-only-5-10.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2020-05-04T17:45:57-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4811686772838</id>
+    <published>2020-05-04T17:45:57-05:00</published>
+    <updated>2020-05-04T17:45:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/messy-buns-synthetic-hair-scrunchies-gray-hair-colors"/>
+    <title>Messy Buns - Synthetic Hair Scrunchies - Gray Hair Colors</title>
+    <s:type>Women, Girls - Hair Accessories</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Group-GrayHair.jpg?v=1588693128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women, Girls - Hair Accessories<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We all love the messy bun look, but actually creating it for yourself is no easy task... until now. With our messy bun hair scrunchies you can create the perfect messy bun in seconds. We have many colors available, just find your match and your can change your look in seconds. You'll love the natural-looking results, and how easy you can have that look with the messy bun hair scrunchie. <br><br>The synthetic hair bun on the scrunchie provides secure and comfortable attachment for all day wear and will give you a thicker, fuller ponytail or bun, with more volume. The elastic band prevents your hair from loosening and falling out of throughout the course of the day. It's the easiest way to create your own up-do at home.<br><br>These messy buns are perfectly suitable for any age. The hair scrunchie is easy to put on and fits nicely when used simultaneously with elastic hair ties.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>GSQ5-Gray WP03</s:tag>
+    <s:tag>GSQ5-Gray WP23</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Women Girls - Hair Accessories</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811686772838</id>
+      <title>GSQ5-Gray WP03</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-GRAY-WP03</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811686772838</id>
+      <title>GSQ5-Gray WP23</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-GRAY-WP23</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4811684249702</id>
+    <published>2020-05-04T17:38:20-05:00</published>
+    <updated>2020-05-04T17:38:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/messy-buns-synthetic-hair-scrunchies-hair-with-highlights"/>
+    <title>Messy Buns - Synthetic Hair Scrunchies - Hair with Highlights</title>
+    <s:type>Women, Girls - Hair Accessories</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Group-HighlightedHair.jpg?v=1588693127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women, Girls - Hair Accessories<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We all love the messy bun look, but actually creating it for yourself is no easy task... until now. With our messy bun hair scrunchies you can create the perfect messy bun in seconds. We have many colors available, just find your match and your can change your look in seconds. You'll love the natural-looking results, and how easy you can have that look with the messy bun hair scrunchie. <br><br>The synthetic hair bun on the scrunchie provides secure and comfortable attachment for all day wear and will give you a thicker, fuller ponytail or bun, with more volume. The elastic band prevents your hair from loosening and falling out of throughout the course of the day. It's the easiest way to create your own up-do at home.<br><br>These messy buns are perfectly suitable for any age. The hair scrunchie is easy to put on and fits nicely when used simultaneously with elastic hair ties.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>GSO5-14H613 WP07</s:tag>
+    <s:tag>GSQ5-22H10 WP14</s:tag>
+    <s:tag>GSQ5-22H613 WP15</s:tag>
+    <s:tag>GSQ5-27H613 WP19</s:tag>
+    <s:tag>GSQ5-6AH613 WP06</s:tag>
+    <s:tag>GSQ5-6AT88 WP10</s:tag>
+    <s:tag>GSQ5-9H19 WP11</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Women Girls - Hair Accessories</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811684249702</id>
+      <title>GSO5-14H613 WP07</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSO5-14H613-WP07</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811684249702</id>
+      <title>GSQ5-6AH613 WP06</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-6AH613-WP06</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811684249702</id>
+      <title>GSQ5-6AT88 WP10</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-6AT88-WP10</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811684249702</id>
+      <title>GSQ5-9H19 WP11</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-9H19-WP11</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811684249702</id>
+      <title>GSQ5-22H10 WP14</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-22H10-WP14</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811684249702</id>
+      <title>GSQ5-22H613 WP15</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-22H613-WP15</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811684249702</id>
+      <title>GSQ5-27H613 WP19</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-27H613-WP19</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4811681792102</id>
+    <published>2020-05-04T17:08:36-05:00</published>
+    <updated>2020-05-04T17:08:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/messy-buns-synthetic-hair-scrunchies-brunette-dark-hair-colors"/>
+    <title>Messy Buns - Synthetic Hair Scrunchies - Brunette/Dark Hair Colors</title>
+    <s:type>Women, Girls - Hair Accessories</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Group-DarkHair.jpg?v=1588693125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women, Girls - Hair Accessories<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We all love the messy bun look, but actually creating it for yourself is no easy task... until now. With our messy bun hair scrunchies you can create the perfect messy bun in seconds. We have many colors available, just find your match and your can change your look in seconds. You'll love the natural-looking results, and how easy you can have that look with the messy bun hair scrunchie. <br><br>The synthetic hair bun on the scrunchie provides secure and comfortable attachment for all day wear and will give you a thicker, fuller ponytail or bun, with more volume. The elastic band prevents your hair from loosening and falling out of throughout the course of the day. It's the easiest way to create your own up-do at home.<br><br>These messy buns are perfectly suitable for any age. The hair scrunchie is easy to put on and fits nicely when used simultaneously with elastic hair ties.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>GSQ5-2# WP02</s:tag>
+    <s:tag>GSQ5-27# WP18</s:tag>
+    <s:tag>GSQ5-30# WP20</s:tag>
+    <s:tag>GSQ5-33# WP21</s:tag>
+    <s:tag>GSQ5-4# WP04</s:tag>
+    <s:tag>GSQ5-6A# WP05</s:tag>
+    <s:tag>GSQ5-6AH27 WP01</s:tag>
+    <s:tag>GSQ5-8# WP12</s:tag>
+    <s:tag>GSQ5-J2# WP24</s:tag>
+    <s:tag>GSQ5-M2-33# WP27</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Women Girls - Hair Accessories</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811681792102</id>
+      <title>GSQ5-2# WP02</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-2#-WP02</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811681792102</id>
+      <title>GSQ5-4# WP04</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-4#-WP04</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811681792102</id>
+      <title>GSQ5-6A# WP05</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-6A#-WP05</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811681792102</id>
+      <title>GSQ5-6AH27 WP01</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-6AH27-WP01</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811681792102</id>
+      <title>GSQ5-8# WP12</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-8#-WP12</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811681792102</id>
+      <title>GSQ5-27# WP18</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-27#-WP18</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811681792102</id>
+      <title>GSQ5-30# WP20</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-30#-WP20</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811681792102</id>
+      <title>GSQ5-33# WP21</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-33#-WP21</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811681792102</id>
+      <title>GSQ5-J2# WP24</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-J2#-WP24</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811681792102</id>
+      <title>GSQ5-M2-33# WP27</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-M2-33#-WP27</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4811675402342</id>
+    <published>2020-05-04T17:08:36-05:00</published>
+    <updated>2020-05-04T17:08:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/messy-buns-synthetic-hair-scrunchies-blonde-light-hair-colors"/>
+    <title>Messy Buns - Synthetic Hair Scrunchies - Blonde/Light Hair Colors</title>
+    <s:type>Women, Girls - Hair Accessories</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Group-LightHair.jpg?v=1588693123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women, Girls - Hair Accessories<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We all love the messy bun look, but actually creating it for yourself is no easy task... until now. With our messy bun hair scrunchies you can create the perfect messy bun in seconds. We have many colors available, just find your match and your can change your look in seconds. You'll love the natural-looking results, and how easy you can have that look with the messy bun hair scrunchie. <br><br>The synthetic hair bun on the scrunchie provides secure and comfortable attachment for all day wear and will give you a thicker, fuller ponytail or bun, with more volume. The elastic band prevents your hair from loosening and falling out of throughout the course of the day. It's the easiest way to create your own up-do at home.<br><br>These messy buns are perfectly suitable for any age. The hair scrunchie is easy to put on and fits nicely when used simultaneously with elastic hair ties.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>GSQ5-14# WP09</s:tag>
+    <s:tag>GSQ5-19# WP08</s:tag>
+    <s:tag>GSQ5-22# WP13</s:tag>
+    <s:tag>GSQ5-22T613 WP16</s:tag>
+    <s:tag>GSQ5-24T613 WP17</s:tag>
+    <s:tag>GSQ5-60# WP22</s:tag>
+    <s:tag>GSQ5-J24 WP25</s:tag>
+    <s:tag>GSQ5-J26# WP26</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Women Girls - Hair Accessories</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811675402342</id>
+      <title>GSQ5-14# WP09</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-14#-WP09</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811675402342</id>
+      <title>GSQ5-19# WP08</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-19#-WP08</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811675402342</id>
+      <title>GSQ5-22# WP13</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-22#-WP13</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811675402342</id>
+      <title>GSQ5-22T613 WP16</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-22T613-WP16</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811675402342</id>
+      <title>GSQ5-24T613 WP17</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-24T613-WP17</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811675402342</id>
+      <title>GSQ5-60# WP22</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-60#-WP22</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811675402342</id>
+      <title>GSQ5-J24 WP25</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-J24-WP25</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4811675402342</id>
+      <title>GSQ5-J26# WP26</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>GSQ5-J26#-WP26</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4198122848358</id>
+    <published>2019-10-10T09:21:51-05:00</published>
+    <updated>2019-10-10T09:21:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/womens-thermal-henley-top-5-colors-available"/>
+    <title>Women&apos;s Thermal Henley Top - 5 colors available</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Global Lover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/32904.jpg?v=1570777770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Lover<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This long sleeve button-down casual shirt is super cute and fashionable!  </span><span>Add a pair of jeans for a cute casual look.</span></p>
+<p>Long Loose Fit</p>
+<p>Hand Wash Cold</p>
+<p>Hang Dry<br>Imported Material</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>fall top</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:tag>womens clothes</s:tag>
+    <s:tag>womens tops</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>White / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32904-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>White / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32904-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>White / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32904-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>White / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32904-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>White / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32904-XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32905-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32905-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32905-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32905-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Black / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32905-XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Cream / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32906-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Cream / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32906-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Cream / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32906-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Cream / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32906-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Cream / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32906-XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Lavender / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32907-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Lavender / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32907-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Lavender / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32907-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Lavender / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32907-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Lavender / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32907-XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32908-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32908-M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32908-L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32908-XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4198122848358</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32908-XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1260278841388</id>
+    <published>2019-10-03T12:15:48-05:00</published>
+    <updated>2019-10-03T12:15:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/rose-unicorn-headbands-7-colors-to-choose-from"/>
+    <title>Rose Unicorn Headbands -Set of 5 or Set of 7</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Alice B.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29397-29403.jpg?v=1542181945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice B.<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            9.99 - 12.99
+            <a href="https://wholesaleprincess.com/products/rose-unicorn-headbands-7-colors-to-choose-from">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Does your little one like Unicorns? We are sure your little one will love these adorable unicorn headbands with roses. <span>3" Long Unicorn Horn</span></p>
+<p><strong>Set of 7 Colors Includes:</strong></p>
+<p>Light Blue, White, Aqua, Hot Pink, Pink, Lavender &amp; Yellow</p>
+<p><strong>Set of 5 Colors Includes:</strong></p>
+<p>Light Blue, White, Pink, Lavender &amp; Yellow</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>10-20</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Headband</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1260278841388</id>
+      <title>Set of 5</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32873-Set of 5</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1260278841388</id>
+      <title>Set of 7</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>32873-Set of 7</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1690008748134</id>
+    <published>2019-10-02T13:58:15-05:00</published>
+    <updated>2019-10-02T13:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/unicorn-headbands-with-pastel-bows-7-colors"/>
+    <title>Unicorn Headbands with Pastel Bows - Set of 5</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Michelle And Scotts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_8838.jpg?v=1570042295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michelle And Scotts<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Does your little one like Unicorns? We are sure your little one will love these adorable unicorn headbands.</p>
+<p><strong>Set includes 5 headbands in 5 different colors</strong></p>
+<p>Lavender, Pink, Blue, Yellow, White</p>
+<p>3.5" long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blush</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Headband</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1690008748134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32875</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4102751944806</id>
+    <published>2019-09-20T12:48:47-05:00</published>
+    <updated>2019-09-20T12:48:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/womens-crochet-scarves"/>
+    <title>Women&apos;s Crochet Scarves - 5 Colors</title>
+    <s:type>Women - Accessories</s:type>
+    <s:vendor>Dear Lover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_8832.jpg?v=1575569225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dear Lover<br>
+        <strong>Type: </strong>Women - Accessories<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These scarves are the perfect addition to your fall and winter wardrobe!  Accessorize any outfit with one or wear with your winter coat when it is especially chilly. One size fits all. Five colors to choose from.</p>
+<p>Fabric Care:</p>
+<ul>
+<li>Hand Wash Cold</li>
+<li>Hang Dry</li>
+<li>Light Weight Material, 100% Acrylic</li>
+<li>Made in China</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Accessory Sets</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Burgundy</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Olive Green</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Scarf</s:tag>
+    <s:tag>Scarves</s:tag>
+    <s:tag>Scarves &amp; Shawls</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Accessories</s:tag>
+    <s:tag>Women - Clothing</s:tag>
+    <s:tag>Women - Scarves</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4102751944806</id>
+      <title>Gray</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>32775-LC40563-11</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4102751944806</id>
+      <title>Brown</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>32776-LC40563-17</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4102751944806</id>
+      <title>Black</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>32774-LC40563-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4102751944806</id>
+      <title>Burgundy</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>32773-LC40563-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4102751944806</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>32772-LC40563-9</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3934277697638</id>
+    <published>2019-07-25T14:36:33-05:00</published>
+    <updated>2019-07-25T14:36:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/copy-of-girls-small-polka-dot-elastic-dance-tutu"/>
+    <title>Girls Large Polka Dot Elastic Dance Tutu - 3 Colors</title>
+    <s:type>Girls - Tutus</s:type>
+    <s:vendor>Yiou Ornaments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/32529.jpg?v=1566717313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yiou Ornaments<br>
+        <strong>Type: </strong>Girls - Tutus<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Details:</p>
+<p>• one piece</p>
+<p>• satin bow embellishment</p>
+<p>• great birthday gifts</p>
+<p>• adorable for photo shoots</p>
+<p>• 3 layered tutu</p>
+<p>• elastic waistband</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% polyester</p>
+<p>• hand wash cold</p>
+<p>• imported</p>
+<p>• satin waistband</p>
+<p>• lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• one size fits most approx. ages: 2-8 years</p>
+<p>• measurements: 12” Long, 26” Stretched Circumference</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Black/White</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Tutus</s:tag>
+    <s:tag>Google Shopping</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Hot Pink/White</s:tag>
+    <s:tag>OSFA</s:tag>
+    <s:tag>Polka Dots</s:tag>
+    <s:tag>Red/Black</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Tutus</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3934277697638</id>
+      <title>Black/White / OSFA</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>32529</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3934277697638</id>
+      <title>Hot Pink/White / OSFA</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>32388</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3934277697638</id>
+      <title>Red/Black / OSFA</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>32528</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3878915637350</id>
+    <published>2019-07-10T16:50:53-05:00</published>
+    <updated>2019-07-10T16:50:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/off-shoulder-ruffle-dress-with-sash-2-colors"/>
+    <title>Off-Shoulder Ruffle Dress with Sash - 3 Colors</title>
+    <s:type>Women - Dresses</s:type>
+    <s:vendor>Dear Lover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/LC611018-15-0.jpg?v=1564125175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dear Lover<br>
+        <strong>Type: </strong>Women - Dresses<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This stylish off-shoulder dress is super cute.  There is a ruffle along the top disguising a rubber lining that helps it stay put.  The zippered back is shirred for a more comfortable fit.  The matching sash provides a cute bow in the front or back.  The skirt has pockets and comes to half-way between the knees and ankles.  The front button detail completes the look.</p>
+<p>[features]</p>
+<p>Off-the-shoulder Ruffle Dress</p>
+<p>Rubber lining around the bust to keep the dress in place</p>
+<p>Shirred and zippered back conforms to your body </p>
+<p>Button detail with pockets</p>
+<p>Matching unattached sash 70" long</p>
+<p>2 Pieces - dress and sash</p>
+<p>[/features] [materials]</p>
+<p>Wash Cold, Hang Dry<br>95% Polyester/5% Spandex</p>
+[/materials] [sizes]
+<table style="width: 534px;">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px; width: 139px;">Size</td>
+<td style="height: 20px; width: 52px;">
+<p>Bust</p>
+</td>
+<td style="height: 20px; width: 58px;">
+<p>Waist</p>
+</td>
+<td style="height: 20px; width: 71px;">
+<p>Length     (from top of neckline)</p>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 139px;">Small (2-4)</td>
+<td style="height: 20px; width: 52px;">34"</td>
+<td style="height: 20px; width: 58px;">24"</td>
+<td style="height: 20px; width: 71px;">39.5"</td>
+</tr>
+<tr style="height: 11px;">
+<td style="height: 11px; width: 139px;">Medium (6-8)</td>
+<td style="height: 11px; width: 52px;">36"</td>
+<td style="height: 11px; width: 58px;">27"</td>
+<td style="height: 11px; width: 71px;">40"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 139px;">Large (10-12) </td>
+<td style="height: 20px; width: 52px;">39"</td>
+<td style="height: 20px; width: 58px;">30"</td>
+<td style="height: 20px; width: 71px;">40.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 139px;">X-Large (14-16)</td>
+<td style="height: 20px; width: 52px;">42"</td>
+<td style="height: 20px; width: 58px;">35"</td>
+<td style="height: 20px; width: 71px;">41"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>Vanilla</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Dresses</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Vanilla / Small</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32114-LC611018-15-S</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Vanilla / Medium</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32114-LC611018-15-M</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Vanilla / Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32114-LC611018-15-L</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Vanilla / X-Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32114-LC611018-15-XL</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Pink / Small</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32110-LC611018-10-S</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Pink / Medium</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32110-LC611018-10-M</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Pink / Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32110-LC611018-10-L</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Pink / X-Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32110-LC611018-10-XL</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32115-LC611018-2-S</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32115-LC611018-2-M</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32115-LC611018-2-L</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3878915637350</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>32115-LC611018-2-XL</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3532821495910</id>
+    <published>2019-06-09T14:49:04-05:00</published>
+    <updated>2019-06-09T14:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/copy-of-strappy-back-summer-tank-top-1"/>
+    <title>Summer Crop Top</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Dear Lover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31922.jpg?v=1560150273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dear Lover<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This crop top is perfect for Hot Summer Days &amp; Nights.  It looks amazing with shorts and jeans.  The tie around the waist gives it a little extra flair and makes it that much cuter!</p>
+[features]
+<p>Black, Red, Army Green, Pink, White</p>
+[/features] [materials]
+<p>Hand Wash Cold<br>Hang Dry<br>Imported Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Bust</td>
+<td style="height: 20px;">Waist</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4)</td>
+<td style="height: 20px;">33.5"</td>
+<td style="height: 20px;"></td>
+<td style="height: 20px;"></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (6)</td>
+<td style="height: 20px;">35"</td>
+<td style="height: 20px;"></td>
+<td style="height: 20px;"></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Large (8)</td>
+<td style="height: 20px;">37"</td>
+<td style="height: 20px;"></td>
+<td style="height: 20px;"></td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">X-Large (10)</td>
+<td style="height: 20.5px;">40"</td>
+<td style="height: 20.5px;"></td>
+<td style="height: 20.5px;"></td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>4</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>Army Green</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Large (8)</s:tag>
+    <s:tag>Medium (6)</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Small (4)</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:tag>X-Large (10)</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Black / Small (4)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31923-sj_vd5091</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Black / Medium (6)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31923-sj_vd5091</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Black / Large (8)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31923-sj_vd5091</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Black / X-Large (10)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31923-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Army Green / Small (4)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31926-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Army Green / Medium (6)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31926-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Army Green / Large (8)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31926-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Army Green / X-Large (10)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31926-sj_vd5091</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Red / Small (4)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31922-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Red / Medium (6)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31922-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Red / Large (8)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31922-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Red / X-Large (10)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31922-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Pink / Small (4)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31925-sj_vd5091</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Pink / Medium (6)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31925-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Pink / Large (8)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31925-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>Pink / X-Large (10)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31925-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>White / Small (4)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31924-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>White / Medium (6)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31924-sj_vd5091</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>White / Large (8)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31924-sj_vd5091</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3532821495910</id>
+      <title>White / X-Large (10)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31924-sj_vd5091</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433587441766</id>
+    <published>2019-04-09T14:15:15-05:00</published>
+    <updated>2019-04-09T14:15:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-nursery-toys"/>
+    <title>Baby Monthly Stickers - Nursery Toys</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31213.jpg?v=1557471833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3T</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433587441766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>31213</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433586425958</id>
+    <published>2019-04-09T14:14:32-05:00</published>
+    <updated>2019-04-09T14:14:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-little-fairies"/>
+    <title>Baby Monthly Stickers - Little Fairies</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31212-new.jpg?v=1557471832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3T</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433586425958</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>31212</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433585016934</id>
+    <published>2019-04-09T14:13:04-05:00</published>
+    <updated>2019-04-09T14:13:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-little-princess"/>
+    <title>Baby Monthly Stickers - Little Princess</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26386-done.jpg?v=1557471832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3T</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Princess</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433585016934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26386</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433584328806</id>
+    <published>2019-04-09T14:12:22-05:00</published>
+    <updated>2019-04-09T14:12:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-flowers"/>
+    <title>Baby Monthly Stickers - Flowers</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26346.jpg?v=1557471831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433584328806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26346</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433583345766</id>
+    <published>2019-04-09T14:11:29-05:00</published>
+    <updated>2019-04-09T14:11:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-little-birds"/>
+    <title>Baby Monthly Stickers - Little Birds</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26341-bird_houses.jpg?v=1557471830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433583345766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26341</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433582788710</id>
+    <published>2019-04-09T14:09:48-05:00</published>
+    <updated>2019-04-09T14:09:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-love-you-beary-much"/>
+    <title>Baby Monthly Stickers - Kitty Love</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26340.jpg?v=1557471829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433582788710</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26340</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433582198886</id>
+    <published>2019-04-09T14:08:29-05:00</published>
+    <updated>2019-04-09T14:08:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-nautical"/>
+    <title>Baby Monthly Stickers - Nautical</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26333.jpg?v=1557471829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433582198886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26333</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433581936742</id>
+    <published>2019-04-09T14:07:52-05:00</published>
+    <updated>2019-04-09T14:07:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-polka-dots"/>
+    <title>Baby Monthly Stickers - Polka Dots</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26331.jpg?v=1557471828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433581936742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26331</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433581281382</id>
+    <published>2019-04-09T14:07:04-05:00</published>
+    <updated>2019-04-09T14:07:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-out-to-sea"/>
+    <title>Baby Monthly Stickers - Out to Sea</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26327.jpg?v=1557471827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433581281382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26327</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433580396646</id>
+    <published>2019-04-09T14:05:48-05:00</published>
+    <updated>2019-04-09T14:05:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-mythical"/>
+    <title>Baby Monthly Stickers - Mythical</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26325.jpg?v=1557471826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433580396646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26325</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433579544678</id>
+    <published>2019-04-09T14:04:39-05:00</published>
+    <updated>2019-04-09T14:04:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-tropical-fish"/>
+    <title>Baby Monthly Stickers - Tropical Fish</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26324.jpg?v=1557471825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433579544678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26324</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433576005734</id>
+    <published>2019-04-09T14:00:36-05:00</published>
+    <updated>2019-04-09T14:00:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-scrapbook"/>
+    <title>Baby Monthly Stickers - Scrapbook</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26323.jpg?v=1557471824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433576005734</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26323</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433574203494</id>
+    <published>2019-04-09T13:58:25-05:00</published>
+    <updated>2019-04-09T13:58:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-little-pirate"/>
+    <title>Baby Monthly Stickers - Little Pirate</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/24633.jpg?v=1557471824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433574203494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>24633</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3433573122150</id>
+    <published>2019-04-09T13:57:21-05:00</published>
+    <updated>2019-04-09T13:57:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baby-monthly-stickers-childlike-drawings"/>
+    <title>Baby Monthly Stickers - Childlike Drawings</title>
+    <s:type>Baby - Monthly Stickers</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/24632.jpg?v=1557471823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Stickers<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These monthly stickers are the most fun, creative way to capture your baby's first year of life in photographs! Each month remove the relevant pre-cut sticker and use it as a photo prop on your little one's outfit, toy, blanket, or anything. Just peel, stick and click for adorable photos.
+<p>These also make the perfect baby shower gift for moms-to-be getting ready to celebrate a very special moment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Features_Baby Monthly Stickers</s:tag>
+    <s:tag>Material_Baby Monthly Stickers</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Baby Monthly Stickers</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3433573122150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>24632</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+</feed>

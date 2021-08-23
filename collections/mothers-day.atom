@@ -1,0 +1,3593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/mothers-day.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2019-05-02T12:07:45-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3500678971494</id>
+    <published>2019-05-02T12:07:45-05:00</published>
+    <updated>2019-05-02T12:07:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/pizza-love-at-first-bite-graphic-t-shirt"/>
+    <title>Pizza Love At First Bite Graphic T-Shirt</title>
+    <s:type>Girls, Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31346-wt.jpg?v=1559459610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable short sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• One piece</p>
+<p>• White</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% cotton</p>
+<p>• Soft material</p>
+<p>• Machine wash cold</p>
+<p>• Tumble dry low</p>
+<p>• Imported</p>
+<p>• Lightweight</p>
+<p>Fit &amp; Sizing:</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">6 Months</td>
+<td style="height: 20px;">18"</td>
+<td style="height: 20px;">12"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12 Months</td>
+<td style="height: 20px;">20"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">18 Months</td>
+<td style="height: 20px;">21"</td>
+<td style="height: 20px;">13"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">24"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">26"</td>
+<td style="height: 20px;">15"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">28"</td>
+<td style="height: 20.5px;">15.5"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">30"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">7 Years</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">19.5"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>6 Months</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Graphic T-Shirts</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3500678971494</id>
+      <title>6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31346-6MO</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3500678971494</id>
+      <title>12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31346-12MO</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3500678971494</id>
+      <title>18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31346-18MO</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3500678971494</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31346-2T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3500678971494</id>
+      <title>3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31346-3T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3500678971494</id>
+      <title>4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31346-4T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3500678971494</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31346-5/6Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3500678971494</id>
+      <title>7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31346-7Y</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3491826892902</id>
+    <published>2019-04-22T13:04:44-05:00</published>
+    <updated>2019-04-22T13:04:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-personalized-mommas-heart-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - Personalized &amp; Momma&apos;s Heart - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30739-bs-momt.jpg?v=1558595104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look</span></p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Bodysuits</s:tag>
+    <s:tag>Girls - Graphic Bodysuits</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Bodysuits</s:tag>
+    <s:tag>Girls Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491826892902</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30739-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3491823550566</id>
+    <published>2019-04-22T12:58:56-05:00</published>
+    <updated>2019-04-22T12:58:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-kickin-it-with-my-mini-mama-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - Kickin&apos; it with my Mini/Mama - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30723-bs-momt.jpg?v=1558595102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look</span></p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Bodysuits</s:tag>
+    <s:tag>Girls - Graphic Bodysuits</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Bodysuits</s:tag>
+    <s:tag>Girls Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491823550566</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30723-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3491821650022</id>
+    <published>2019-04-22T12:54:49-05:00</published>
+    <updated>2019-04-22T12:54:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-blessed-blessing-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - Blessed/Blessing - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30732--bs-momt.jpg?v=1558595100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look</span></p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Bodysuits</s:tag>
+    <s:tag>Girls - Graphic Bodysuits</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491821650022</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30732-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3491819847782</id>
+    <published>2019-04-22T12:52:07-05:00</published>
+    <updated>2019-04-22T12:52:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-princess-queen-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - Princess/Queen - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30733-bs-momt.jpg?v=1558595097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look</span></p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Bodysuits</s:tag>
+    <s:tag>Girls - Graphic Bodysuits</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491819847782</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30733-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3491818111078</id>
+    <published>2019-04-22T12:48:39-05:00</published>
+    <updated>2019-04-22T12:48:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-storm-chaser-tornado-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - Storm Chaser/Tornado - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30735-bs-momt.jpg?v=1558595094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look</span></p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Bodysuits</s:tag>
+    <s:tag>Girls - Graphic Bodysuits</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Bodysuits</s:tag>
+    <s:tag>Girls Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3491818111078</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30735-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3485694754918</id>
+    <published>2019-04-15T12:58:06-05:00</published>
+    <updated>2019-04-15T12:58:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-boy-momma-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - Boy Momma - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30738-bs-momt.jpg?v=1557990714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look</span></p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485694754918</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30738-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3485693902950</id>
+    <published>2019-04-15T12:54:32-05:00</published>
+    <updated>2019-04-15T12:54:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-daddys-chicks-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - Daddy&apos;s Chicks - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30737-bs-momt.jpg?v=1557990712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look</span></p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Bodysuits</s:tag>
+    <s:tag>Girls - Graphic Bodysuits</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485693902950</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30737-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3485692952678</id>
+    <published>2019-04-15T12:52:03-05:00</published>
+    <updated>2019-04-15T12:52:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-the-boss-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - The Boss - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30736-bs-momt.jpg?v=1557990710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look</span></p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Bodysuits</s:tag>
+    <s:tag>Girls - Graphic Bodysuits</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Bodysuits</s:tag>
+    <s:tag>Girls Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485692952678</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30736-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3485691805798</id>
+    <published>2019-04-15T12:49:01-05:00</published>
+    <updated>2019-04-15T12:49:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-rule-maker-breaker-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - Rule Maker/Breaker - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30734-blk-bs-momt.jpg?v=1557990707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look</span></p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Bodysuits</s:tag>
+    <s:tag>Girls - Graphic Bodysuits</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Bodysuits</s:tag>
+    <s:tag>Girls Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485691805798</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30734-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3485690888294</id>
+    <published>2019-04-15T12:46:10-05:00</published>
+    <updated>2019-04-15T12:46:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-little-things-in-life-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - Little Things In Life - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30721-bs-momt.jpg?v=1557990704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look</span></p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Bodysuits</s:tag>
+    <s:tag>Girls - Graphic Bodysuits</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Bodysuits</s:tag>
+    <s:tag>Girls Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485690888294</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30721-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3485682237542</id>
+    <published>2019-04-15T12:29:00-05:00</published>
+    <updated>2019-04-15T12:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/mommy-me-tee-set-toddler-tamer-includes-both-shirts"/>
+    <title>Mommy &amp; Me Tee Set - Toddler Tamer - Includes Both Shirts</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/30703-bs-momt.jpg?v=1555398503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These Mommy &amp; Me Tee sets are perfect for you and your little one!  Choose the right combination of sizing for you and your little one and we will take care of the rest!</span></p>
+<p><span>• 4.5 oz. 100% combed ringspun cotton fine jersey</span><br><br><strong>Features:</strong><span> </span></p>
+<p><span>• Topstitch ribbed collar supports the neckline to maintain the proper shape </span></p>
+<p><span>• Taped neck for a clean, finished look with superior comfort </span></p>
+<p><span>• Double needle hem sleeves and bottom for a clean, finished look • Side seam construction for exceptional quality and durability</span></p>
+<p><strong>Bodysuit Sizes:</strong></p>
+<p>Newborn</p>
+<p>6 Months</p>
+<p>12 Months</p>
+<p>18 Months</p>
+<p>24 Months</p>
+<p><strong>Women's Sizes:</strong></p>
+[sizes]
+<div class="rte__table-wrapper">
+<table width="100%">
+<tbody>
+<tr style="height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Small (0-2)</td>
+<td style="height: 20px;">32"</td>
+<td style="height: 20px;">23.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">34"</td>
+<td style="height: 20px;">24"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">25"</td>
+</tr>
+<tr style="height: 21.4px;">
+<td style="height: 21.4px;">Large (10-12)</td>
+<td style="height: 21.4px;">41"</td>
+<td style="height: 21.4px;">26.5"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">X-Large (14-16)</td>
+<td style="height: 20px;">45"</td>
+<td style="height: 20px;">27"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">XX-Large (18)</td>
+<td style="height: 20px;">46"</td>
+<td style="height: 20px;">29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Bodysuits</s:tag>
+    <s:tag>Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Bodysuits</s:tag>
+    <s:tag>Girls - Graphic Bodysuits</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Girls Boys - Bodysuits</s:tag>
+    <s:tag>Girls Boys - Graphic Bodysuits</s:tag>
+    <s:tag>Graphic Bodysuits</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>X-Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XS-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>X-Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XS-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>X-Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XS-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>X-Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XS-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>X-Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XS-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Small / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-S-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Small / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-S-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Small / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-S-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Small / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-S-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Small / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-S-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Medium / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-M-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Medium / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-M-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Medium / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-M-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Medium / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-M-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Medium / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-M-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-L-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-L-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-L-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-L-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-L-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>X-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>X-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>X-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>X-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>X-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>XX-Large / Newborn</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XXL-NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>XX-Large / 6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XXL-6M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>XX-Large / 12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XXL-12M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>XX-Large / 18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XXL-18M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3485682237542</id>
+      <title>XX-Large / 24 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>30703-XXL-24M</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

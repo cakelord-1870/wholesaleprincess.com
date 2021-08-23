@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/girls-tops.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2019-08-16T12:12:49-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3879497597030</id>
+    <published>2019-08-16T12:12:49-05:00</published>
+    <updated>2019-08-16T12:12:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/unisex-colorful-toddler-pullover-fleece-hoodie-13-colors"/>
+    <title>Unisex Colorful Pullover Fleece Hoodie - 13 Colors</title>
+    <s:type>Girls, Boys - Tops</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/32205-32217_1.jpg?v=1565975515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls, Boys - Tops<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>An all-season favorite for cooler weather or on a windy day. Specially made with ribbed long sleeve cuffs and bottom to allow for freedom of movement.  DIY Ready! Get creative and add your own embellishments!</span></p>
+<p><strong>Features:</strong><span> </span></p>
+<p>• 7.5 oz. 60/40 combed ringspun cotton/polyester fleece </p>
+<p><span>• </span>Jersey-lined double needle hem hood</p>
+<p>• Topstitched hood and neck</p>
+<p>• Coverstitched shoulders and armholes</p>
+<p>• Coverstitched ribbed cuffs and bottom band</p>
+<p>• Side seam pockets</p>
+<p>• Side seam construction</p>
+<p>• EasyTear™ label</p>
+<p>• Machine wash</p>
+<p>• Tumble dry low</p>
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">30"</td>
+<td style="height: 20px;">16"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">31"</td>
+<td style="height: 20px;">17"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5/6</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Tops</s:tag>
+    <s:tag>Girls Boys - Tops</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Heather Gray</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>T-Shirt</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>Vintage Hot Pink</s:tag>
+    <s:tag>Vintage Red</s:tag>
+    <s:tag>Vintage Royal Blue</s:tag>
+    <s:tag>Vintage Smoke Gray</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Pink / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32209-3326-2T32205-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Pink / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32209-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Pink / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32209-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Pink / 5/6</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32209-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Black / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32205-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Black / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32205-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Black / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32205-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Heather Gray / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32206-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Heather Gray / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32206-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Heather Gray / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32206-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Navy / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32207-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Navy / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32207-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Navy / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32207-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Orange / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32208-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Orange / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32208-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Orange / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32208-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Purple / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32210-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Purple / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32210-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Purple / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32210-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Red / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32211-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Red / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32211-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Red / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32211-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Royal Blue / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32213-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Royal Blue / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32213-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Royal Blue / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32213-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Turquoise / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32214-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Turquoise / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32214-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Turquoise / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32214-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Hot Pink / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32215-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Hot Pink / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32215-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Hot Pink / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32215-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Red / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32216-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Red / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32216-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Red / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32216-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Royal Blue / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32217-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Royal Blue / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32217-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Royal Blue / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32217-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Smoke Gray / 2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32212-3326-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Smoke Gray / 3T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32212-3326-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879497597030</id>
+      <title>Vintage Smoke Gray / 4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32212-3326-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3879961133158</id>
+    <published>2019-08-16T11:30:23-05:00</published>
+    <updated>2019-08-16T11:30:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/unisex-colorful-toddler-pullover-fleece-hoodie-13-colors-1"/>
+    <title>Unisex Colorful Toddler Full-Zip Fleece Hoodie - 8 Colors</title>
+    <s:type>Girls - Tops</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_7891.jpg?v=1565972974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Girls - Tops<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>An all-season favorite for cooler weather or on a windy day. Specially made with ribbed long sleeve cuffs and bottom to allow for freedom of movement.  DIY Ready! Get creative and add your own embellishments!</span></p>
+<p><strong>Features:</strong><span> </span></p>
+<p>• 7.5 oz. 60/40 combed ringspun cotton/polyester fleece </p>
+<p><span>• </span>Jersey-lined double needle hem hood</p>
+<p>• Topstitched hood, zipper and neck</p>
+<p>• Coverstitched shoulders and armholes</p>
+<p>• Coverstitched ribbed cuffs and bottom band</p>
+<p>• Front pouch pockets</p>
+<p>• Side seam construction</p>
+<p>• EasyTear™ label</p>
+<p>• Machine wash</p>
+<p>• Tumble dry low</p>
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Chest</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">30"</td>
+<td style="height: 20px;">16"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">31"</td>
+<td style="height: 20px;">17"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">32"</td>
+<td style="height: 20.5px;">18"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-30</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Tops</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Heather Gray</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>Smoke Gray</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Whtie</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Black / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32228-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Black / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32228-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Black / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32228-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Heather Gray / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32229-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Heather Gray / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32229-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Heather Gray / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32229-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Navy / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32230-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Navy / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32230-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Navy / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32230-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Pink / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32231-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Pink / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32231-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Pink / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32231-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Red / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32232-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Red / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32232-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Red / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32232-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Royal Blue / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32233-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Royal Blue / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32233-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Royal Blue / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32233-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Smoke Gray / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32234-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Smoke Gray / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32234-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Smoke Gray / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32234-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>White / 2T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32235-3346-2T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>Whtie / 3T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32235-3346-3T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3879961133158</id>
+      <title>White / 4T</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>32235-3346-4T</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

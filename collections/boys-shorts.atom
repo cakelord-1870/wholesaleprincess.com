@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/boys-shorts.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2018-05-11T17:33:54-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/987261304876</id>
+    <published>2018-05-11T17:33:54-05:00</published>
+    <updated>2018-05-11T17:33:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/boys-black-white-stripe-elastic-waist-shorts"/>
+    <title>Boys Black &amp; White Stripe Drawstring Elastic Waist Shorts</title>
+    <s:type>Boys - Shorts</s:type>
+    <s:vendor>Yiwu Queyi Smile</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26206.jpg?v=1528866965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yiwu Queyi Smile<br>
+        <strong>Type: </strong>Boys - Shorts<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shorts are a perfect addition to your little boys closet as they are comfy and match everything!</p>
+<p>[features]</p>
+<p>• 1 piece</p>
+<p>• Black &amp; White Striped Shorts</p>
+<p>[/features][materials]</p>
+<p>• 95% cotton and 5% spandex</p>
+<p>• soft t-shirt material</p>
+<p>• hand wash cold</p>
+<p>• hang dry</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">12-18 Months</td>
+<td style="height: 20px;">12.5<span>"</span>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">2T</td>
+<td style="height: 20px;">13<span>"</span>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">3T</td>
+<td style="height: 20px;">14<span>"</span>
+</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">4T</td>
+<td style="height: 20.5px;">15<span>"</span>
+</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">5/6 Years</td>
+<td style="height: 20.5px;">15.5<span>"</span>
+</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">6/7 Years</td>
+<td style="height: 20.5px;">16<span>"</span>
+</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">7/8 Years</td>
+<td style="height: 20.5px;">16<span>"</span>
+</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5/6 Years</s:tag>
+    <s:tag>6/7 Years</s:tag>
+    <s:tag>7/8 Years</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Boys - Shorts</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/987261304876</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>26206-XS</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/987261304876</id>
+      <title>2T</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>26206-S</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/987261304876</id>
+      <title>3T</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>26206-M</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/987261304876</id>
+      <title>4T</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>26206-L</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/987261304876</id>
+      <title>5/6 Years</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>26206-XL</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/987261304876</id>
+      <title>6/7 Years</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>26206-XXL</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/987261304876</id>
+      <title>7/8 Years</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>26206-3XL</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/girls-headbands.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2019-10-03T12:15:48-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1260278841388</id>
+    <published>2019-10-03T12:15:48-05:00</published>
+    <updated>2019-10-03T12:15:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/rose-unicorn-headbands-7-colors-to-choose-from"/>
+    <title>Rose Unicorn Headbands -Set of 5 or Set of 7</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Alice B.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29397-29403.jpg?v=1542181945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice B.<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            9.99 - 12.99
+            <a href="https://wholesaleprincess.com/products/rose-unicorn-headbands-7-colors-to-choose-from">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Does your little one like Unicorns? We are sure your little one will love these adorable unicorn headbands with roses. <span>3" Long Unicorn Horn</span></p>
+<p><strong>Set of 7 Colors Includes:</strong></p>
+<p>Light Blue, White, Aqua, Hot Pink, Pink, Lavender &amp; Yellow</p>
+<p><strong>Set of 5 Colors Includes:</strong></p>
+<p>Light Blue, White, Pink, Lavender &amp; Yellow</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>10-20</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Headband</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1260278841388</id>
+      <title>Set of 5</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32873-Set of 5</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1260278841388</id>
+      <title>Set of 7</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>32873-Set of 7</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1690008748134</id>
+    <published>2019-10-02T13:58:15-05:00</published>
+    <updated>2019-10-02T13:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/unicorn-headbands-with-pastel-bows-7-colors"/>
+    <title>Unicorn Headbands with Pastel Bows - Set of 5</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Michelle And Scotts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_8838.jpg?v=1570042295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michelle And Scotts<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Does your little one like Unicorns? We are sure your little one will love these adorable unicorn headbands.</p>
+<p><strong>Set includes 5 headbands in 5 different colors</strong></p>
+<p>Lavender, Pink, Blue, Yellow, White</p>
+<p>3.5" long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blush</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Headband</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1690008748134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32875</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1121731674156</id>
+    <published>2017-12-12T11:29:08-06:00</published>
+    <updated>2017-12-12T11:29:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/unicorn-bow-flowers-on-soft-nylon-headband-assortment"/>
+    <title>Unicorn Bow &amp; Flowers on Soft Nylon Headband Assortment</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>K&amp;D International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26918_2.jpg?v=1542181602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&amp;D International<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These little headbands are truly perfect for little girls from birth to 6 years old.  They love to wear them because they are super soft and comfy, they are not too tight so they don't hurt.</p>
+<ul>
+<li>This assortment comes with all 3 colors shown.</li>
+<li>Each Flower and Bow is Attached to the Headband with Adhesive Felt </li>
+<li>No Metal Clips to Scratch Baby's Head</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>bow</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Flower</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Lace</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1121731674156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26918</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1121717977132</id>
+    <published>2017-12-12T11:29:08-06:00</published>
+    <updated>2017-12-12T11:29:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/vintage-flowers-bow-on-soft-nylon-headband-assortment"/>
+    <title>Vintage Flowers &amp; Bow on Soft Nylon Headband Assortment</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>K&amp;D International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26908_2.jpg?v=1542181599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&amp;D International<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These little headbands are truly perfect for little girls from birth to 6 years old.  They love to wear them because they are super soft and comfy, they are not too tight so they don't hurt.</p>
+<ul>
+<li>This assortment comes with all 3 colors shown.</li>
+<li>Each Flower and Bow is Attached to the Headband with Adhesive Felt </li>
+<li>No Metal Clips to Scratch Baby's Head</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>bow</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Flower</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Lace</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1121717977132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26908</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8584772108</id>
+    <published>2017-06-06T13:56:27-05:00</published>
+    <updated>2017-06-06T13:56:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/white-chiffon-mum-flower-clip-on-2-inch-white-lace-headband"/>
+    <title>White Chiffon Mum Flower Clip On 2&quot; White Lace Headband</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/12008.jpg?v=1529394676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Your little princess will be the center of attention in this adorable lace headband with white chiffon Mum. A</span><span>dd a unique touch to an everyday outfit or dress up for a special occasion. It is amazingly cute!</span></p>
+<p>Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 2</p>
+<p>• Headband Color: White</p>
+<p>• Headband Style: 2" Lace</p>
+<p>• Includes: 3.5" Chiffon Mum Flower Hair Clip</p>
+<p>• Embellishment Colors: White</p>
+<p>• Age: All Ages</p>
+<p>• Material: Elastic, Polyester and Metal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Chiffon</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Lace</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8584772108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>12008</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1398581592108</id>
+    <published>2017-05-11T19:30:00-05:00</published>
+    <updated>2017-05-11T19:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/unicorn-outline-headbands-6-colors-to-choose-from"/>
+    <title>Unicorn Outline Headbands - 7 Colors to Choose from</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Michelle And Scotts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29622-31060.jpg?v=1620851602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michelle And Scotts<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These headbands are the perfect addition to your little girl’s accessory collection from Wholesale Princess.</span></p>
+<p><strong>Colors</strong></p>
+<p>Blue</p>
+<p>Hot Pink</p>
+<p>White</p>
+<p>Pink</p>
+<p>Yellow</p>
+<p>Lavender</p>
+<p>Aqua</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Headband</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Blue</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29622-Blue-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29623-Hot Pink-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>White</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29624-White-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Pink</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29625-Pink-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Yellow</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29626-Yellow-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Lavender</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29627-Lavender-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Aqua</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>31060-Aqua-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1272488493100</id>
+    <published>2017-05-11T19:30:00-05:00</published>
+    <updated>2017-05-11T19:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/princess-tiara-headbands-6-colors-to-choose-from"/>
+    <title>Princess Tiara Headbands - 6 Colors to Choose from</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Alice B.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_1918.jpg?v=1542181952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice B.<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These headbands are the perfect addition to your little girl’s accessory collection from Wholesale Princess.</span></p>
+<p><strong>Colors</strong></p>
+<p>Pink</p>
+<p>Silver</p>
+<p>Yellow</p>
+<p>Lavender</p>
+<p>Light Pink</p>
+<p>Blue</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Fix_Swatches</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Headband</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Light Pink</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Princess</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Tiara</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Pink</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29440-Pink</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Silver</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29441-Silver</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Yellow</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29442-Yellow</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Lavender</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29443-Lavender</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Light Pink</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29444-Light Pink</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Blue</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29445-Blue</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1121692745772</id>
+    <published>2017-05-11T19:30:00-05:00</published>
+    <updated>2017-05-11T19:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/sequin-minnie-mouse-ears-headband"/>
+    <title>Sequin Minnie Mouse Ears Headband</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Alice B.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26893.jpg?v=1620851577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice B.<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sequin Minnie Mouse ears headband is the perfect accessory for your next Disney vacation. The girls' Minnie Mouse ears are perfect for photos and play time!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Costumes</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Headband</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Minnie Bow</s:tag>
+    <s:tag>Minnie Mouse</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1121692745772</id>
+      <title>Red</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>26893</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1121741865004</id>
+    <published>2017-01-24T17:37:00-06:00</published>
+    <updated>2017-01-24T17:37:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/cotton-knot-tie-headbands-prints-patterns-set"/>
+    <title>Bicycles &amp; Stars Headbands - Prints &amp; Patterns Set</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26916_1.jpg?v=1533365342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages!!</p>
+<p>• Number of Pieces: 3 </p>
+<p><span>• Teddy bears riding bicycles and star </span>patterns</p>
+<p>• Headband Style: Turban Headwraps</p>
+<p>• Age: All Ages</p>
+<p>• Material: 97% Cotton and 3% Spandex</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Stars &amp; Stripes</s:tag>
+    <s:tag>Teddy Bear</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1121741865004</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>26916</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9450340748</id>
+    <published>2017-01-18T12:58:00-06:00</published>
+    <updated>2017-01-18T12:58:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/3-4-individual-foe-satin-elastic-headbands-15-stunning-colors"/>
+    <title>3/4&quot; Individual FOE Satin Elastic Headbands</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>K&amp;D International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/9590-Dozen.jpg?v=1559324252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&amp;D International<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            0.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These approx. 3/4" Headbands are now sold individually. These are perfect for adding bows, flowers and hair clips of all kinds!</span></p>
+<p><span>We also sell these by the dozen, including color assortments! Check out our other listings!</span></p>
+<p><span>Why pay more elsewhere when you can get quality headbands at a great price! Wholesale Princess is your source for all things Princess! Where Adorable Meets Affordable!!</span></p>
+<p>• Number of Pieces: 1</p>
+<p>• Headband Color Options: Choice of 17 Colors!</p>
+<p>• Headband Style: .75" FOE Headband</p>
+<p><span>• Measurements: 12" Unstretched 16" Stretched</span></p>
+<p>• Age: All Ages</p>
+<p>• Material: Elastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Elastic</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Ivory</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Light Pink</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>Navy</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Royal Blue</s:tag>
+    <s:tag>Satin</s:tag>
+    <s:tag>St. Patrick&apos;s Day</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Red</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9584</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Light Pink</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9577</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9578</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>White</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9581</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Ivory</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>18307</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>21216</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Brown</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>21217</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Gray</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9583</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Lavender</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9579</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Lime Green</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9585</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Purple</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9580</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Orange</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9587</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9588</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Navy</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>11040</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Light Blue</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>14050</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Yellow</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9586</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9450340748</id>
+      <title>Black</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9582</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8659604172</id>
+    <published>2016-10-03T17:08:00-05:00</published>
+    <updated>2016-10-03T17:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/turquoise-2-5-leather-bow-on-black-skinny-headband"/>
+    <title>Turquoise 2.5&quot; Leather Bow On Black Skinny Headband</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/20133.jpg?v=1474985955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Number of Pieces: 2<br> Headband Color: Black<br> Headband Style: .25" Elastic<br> Includes: 2.5" Leather Bow<br> Embellishments Colors: Turquoise<br> Age: All Ages<br> Material: Metal and Polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8659604172</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20133</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8587277516</id>
+    <published>2016-09-17T07:36:00-05:00</published>
+    <updated>2016-09-17T07:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/pink-shimmer-organza-flower-on-2-inch-white-lace-headband"/>
+    <title>Pink Shimmer Organza Flower On 2&quot; White Lace Headband</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/18214.jpg?v=1474115797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages from Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 2</p>
+<p>• Headband Color: White</p>
+<p>• Headband Style: 2" Lace</p>
+<p>• Includes: 3" Organza Flower Hair Clip</p>
+<p>• Embellishment Colors: Pink</p>
+<p>• Age: All Ages</p>
+<p>• Material: Metal and Polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Lace</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8587277516</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>18214</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8585891404</id>
+    <published>2016-09-17T01:48:35-05:00</published>
+    <updated>2016-09-17T01:48:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/aqua-2-inch-sequin-hair-bow-clip-on-skinny-headband-blue"/>
+    <title>Turquoise 2&quot; Sequin Hair Bow Clip On Skinny Headband - Blue</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/14957.jpg?v=1474094916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Headband Color: Turquoise</p>
+<p>• Headband Style: .25" Skinny Elastic</p>
+<p>• Includes: 2" Sequin Bow</p>
+<p>• Embellishments Colors: Turquoise</p>
+<p>• Age: All Ages</p>
+<p>• Material: Metal and Polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sequin</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8585891404</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>14957</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8585892108</id>
+    <published>2016-09-17T01:48:00-05:00</published>
+    <updated>2016-09-17T01:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/yellow-2-inch-sequin-bow-on-skinny-headband-yellow"/>
+    <title>Yellow 2&quot; Sequin Bow On Skinny Headband - Yellow</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/14962.jpg?v=1474094936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Headband Color: Yellow</p>
+<p>• Headband Style: .25" Skinny Elastic</p>
+<p>• Includes: 2" Sequin Bow</p>
+<p>• Embellishments Colors: Yellow</p>
+<p>• Age: All Ages</p>
+<p>• Material: Metal and Polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>New Year&apos;s</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sequin</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8585892108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>14962</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8585504652</id>
+    <published>2016-09-17T00:08:02-05:00</published>
+    <updated>2016-09-17T00:08:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/blue-chiffon-mum-flower-clip-on-2-inch-turquoise-lace-headband"/>
+    <title>Turquoise Chiffon Mum Flower Clip On 2&quot; Turquoise Lace Headband</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/13858_1.jpg?v=1474088887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages from Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 2</p>
+<p>• Headband Color: Turquoise</p>
+<p>• Headband Style: 2" Lace</p>
+<p>• Includes: 3.5" Chiffon and Lace Fabric Flower Hair Clip</p>
+<p>• Embellishment Colors: Turquoise</p>
+<p>• Age: All Ages</p>
+<p>• Material: Metal and Polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Chiffon</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Lace</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8585504652</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>13858</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8584043916</id>
+    <published>2016-09-16T20:06:32-05:00</published>
+    <updated>2016-09-16T20:06:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/thistle-2-5-inch-leather-bow-on-skinny-headband-black"/>
+    <title>Thistle 2.5&quot; Leather Bow On Skinny Headband - Black</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/16815.jpg?v=1474074394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages from Wholesale Princess, Where Adorable Meets Affordable!!</p><p>• Number of Pieces: 1</p><p>• Headband Color: Black</p><p>• Headband Style: Skinny Elastic</p><p>• Includes: 2.5" Leather Bow</p><p>• Embellishment Colors: Light Pink</p><p>• </p><p>• </p><p>• Age: All Ages</p><p>• Material: Elastic and Leather</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8584043916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>16815</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8584041164</id>
+    <published>2016-09-16T20:05:00-05:00</published>
+    <updated>2016-09-16T20:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/thistle-2-5-inch-leather-bow-on-skinny-headband-light-pink"/>
+    <title>Thistle 2.5&quot; Leather Bow On Skinny Headband Light Pink</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/16809.jpg?v=1522005436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages from Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Headband Color: <span><em>Light Pink</em> / Bow<span> Color:</span><span> </span><em>Pale Pink (Thistle)</em></span></p>
+<p>• Headband Style: Skinny Elastic</p>
+<p>• Includes: 2.5" Leather Bow</p>
+<p>• Age: All Ages</p>
+<p>• Material: Elastic and Leather</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8584041164</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>16809</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8584030284</id>
+    <published>2016-09-16T20:03:00-05:00</published>
+    <updated>2016-09-16T20:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/white-2-5-inch-leather-bow-on-skinny-headband-ivory"/>
+    <title>White 2.5&quot; Leather Bow On Skinny Headband - Ivory</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/16788_20_3.jpg?v=1474074194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique headbands for all ages from Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Headband Color: Ivory</p>
+<p>• Headband Style: Skinny Elastic</p>
+<p>• Includes: 2.5" Leather Bow</p>
+<p>• Embellishment Colors: White</p>
+<p>• Age: All Ages</p>
+<p>• Material: Elastic and Leather</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Ivory</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>New Year&apos;s</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8584030284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>16788</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

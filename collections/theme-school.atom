@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/theme-school.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2016-09-16T14:41:00-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8581000716</id>
+    <published>2016-09-16T14:41:00-05:00</published>
+    <updated>2016-09-16T14:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/hello-pre-school-short-sleeve-t-shirt-7-color-options"/>
+    <title>Hello Pre-School Short Sleeve T-Shirt (7 Color Options)</title>
+    <s:type>Girls, Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/19661_20_6.jpg?v=1480666924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable short sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• One piece</p>
+<p>• Short Sleeve Shirt</p>
+<p>• Hello Pre-School is printed on the front of the shirt</p>
+<p>• Pink - Purple - Red - Light Blue - Green - Hot Pink - Orange</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% cotton</p>
+<p>• Soft material</p>
+<p>• Machine wash cold</p>
+<p>• Tumble dry low</p>
+<p>• Imported</p>
+<p>• Lightweight</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes: 2T // 3T // 4T</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>School</s:tag>
+    <s:tag>Swatches_T-Shirt</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Orange / 2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-2T-ORG</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Orange / 3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-3T-ORG</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Orange / 4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-4T-ORG</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Green / 2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-2T-GRN</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Green / 3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-3T-GRN</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Green / 4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-4T-GRN</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Pink / 2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-2T-PNK</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Pink / 3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-3T-PNK</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Pink / 4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-4T-PNK</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Hot Pink / 2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-2T-HPK</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Hot Pink / 3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-3T-HPK</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Hot Pink / 4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-4T-HPK</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Red / 2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-2T-RED</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Red / 3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-3T-RED</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Red / 4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-4T-RED</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Light Blue / 2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-2T-LBL</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Light Blue / 3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-3T-LBL</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Light Blue / 4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-4T-LBL</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Purple / 2T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-2T-PUR</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Purple / 3T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-3T-PUR</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581000716</id>
+      <title>Purple / 4T</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19661-4T-PUR</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/boys-shoes.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2017-11-09T17:02:49-06:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/367040692263</id>
+    <published>2017-11-09T17:02:49-06:00</published>
+    <updated>2017-11-09T17:02:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/furry-animal-paw-slippers-infant-toddler"/>
+    <title>Furry Animal Paw Slippers - Infant &amp; Toddler</title>
+    <s:type>Girls, Boys - Shoes</s:type>
+    <s:vendor>Ellen - China Broker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/22175-22181.jpg?v=1520318097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen - China Broker<br>
+        <strong>Type: </strong>Girls, Boys - Shoes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="right text ng-scope" ng-if="!editFinalized">
+<div ng-bind-html="proposal.description" class="ng-binding">
+<p>Cold weather has once again arrived and it is time to keep those little tootsies warm even when they are in the house.  Get them a pair of our adorable furry slippers to keep them warm while they have fun wearing them!</p>
+<p><strong>Available in 7 colors:</strong></p>
+<p>Brown</p>
+<p>Cheetah</p>
+<p>Dark Pink</p>
+<p>Gray</p>
+<p>Ivory</p>
+<p>Light Pink</p>
+<p>White</p>
+<p><strong>Sizes:</strong></p>
+<p>3-6 Months - 11 cm / 4.33"</p>
+<p>6-12 Months - 12 cm / 4.72"</p>
+<p>12-18 Months - 13 cm / 5.11"</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>3-6 Months</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Basic Shoes</s:tag>
+    <s:tag>Beige</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Cheetah</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Dark Pink</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Shoes</s:tag>
+    <s:tag>Girls Boys - Shoes</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Beige / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22181-11-TAN</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Beige / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22181-12-TAN</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Beige / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22181-13-TAN</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Cheetah / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22179-11-CHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Cheetah / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22179-12-CHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Cheetah / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22179-13-CHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Dark Pink / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22177-11-HP</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Dark Pink / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22177-12-HP</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Dark Pink / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22177-13-HP</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Gray / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22176-11-GRY</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Gray / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22176-12-GRY</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Gray / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22176-13-GRY</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Pink / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22180-11-PNK</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Pink / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22180-12-PNK</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Pink / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22180-13-PNK</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>White / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22178-11-WHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>White / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22178-12-WHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>White / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22178-13-WHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+  </entry>
+</feed>

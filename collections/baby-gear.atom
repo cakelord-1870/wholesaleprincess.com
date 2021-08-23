@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/baby-gear.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2016-09-16T08:45:00-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8579174796</id>
+    <published>2016-09-16T08:45:00-05:00</published>
+    <updated>2016-09-16T08:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/6-inch-crochet-tops-assortment-pack-12-pieces"/>
+    <title>12 PACK - 6&quot; Crochet Tops - Assortment Pack -</title>
+    <s:type>Baby - Gear</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/127.jpg?v=1474033522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Gear<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">You will receive 14 different colors in each set.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Baby - Gear</s:tag>
+    <s:tag>Crochet</s:tag>
+    <s:tag>Crochet Top</s:tag>
+    <s:tag>Crochet Tops</s:tag>
+    <s:tag>Features_Crochet Top</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Material_Crochet Top</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Crochet Top</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Tube Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8579174796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.49</s:price>
+      <s:sku>127</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+</feed>

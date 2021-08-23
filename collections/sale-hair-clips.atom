@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/sale-hair-clips.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2016-12-28T12:45:00-06:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9290418572</id>
+    <published>2016-12-28T12:45:00-06:00</published>
+    <updated>2016-12-28T12:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/chiffon-mum-3-5-fabric-flower-clip"/>
+    <title>Chiffon Mum 3.5&quot; Fabric Flower/Clip</title>
+    <s:type>Girls - Flower Hair Clips</s:type>
+    <s:vendor>Yiwu Yazhao E-Commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/9832_0fc13406-e71a-4934-9833-40255a929f0c.jpg?v=1520317725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yiwu Yazhao E-Commerce<br>
+        <strong>Type: </strong>Girls - Flower Hair Clips<br>
+        <strong>Price: </strong>
+            0.40 - 1.00
+            <a href="https://wholesaleprincess.com/products/chiffon-mum-3-5-fabric-flower-clip">(27 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add our lovely fabric flower hair clips to your little girl's hair accessory collection from Wholesale Princess.</p>
+<p>• Number of Pieces: 1</p>
+<p>• Size: 3.5"</p>
+<p>• Type: Chiffon Fabric Flower</p>
+<p>• Includes: With Clip/Without Clip</p>
+<p>• Used For: Hair Styling and Dress Up</p>
+<p>• Hair Type: All Hair Types</p>
+<p>• Material: Polyester</p>
+<p>• Textile Material: Metal (20%), Polyester (80%)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Chiffon</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>DIY - Flowers</s:tag>
+    <s:tag>Flower Hair Clips</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Flower Hair Clips</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Hair Clips</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Ivory</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Light Pink</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>Mint Green</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>St. Patrick&apos;s Day</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Teal</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>Under $1</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Hot Pink / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9825-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Hot Pink / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9825-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Red / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9827-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Red / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9827-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Light Pink / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9824-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Light Pink / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9824-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Black / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9832-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Turquoise / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9822-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Turquoise / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9822-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Ivory / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9830-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Ivory / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9830-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Lavender / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9823-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Lavender / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9823-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Lime Green / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>13468-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Lime Green / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>13468-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Mint Green / With Clip Attached</title>
+      <s:price currency="USD">0.65</s:price>
+      <s:sku>21337-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Mint Green / Without Clip Attached</title>
+      <s:price currency="USD">0.40</s:price>
+      <s:sku>21337-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Orange / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9828-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Orange / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9828-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Peach / With Clip Attached</title>
+      <s:price currency="USD">0.65</s:price>
+      <s:sku>9826-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Peach / Without Clip Attached</title>
+      <s:price currency="USD">0.40</s:price>
+      <s:sku>9826-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Teal / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9821-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Teal / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9821-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>White / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9831-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>White / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9831-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Yellow / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9829-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Yellow / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9829-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9255358668</id>
+    <published>2016-12-22T15:17:00-06:00</published>
+    <updated>2016-12-22T15:17:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/tulle-puff-4-flower-embellishment"/>
+    <title>Tulle Puff 4&quot; Flower Embellishment</title>
+    <s:type>Girls - Flower Hair Clips</s:type>
+    <s:vendor>Yiwu Yazhao E-Commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/7794.jpg?v=1521873437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yiwu Yazhao E-Commerce<br>
+        <strong>Type: </strong>Girls - Flower Hair Clips<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add our lovely tulle flower embellishments to your little girl's hair accessory collection from Wholesale Princess.</p>
+<p>• Number of Pieces: 1</p>
+<p>• Size: 4"</p>
+<p>• Type: Tulle Flower Embellishment</p>
+<p>• Includes: With Clip / Without Clip</p>
+<p>• Used For: Hair Styling and Dress Up</p>
+<p>• Decorative Accents: Extra Soft Tulle</p>
+<p>• Hair Type: All Hair Types</p>
+<p>• Material: Tulle, Polyester</p>
+<p>• Textile Material: Metal (20%) , Polyester (80%)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>DIY - Flowers</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Flower Hair Clips</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Flower Hair Clips</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Hair Clips</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Ivory</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Light Pink</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring Clearance</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Teal</s:tag>
+    <s:tag>Tulle</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Light Pink / Without Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>7794-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Light Pink / With Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>7794-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Coral / Without Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9516-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Coral / With Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9516-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Gray / Without Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9513-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Gray / With Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9513-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Hot Pink / Without Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>7964-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Hot Pink / With Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>7964-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Ivory / Without Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9537-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Ivory / With Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9537-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Lavender / Without Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>7795-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Lavender / With Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>7795-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Peach / Without Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9138-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Peach / With Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9138-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Teal / Without Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9515-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Teal / With Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9515-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Turquoise / Without Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9514-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9255358668</id>
+      <title>Turquoise / With Clip Attached</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>9514-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9253775692</id>
+    <published>2016-12-22T09:21:00-06:00</published>
+    <updated>2016-12-22T09:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/chiffon-lace-4-rose-embellishment-clip"/>
+    <title>Chiffon &amp; Lace 4&quot; Rose Embellishment/Clip</title>
+    <s:type>Girls - Flower Hair Clips</s:type>
+    <s:vendor>Yiwu Yazhao E-Commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/8684_0ff08a04-4be9-42c7-baf5-e648125646d8.jpg?v=1520317673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yiwu Yazhao E-Commerce<br>
+        <strong>Type: </strong>Girls - Flower Hair Clips<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful chiffon and lace 4" rose embellishment/clip. Perfect as a clip, on a headband, hat or when you are creating your own amazing look.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Chiffon</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>DIY - Flowers</s:tag>
+    <s:tag>Flower Hair Clips</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Flower Hair Clips</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Hair Clips</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Ivory</s:tag>
+    <s:tag>Lace</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Hot Pink / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8679-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Hot Pink / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8679-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Pink / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8688-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Pink / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8688-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Lavender / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8677-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Lavender / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8677-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Black / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8684-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Black / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8684-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Coral / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8681-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Coral / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8681-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Gray / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8682-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Gray / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8682-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Ivory / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8680-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Ivory / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8680-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Lime Green / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8686-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Lime Green / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8686-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Purple / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8678-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Purple / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8678-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Turquoise / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8683-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Turquoise / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8683-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>White / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8685-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>White / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8685-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Yellow / Without Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8687-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9253775692</id>
+      <title>Yellow / With Clip Attached</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8687-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/women-pants-and-leggings.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2019-05-31T16:09:48-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3508541849702</id>
+    <published>2019-05-31T16:09:48-05:00</published>
+    <updated>2019-05-31T16:09:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/womens-drawstring-shorts"/>
+    <title>Women&apos;s Drawstring Shorts</title>
+    <s:type>Women - Swimwear</s:type>
+    <s:vendor>Alice B.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/31665.jpg?v=1557547479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice B.<br>
+        <strong>Type: </strong>Women - Swimwear<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="rte product-single__description" itemprop="description">
+<p>These adorable shorts are super stylish, soft and comfortable!</p>
+<p>[features]</p>
+<p><span>• Drawstring waist</span></p>
+<p>[/features] [materials]</p>
+<p><span>• </span>Hand Wash Cold<br><span>• </span>Hang Dry<br><span>• </span>Imported Material</p>
+<p>Sizes:</p>
+<p>Small // Medium // Large // X-Large // XX-Large</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Pants &amp; Leggings</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sage</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Pants</s:tag>
+    <s:tag>Women - Swimwear</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Light Blue / Small</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31665-LC77166-4-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Light Blue / Medium</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31665-LC77166-4-M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Light Blue / Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31665-LC77166-4-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Light Blue / X-Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31665-LC77166-4-XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Light Blue / XX-Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31665-LC77166-4-XXL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Brown / Small</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31666-LC77166-16-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Brown / Medium</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31666-LC77166-16-M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Brown / Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31666-LC77166-16-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Brown / X-Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31666-LC77166-16-XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Brown / XX-Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31666-LC77166-16-XXL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Sage / Small</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31667-LC77166-9-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Sage / Medium</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31667-LC77166-9-M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Sage / Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31667-LC77166-9-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Sage / X-Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31667-LC77166-9-XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Sage / XX-Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31667-LC77166-9-XXL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31668-LC77166-11-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31668-LC77166-11-M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31668-LC77166-11-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31668-LC77166-11-XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31668-LC77166-11-XXL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Tan / Small</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31669-LC77166-15-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Tan / Medium</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31669-LC77166-15-M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Tan / Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31669-LC77166-15-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Tan / X-Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31669-LC77166-15-XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3508541849702</id>
+      <title>Tan / XX-Large</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>31669-LC77166-15-XXL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/boys-hats.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2019-07-10T15:16:27-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/3927718133862</id>
+    <published>2019-07-10T15:16:27-05:00</published>
+    <updated>2019-07-10T15:16:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/copy-of-womens-black-fedora-with-black-braided-band"/>
+    <title>Kid&apos;s Cowboy Hats - Inspired by Woody and Jessie in Toy Story</title>
+    <s:type>Girls, Boys - Hats</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/32386-32387_1.jpg?v=1562829066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Hats<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These fun cowboy hats allow your child to be their favorite Toy Story character, whether that be Jessie (red) or Woody (brown)!  They are cute and durable enough for their wildest imaginations.</p>
+<p>Molded hat to keep shape</p>
+<p>Soft felt-like feel</p>
+<p>String detail</p>
+<p>Shoestring tie for under the chin</p>
+<p>12" long, 10" wide, 3" tall, 21" inside circumference</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Girls Boys - Hats</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Hats &amp; Head Wraps</s:tag>
+    <s:tag>OSFA</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3927718133862</id>
+      <title>Red</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32386</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/3927718133862</id>
+      <title>Brown</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>32387</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1363743801388</id>
+    <published>2017-11-26T11:54:19-06:00</published>
+    <updated>2017-11-26T11:54:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/santa-hat"/>
+    <title>Santa Hat</title>
+    <s:type>Girls, Boys - Hats</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_2439.jpg?v=1542180890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Hats<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Santa hats are extra soft and adorable for holiday photo shoots!</p>
+<p>Number of Pieces: 1</p>
+<p>Hat Color: Red &amp; White</p>
+<p>Used For: Dress Up</p>
+<p>Hair Type: All Hair Types</p>
+<p>Sizes: One Size Fits Most</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Boys - Hats</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Costumes &amp; Accessories</s:tag>
+    <s:tag>Crochet</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Costumes &amp; Accessories</s:tag>
+    <s:tag>Girls - Hats</s:tag>
+    <s:tag>Girls Boys - Hats</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Santa Claus</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1363743801388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29546</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+</feed>

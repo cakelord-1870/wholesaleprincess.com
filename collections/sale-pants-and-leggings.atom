@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/sale-pants-and-leggings.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2020-05-05T12:56:34-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4812937789542</id>
+    <published>2020-05-05T12:56:34-05:00</published>
+    <updated>2020-05-05T12:56:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/girls-frayed-bottom-jeans"/>
+    <title>Girls Frayed Bottom Jeans</title>
+    <s:type>Girls - Pants</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Jeans-Jane.jpg?v=1588748922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Pants<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pair of high-rise, stretch denim jeans featuring frayed bottoms, intentional fading and distressed detailing throughout.</p>
+<p>Medium indigo wash.<br>Button closure, zip fly.<br>Five-pocket styling.</p>
+<p><em>*Hair bow not included.</em></p>
+<p><strong>Fabric &amp; Care:</strong><br></p>
+<p>76% Cotton, 1.3% Spandex, 22.7% Polyester<br>Machine wash cold.<br>Do not bleach.<br>Imported.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18M</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5Y</s:tag>
+    <s:tag>6Y</s:tag>
+    <s:tag>7Y</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Clothing</s:tag>
+    <s:tag>Girls - Pants</s:tag>
+    <s:tag>Pants &amp; Leggings</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>12-18M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-XS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>2T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-S</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>3T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-M</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>4T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-L</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>5Y</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-XL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>6Y</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-XXL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>7Y</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-XXXL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

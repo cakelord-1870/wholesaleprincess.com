@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/girls-pants-and-leggings.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2020-05-05T12:56:34-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/4812937789542</id>
+    <published>2020-05-05T12:56:34-05:00</published>
+    <updated>2020-05-05T12:56:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/girls-frayed-bottom-jeans"/>
+    <title>Girls Frayed Bottom Jeans</title>
+    <s:type>Girls - Pants</s:type>
+    <s:vendor>Top Union</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Jeans-Jane.jpg?v=1588748922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Union<br>
+        <strong>Type: </strong>Girls - Pants<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pair of high-rise, stretch denim jeans featuring frayed bottoms, intentional fading and distressed detailing throughout.</p>
+<p>Medium indigo wash.<br>Button closure, zip fly.<br>Five-pocket styling.</p>
+<p><em>*Hair bow not included.</em></p>
+<p><strong>Fabric &amp; Care:</strong><br></p>
+<p>76% Cotton, 1.3% Spandex, 22.7% Polyester<br>Machine wash cold.<br>Do not bleach.<br>Imported.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>12-18M</s:tag>
+    <s:tag>2T</s:tag>
+    <s:tag>3T</s:tag>
+    <s:tag>4T</s:tag>
+    <s:tag>5Y</s:tag>
+    <s:tag>6Y</s:tag>
+    <s:tag>7Y</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Clothing</s:tag>
+    <s:tag>Girls - Pants</s:tag>
+    <s:tag>Pants &amp; Leggings</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>12-18M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-XS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>2T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-S</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>3T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-M</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>4T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-L</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>5Y</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-XL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>6Y</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-XXL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/4812937789542</id>
+      <title>7Y</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>34832-XXXL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8620107020</id>
+    <published>2018-12-15T17:13:55-06:00</published>
+    <updated>2018-12-15T17:13:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/ruffle-leg-boutique-pants-14-color-options"/>
+    <title>Ruffle Leg Boutique Pants - 12 Color Options</title>
+    <s:type>Girls - Pants</s:type>
+    <s:vendor>Rn Fashion/Butterflynflower</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/17505-hpink_1d7a6717-f865-4c7e-ab1f-42bbf29fe9b6.PNG?v=1613949432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rn Fashion/Butterflynflower<br>
+        <strong>Type: </strong>Girls - Pants<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12 color options. <br> These adorable Ruffle Bottom Pants have 3 layers of ruffles and an elastic waist.  Too cute for photo shoots!</p>
+[sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px; width: 24.5387%;">Size</td>
+<td style="height: 20px; width: 11.7343%;">
+<p>Elastic Waist (Unstretched)</p>
+</td>
+<td style="height: 20px; width: 21.2915%;">Length</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">0-1T</td>
+<td style="height: 20px; width: 11.7343%;">16"</td>
+<td style="height: 20px; width: 21.2915%;"><span>16.5"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">1-2T</td>
+<td style="height: 20px; width: 11.7343%;">18"</td>
+<td style="height: 20px; width: 21.2915%;"><span>17.5"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">2-3T</td>
+<td style="height: 20px; width: 11.7343%;"><span>20"</span></td>
+<td style="height: 20px; width: 21.2915%;"><span>18.5"</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px; width: 24.5387%;">3-4T</td>
+<td style="height: 20px; width: 11.7343%;"><span>22"</span></td>
+<td style="height: 20px; width: 21.2915%;"><span>20"</span></td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px; width: 24.5387%;">4-5T</td>
+<td style="height: 20.5px; width: 11.7343%;"><span>23"</span></td>
+<td style="height: 20.5px; width: 21.2915%;">21<span>"</span>
+</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px; width: 24.5387%;">5-6T</td>
+<td style="height: 20.5px; width: 11.7343%;"><span>24"</span></td>
+<td style="height: 20.5px; width: 21.2915%;"><span>23"</span></td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px; width: 24.5387%;">6-7 Years</td>
+<td style="height: 20.5px; width: 11.7343%;"><span>26"</span></td>
+<td style="height: 20.5px; width: 21.2915%;">25<span>"</span>
+</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0/1</s:tag>
+    <s:tag>1/2</s:tag>
+    <s:tag>1/2T</s:tag>
+    <s:tag>2/3T</s:tag>
+    <s:tag>3/4</s:tag>
+    <s:tag>3/4T</s:tag>
+    <s:tag>4/5</s:tag>
+    <s:tag>4/5T</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>5/6</s:tag>
+    <s:tag>5/6T</s:tag>
+    <s:tag>6-7 Years</s:tag>
+    <s:tag>6/</s:tag>
+    <s:tag>6/7T</s:tag>
+    <s:tag>7-8</s:tag>
+    <s:tag>7/8 Years</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Features_Pants - Ruffle Bottom Icing</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Pants</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Light Pink</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>Material_Pants - Ruffle Bottom Icing</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pants &amp; Leggings</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Ruffle Search</s:tag>
+    <s:tag>Sizes_Pants - Ruffle Bottom Icing</s:tag>
+    <s:tag>St. Patrick&apos;s Day</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Black / 1-2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42000-BLK-12T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Black / 2-3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42000-BLK-23T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Black / 3-4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42000-BLK-34T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Black / 4-5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42000-BLK-45T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Black / 5-6T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42000-BLK-56T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Black / 6-7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42000-BLK-67T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Black / 7-8</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42000-BLK-7/8 Years</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Brown / 2-3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-BRN-23T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Brown / 3-4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-BRN-34T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Brown / 4-5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-BRN-45T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Brown / 5-6T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-BRN-56T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Brown / 6-7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-BRN-67T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Hot Pink / 1-2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42001-HPK-12T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Hot Pink / 2-3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42001-HPK-23T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Hot Pink / 3-4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42001-HPK-34T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Hot Pink / 4-5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42001-HPK-45T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Hot Pink / 5-6T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42001-HPK-56T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Hot Pink / 6-7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42001-HPK-67T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Hot Pink / 7/8 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42001-Hot Pink-7/8 Years</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Blue / 1-2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42002-LBL-1/2T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Blue / 2/3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42002-LBL-2/3T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Blue / 3/4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42002-LBL-3/4T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Blue / 4/5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42002-LBL-4/5T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Blue / 5/6T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42002-LBL-5/6T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Blue / 6/7T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42002-LBL-6/7T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Blue / 7/8 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42002-LBL-7/8</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lime Green / 1-2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42003-LME-12T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lime Green / 2-3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42003-LME-23T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lime Green / 3-4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42003-LME-34T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lime Green / 4-5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42003-LME-45T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lime Green / 5-6T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42003-LME-56T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lime Green / 6-7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42003-LME-67T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lime Green / 7/8 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42003-Lime Green-7/8</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Orange / 1/2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42004-ORG-1/2T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Orange / 2/3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42004-ORG-2/3T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Orange / 3/4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42004-ORG-3/4T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Orange / 4/5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42004-ORG-4/5T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Orange / 5/6T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42004-ORG-5/6T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Orange / 6/7T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42004-ORG-6/7T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Orange / 7/8 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42004-ORG-7/8T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Pink / 1-2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42005-LPK-12T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Pink / 2-3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42005-LPK-23T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Pink / 3-4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42005-LPK-34T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Pink / 4-5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42005-LPK-45T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Pink / 5-6T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42005-LPK-56T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Pink / 6-7 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42005-LPK-67T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Light Pink / 7/8 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42005-Lt Pink 7/8</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Purple / 1/2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42006-PUR-1/2T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Purple / 2/3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42006-PUR-2/3</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Purple / 3/4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42006-PUR-3/4T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Purple / 4/5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42006-PUR-4/5T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Purple / 5/6T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42006-PRP-5/6T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Purple / 6/7T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42006-Purple 6/7T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Purple / 7/8 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42006-Purple - 7/8</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Red / 1/2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42007-RED-1/2</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Red / 2/3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42007-RED-2/3T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Red / 3/4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42007-RED-3/4T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Red / 4/5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42007-RED-4/5T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Red / 5/6T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42007-Red-5/6T</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Red / 6/7T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42007-RED-6/7</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Red / 7/8 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42007-RED-7/8 Years</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lavender / 1/2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42008-Lav-1/2T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lavender / 2/3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42008-Lav - 2/3T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lavender / 3/4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42008-Lav - 3/4T</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lavender / 4/5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42008-Lav-4/5</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lavender / 5/6T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42009-Lav-5/6</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lavender / 6/7T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42009-Lav-6/7</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Lavender / 7/8 Years</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42009-Lav-7/8 Years</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Mint / 0/1</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-mint-0/1</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Mint / 1/2</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-mint-1/2</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Mint / 3/4</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-mint-3/4</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Mint / 4/5</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-mint-4/5</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Mint / 5/6</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-mint-5/6</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>Mint / 6/</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-mint-6/7</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>White / 4/5</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-white-4/5</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620107020</id>
+      <title>White / 5/6</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>17505-white-5/6</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

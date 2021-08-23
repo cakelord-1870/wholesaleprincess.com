@@ -1,0 +1,4647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/theme-sports.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2017-03-01T10:42:00-06:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9803766540</id>
+    <published>2017-03-01T10:42:00-06:00</published>
+    <updated>2017-03-01T10:42:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/im-out-of-your-league-personalized-name-number-raglan-t-shirt"/>
+    <title>I&apos;m Out Of Your League - Personalized Name &amp; Number Raglan T-Shirt</title>
+    <s:type>Girls, Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/21320-Out-of-Your-League-Blue-_1.jpg?v=1520324783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I'm Out Of Your League design is printed on the front of the shirt!</p>
+<p>Back of the shirt is personalized with the name and number of your player (or any little one you have!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Baseball</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized Name</s:tag>
+    <s:tag>Personalized Number</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Blue / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-XXS-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Blue / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-X-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Blue / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-S-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Blue / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-M-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Blue / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-L-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Blue / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Blue / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-2XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Blue / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-3XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Black / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-XXS-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Black / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-X-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-S-BLAC</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-M-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-L-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-XL-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Black / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-2XL-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Black / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-3XL-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Gray / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-XXS-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Gray / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-X-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-S-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-M-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-L-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-2XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Gray / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-3XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Hot Pink / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-XXS-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Hot Pink / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-X-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Hot Pink / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-S-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Hot Pink / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-M-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Hot Pink / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-L-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Hot Pink / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Hot Pink / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-2XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Hot Pink / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-3XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Red / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-XXS-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Red / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-X-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-S-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Red / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-M-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-L-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Red / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Red / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-2XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9803766540</id>
+      <title>Red / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21320-3XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9804201420</id>
+    <published>2017-03-01T10:36:00-06:00</published>
+    <updated>2017-03-01T10:36:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/rookie-of-the-year-2017-personalized-name-number-raglan-t-shirt"/>
+    <title>Rookie of the Year 2017 - Personalized Name &amp; Number Raglan T-Shirt</title>
+    <s:type>Girls, Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/21322-Rookie-Front-Back-RED-_2.jpg?v=1520324788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rookie of the Year 2017 design is printed on the front of the shirt!</p>
+<p>Personalize the back of the shirt with the name and number of your player (or any of your little one's)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Baseball</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Personalized Number</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Black / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-XXS-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Black / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-X-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-S-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-M-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-L-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-XL-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Black / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-2XL-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Black / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-3XL-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Blue / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-XXS-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Blue / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-X-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Blue / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-S-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Blue / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-M-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Blue / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-L-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Blue / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Blue / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-2XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Blue / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-3XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Gray / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-XXS-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Gray / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-X-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-S-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-M-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-L-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-2XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Gray / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-3XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Hot Pink / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-XXS-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Hot Pink / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-X-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Hot Pink / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-S-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Hot Pink / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-M-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Hot Pink / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-L-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Hot Pink / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Hot Pink / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-2XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Hot Pink / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-3XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Red / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-XXS-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Red / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-X-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-S-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Red / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-M-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-L-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Red / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Red / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-2XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804201420</id>
+      <title>Red / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21322-3XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9804116620</id>
+    <published>2017-03-01T10:36:00-06:00</published>
+    <updated>2017-03-01T10:36:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/little-sister-biggest-fan-personalized-name-number-raglan-t-shirt"/>
+    <title>Little Sister, Biggest Fan - Personalized Name &amp; Number Raglan T-Shirt</title>
+    <s:type>Girls - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/21321-Little-Sister-Biggest-Fan-Red-_4.jpg?v=1520324786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Little Sister, Biggest Fan design is printed on the front of the shirt</p>
+<p>Personalized the back of the shirt with the name and number of your player (or any of your little one's!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Baseball</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Hot Pink / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-XXS-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Hot Pink / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-X-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Hot Pink / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-S-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Hot Pink / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-M-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Hot Pink / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-L-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Hot Pink / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Hot Pink / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-2XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Hot Pink / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-3XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Red / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-XXS-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Red / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-X-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-S-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Red / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-M-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-L-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Red / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Red / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-2XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Red / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-3XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Black / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-XXS-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Black / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-X-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-S-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-M-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-L-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-XL-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Black / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-2XL-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Black / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-3XL-BLACK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Blue / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-XXS-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Blue / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-X-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Blue / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-S-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Blue / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-M-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Blue / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-L-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Blue / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Blue / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-2XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Blue / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-3XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Gray / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-XXS-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Gray / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-X-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-S-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-M-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-L-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-2XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804116620</id>
+      <title>Gray / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21321-3XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9648473676</id>
+    <published>2017-03-01T10:36:00-06:00</published>
+    <updated>2017-03-01T10:36:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/rookie-of-the-year-raglan-t-shirt"/>
+    <title>Rookie of the Year - Raglan T-Shirt</title>
+    <s:type>Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/rookie_of_the_year.jpg?v=1520324692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rookie of the Year design is printed on the front of the shirt!</p>
+<p>Personalized back of the shirt with the name and number of the player (or any little one you have!)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Baseball</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Red / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-XXS-RED</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Red / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-X-RED</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-S-RED</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Red / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-M-RED</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-L-RED</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Red / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-XL-RED</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Red / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-2XL-RED</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Red / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-3XL-RED</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Gray / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-XXS-GRAY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Gray / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-X-GRAY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-S-GRAY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-M-GRAY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-L-GRAY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-XL-GRAY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-2XL-GRAY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Gray / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-3XL-GRAY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Turquoise / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-XXS-TURQ</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Turquoise / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-X-TURQ</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Turquoise / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-S-TURQ</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Turquoise / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-M-TURQ</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Turquoise / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-L-TURQ</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Turquoise / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-XL-TURQ</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Turquoise / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-2XL-TURQ</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Turquoise / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-3XL-TURQ</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Blue / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-XXS-BLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Blue / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-X-BLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Blue / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-S-BLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Blue / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-M-BLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Blue / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-L-BLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Blue / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-XL-BLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Blue / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-2XL-BLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9648473676</id>
+      <title>Blue / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21274-3XL-BLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9804255628</id>
+    <published>2017-03-01T10:35:00-06:00</published>
+    <updated>2017-03-01T10:35:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/lil-sister-personalized-name-number-raglan-t-shirt"/>
+    <title>Lil&apos; Sister - Personalized Name &amp; Number Raglan T-Shirt</title>
+    <s:type>Girls - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/21323-Lil-Sister-Red-_4.jpg?v=1520324790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lil' Sister design is printed on the front of the shirt!</p>
+<p>Personalize the back of the shirt with the name and number of your player (or any of your little one's)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Baseball</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Graphic T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Hot Pink / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-XXS-HOTPINK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Hot Pink / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-X-HOTPINK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Hot Pink / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-S-HOTPINK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Hot Pink / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-M-HOTPINK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Hot Pink / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-L-HOTPINK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Hot Pink / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-XL-HOTPINK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Hot Pink / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-2XL-HOTPINK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Hot Pink / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-3XL-HOTPINK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Red / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-XXS-RED</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Red / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-X-RED</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-S-RED</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Red / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-M-RED</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-L-RED</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Red / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-XL-RED</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Red / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-2XL-RED</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Red / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-3XL-RED</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Black / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-XXS-BLACK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Black / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-X-BLACK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-S-BLACK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-M-BLACK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-L-BLACK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-XL-BLACK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Black / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-2XL-BLACK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Black / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-3XL-BLACK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Blue / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-XXS-BLUE</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Blue / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-X-BLUE</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Blue / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-S-BLUE</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Blue / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-M-BLUE</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Blue / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-L-BLUE</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Blue / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-XL-BLUE</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Blue / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-2XL-BLUE</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Blue / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-3XL-BLUE</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Gray / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-XXS-GRAY</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Gray / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-X-GRAY</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-S-GRAY</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-M-GRAY</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-L-GRAY</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-XL-GRAY</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-2XL-GRAY</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9804255628</id>
+      <title>Gray / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21323-3XL-GRAY</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/425637380135</id>
+    <published>2016-11-15T13:45:00-06:00</published>
+    <updated>2016-11-15T13:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/womens-heather-baseball-tee"/>
+    <title>Women&apos;s Heather Baseball Tee - 13 Colors</title>
+    <s:type>Women - T-Shirts</s:type>
+    <s:vendor>Lat Apparel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/22414.jpg?v=1520325039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lat Apparel<br>
+        <strong>Type: </strong>Women - T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether you are in the stands, on the field or out with friends, you'll be ready for game day with this Ladies' raglan athletic baseball tee. Specially designed with raglan sleeves and a shirt tail hem to give a sporty look with exceptional comfort.</p>
+<p><strong>Features:</strong><br><span>• 4.5 oz. 100% combed ringspun cotton premium jersey</span></p>
+<p>• Flatlock stitched contrast ribbed collar and raglan armholes</p>
+<p><span>• Contrast d</span>ouble needle hem raglan 3/4 sleeves</p>
+<p><span>• </span>Raw serge shirt tail bottom hem</p>
+<p><span>• </span>EasyTear label</p>
+<p><span>• Side seam construction for exceptional quality and durability</span></p>
+<p><span>• Machine wash/Tumble dry low</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 22%;">Size</td>
+<td style="width: 10%;">Chest</td>
+<td style="width: 10%;">Waist</td>
+<td style="width: 27.1365%;">Length (Top of shoulder to bottom of hem)</td>
+<td style="width: 27.1365%;">Length of Sleeve (Neck hem to bottom of sleeve)</td>
+</tr>
+<tr>
+<td style="width: 22%;">Small (4-6)</td>
+<td style="width: 10%;">34"</td>
+<td style="width: 10%;">32"</td>
+<td style="width: 25.8635%;">25"</td>
+<td style="width: 27.1365%;">20"</td>
+</tr>
+<tr>
+<td style="width: 22%;">Medium (8)</td>
+<td style="width: 10%;">36"</td>
+<td style="width: 10%;">34"</td>
+<td style="width: 25.8635%;">26"</td>
+<td style="width: 27.1365%;">21"</td>
+</tr>
+<tr>
+<td style="width: 22%;">Large (10-12)</td>
+<td style="width: 10%;">38"</td>
+<td style="width: 10%;">36"</td>
+<td style="width: 25.8635%;">27"</td>
+<td style="width: 27.1365%;">22"</td>
+</tr>
+<tr>
+<td style="width: 22%;">X-Large (14-16)</td>
+<td style="width: 10%;">40"</td>
+<td style="width: 10%;">38"</td>
+<td style="width: 25.8635%;">28"</td>
+<td style="width: 27.1365%;">23"</td>
+</tr>
+<tr>
+<td style="width: 22%;">XX-Large (18)</td>
+<td style="width: 10%;">42"</td>
+<td style="width: 10%;">40"</td>
+<td style="width: 25.8635%;">29"</td>
+<td style="width: 27.1365%;">24"</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Black/White</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Carolina Blue/Heather</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Heather/Hot Pink</s:tag>
+    <s:tag>Heather/Navy</s:tag>
+    <s:tag>Heather/Orange</s:tag>
+    <s:tag>Heather/Plum</s:tag>
+    <s:tag>Heather/Purple</s:tag>
+    <s:tag>Heather/Red</s:tag>
+    <s:tag>Heather/Royal Blue</s:tag>
+    <s:tag>Heather/Smoke</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink/Heather</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Smoke/Heather</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White/Black</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - T-Shirts</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Plum / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22414-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Plum / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22414-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Plum / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22414-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Plum / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22414-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Plum / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22414-3530-XXL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Black/White / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32181-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Black/White / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32181-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Black/White / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32181-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Black/White / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32181-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Black/White / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32181-3530-XXL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Carolina Blue/Heather / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32182-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Carolina Blue/Heather / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32182-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Carolina Blue/Heather / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32182-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Carolina Blue/Heather / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32182-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Carolina Blue/Heather / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32182-3530-XXL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Hot Pink / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32183-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Hot Pink / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32183-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Hot Pink / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32183-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Hot Pink / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32183-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Hot Pink / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32183-3530-XXL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Navy / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22415-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Navy / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22415-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Navy / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22415-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Navy / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22415-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Navy / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22415-3530-XXL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Orange / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32184-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Orange / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32184-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Orange / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32184-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Orange / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32184-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Orange / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32184-3530-XXL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Pink/Heather / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32185-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Pink/Heather / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32185-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Pink/Heather / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32185-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Pink/Heather / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32185-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Pink/Heather / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32185-3530-XXL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Purple / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22416-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Purple / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22416-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Purple / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22416-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Purple / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22416-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Purple / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22416-3530-2XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Red / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22417-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Red / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22417-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Red / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22417-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Red / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22417-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Red / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22417-3530-2XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Royal Blue / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32186-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Royal Blue / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32186-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Royal Blue / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32186-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Royal Blue / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32186-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Royal Blue / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32186-3530-XXL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Smoke / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22418-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Smoke / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22418-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Smoke / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22418-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Smoke / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22418-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Heather/Smoke / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22418-3530-2XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Smoke/Heather / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32187-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Smoke/Heather / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32187-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Smoke/Heather / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32187-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Smoke/Heather / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32187-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>Smoke/Heather / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32187-3530-XXL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>White/Black / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22419-3530-S</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>White/Black / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22419-3530-M</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>White/Black / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22419-3530-L</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>White/Black / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22419-3530-XL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/425637380135</id>
+      <title>White/Black / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22419-3530-XXL</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8918806540</id>
+    <published>2016-11-15T13:45:00-06:00</published>
+    <updated>2016-11-15T13:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/womens-raglan-shirt"/>
+    <title>Women&apos;s Patch Sleeve Raglan Shirt</title>
+    <s:type>Women - T-Shirts</s:type>
+    <s:vendor>Alice B.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/20818_-_Lisette_Gatliff_57.jpg?v=1520324270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice B.<br>
+        <strong>Type: </strong>Women - T-Shirts<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This women's long sleeve raglan tee is a classic look on and off the baseball field. We have a variety of fun color combinations. This elbow patch raglan is the perfect casual top for your wardrobe. Contoured and comfortable. Made for a super-soft feel.</p>
+[features]
+<p><strong>Shirt</strong> <br> Long Sleeves <br> Elbow Patches <br> Crew Neck</p>
+[/features] [materials]
+<p>100% cotton <br> Hand wash cold <br> Hang dry</p>
+[/materials]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Black/Gray</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Hot Pink/Dark Gray</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink/Gray</s:tag>
+    <s:tag>Purple/Gray</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Turquoise/Gray</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - T-Shirts</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Hot Pink/Dark Gray / Small</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20815-S</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Hot Pink/Dark Gray / Medium</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20815-M</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Hot Pink/Dark Gray / Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20815-L</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Hot Pink/Dark Gray / X-Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20815-XL</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Hot Pink/Dark Gray / XX-Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20815-2XL</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Pink/Gray / Small</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20817-S</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Pink/Gray / Medium</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20817-M</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Pink/Gray / Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20817-L</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Pink/Gray / X-Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20817-XL</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Pink/Gray / XX-Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20817-2XL</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Black/Gray / Small</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20818-S</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Black/Gray / Medium</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20818-M</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Black/Gray / Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20818-L</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Black/Gray / X-Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20818-XL</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Black/Gray / XX-Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20818-2XL</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Turquoise/Gray / Small</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20814-S</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Turquoise/Gray / Medium</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20814-M</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Turquoise/Gray / Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20814-L</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Turquoise/Gray / X-Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20814-XL</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Turquoise/Gray / XX-Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20814-2XL</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Purple/Gray / Small</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20816-S</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Purple/Gray / Medium</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20816-M</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Purple/Gray / Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20816-L</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Purple/Gray / X-Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20816-XL</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8918806540</id>
+      <title>Purple/Gray / XX-Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>20816-2XL</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8620110540</id>
+    <published>2016-09-23T17:06:00-05:00</published>
+    <updated>2016-09-23T17:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/sports-team-jersey-custom-name-number-raglan-t-shirt"/>
+    <title>Sports Team Jersey (Custom Name/Number) Raglan T-Shirt</title>
+    <s:type>Girls, Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/18303_dl-nw_3_smaller.jpg?v=1474496487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable long sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• One piece</p>
+<p>• Customize this shirt with your little one's name along with their number! Perfect for Soccer, Baseball, and other sports!</p>
+<p>Fabric &amp; Care:</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Hand Wash Only</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>XX-Small - 6 - 12 months</p>
+<p>X-Small - 12 - 18 months</p>
+<p>Small - 2T</p>
+<p>Medium - 3T</p>
+<p>Large - 4T</p>
+<p>X-Large - 5 years</p>
+<p>XX-Large - 6 years</p>
+<p>XXX-Large - 7 years</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized Name</s:tag>
+    <s:tag>Personalized Number</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Blue / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXS-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Blue / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-X-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Blue / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-S-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Blue / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-M-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Blue / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-L-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Blue / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Blue / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-2XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Blue / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-3XL-BLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Brown / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXS-BROWN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Brown / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-X-BROWN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Brown / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-S-BROWN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Brown / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-M-BROWN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Brown / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-L-BROWN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Brown / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XL-BROWN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Brown / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-2XL-BROWN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Brown / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-3XL-BROWN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Gray / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXS-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Gray / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-X-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-S-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-M-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-L-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-2XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Gray / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-3XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Hot Pink / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXS-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Hot Pink / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-X-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Hot Pink / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-S-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Hot Pink / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-M-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Hot Pink / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-L-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Hot Pink / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Hot Pink / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-2XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Hot Pink / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-3XL-HOTPINK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Light Blue / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXS-LIGHTBLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Light Blue / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-X-LIGHTBLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Light Blue / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-S-LIGHTBLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Light Blue / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-M-LIGHTBLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Light Blue / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-L-LIGHTBLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Light Blue / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XL-LIGHTBLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Light Blue / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-2XL-LIGHTBLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Light Blue / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-3XL-LIGHTBLUE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Orange / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXS-ORANGE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Orange / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-X-ORG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Orange / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-S-ORANGE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Orange / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-M-ORANGE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Orange / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-L-ORANGE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Orange / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XL-ORANGE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Orange / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-2XL-ORANGE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Orange / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-3XL-ORANGE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Purple / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXS-PURP</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Purple / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-X-PURPLE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Purple / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-S-PURPLE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Purple / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-M-PURPLE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Purple / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-L-PURPLE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Purple / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XL-PURPLE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Purple / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-2XL-PURPLE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Purple / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-3XL-PURPLE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Red / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXS-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Red / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-X-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-S-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Red / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-M-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-L-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Red / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Red / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-2XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Red / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-3XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Turquoise / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXS-Turq</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Turquoise / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XS-Turq</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Turquoise / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-S-Turq</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Turquoise / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-M-Turq</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Turquoise / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-L-Turq</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Turquoise / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XL-Turq</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Turquoise / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXL-Turq</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Turquoise / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXXL-Turq</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Yellow / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XXS-YELLOW</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Yellow / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-X-YELLOW</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Yellow / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-S-YELLOW</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Yellow / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-M-YELLOW</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Yellow / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-L-YELLOW</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Yellow / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-XL-YELLOW</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Yellow / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-2XL-YELLOW</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8620110540</id>
+      <title>Yellow / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>18303-3XL-YELLOW</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8581434508</id>
+    <published>2016-09-16T15:51:00-05:00</published>
+    <updated>2016-09-16T15:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/football-raglan-t-shirt"/>
+    <title>Football Raglan T-Shirt</title>
+    <s:type>Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/19953_20Txt_20and_20Img_20_2.jpg?v=1480633963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable long sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• One piece</p>
+<p>• Football design is printed on the front of the shirt</p>
+<p>• Purple - Gray - Orange - Lavender</p>
+<p>Fabric &amp; Care:</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Hand Wash Only</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>XX-Small - 6 to 12 months</p>
+<p>X-Small - 12 to 18 months</p>
+<p>Small - 2T</p>
+<p>Medium - 3T</p>
+<p>Large - 4T</p>
+<p>X-Large - 5 years</p>
+<p>XX-Large - 6 years</p>
+<p>XXX-Large - 7 years</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Gray / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XXSM-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Gray / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-X-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-S-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-M-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-L-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-2XL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Gray / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XXXL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Orange / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XXSM-ORG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Orange / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-X-ORG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Orange / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-S-ORG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Orange / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-M-ORG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Orange / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-L-ORG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Orange / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XL-ORG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Orange / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-2XL-ORG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Orange / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XXXL-ORG</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Purple / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XXSM-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Purple / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-X-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Purple / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-S-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Purple / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-M-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Purple / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-L-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Purple / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XL-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Purple / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-2XL-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Purple / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XXXL-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Lavender / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XXSM-LAV</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Lavender / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-X-LAV</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Lavender / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-S-LAV</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Lavender / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-M-LAV</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Lavender / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-L-LAV</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Lavender / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XL-LAV</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Lavender / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-2XL-LAV</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581434508</id>
+      <title>Lavender / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19953-XXXL-LAV</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8581119436</id>
+    <published>2016-09-16T15:03:00-05:00</published>
+    <updated>2016-09-16T15:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/this-is-my-gameday-shirt-raglan-t-shirt"/>
+    <title>This Is My Gameday Shirt Raglan T-Shirt</title>
+    <s:type>Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/19957_5.jpg?v=1476195284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable long sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• One piece</p>
+<p>• This Is My Game Day Shirt design is printed on the front of the shirt</p>
+<p>• Turquoise - Gray - Salmon - Purple</p>
+<p>Fabric &amp; Care:</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Hand Wash Only</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>XX-Small - 6 to 12 months</p>
+<p>X-Small - 12 to 18 months</p>
+<p>Small - 2T</p>
+<p>Medium - 3T</p>
+<p>Large - 4T</p>
+<p>X-Large - 5 years</p>
+<p>XX-Large - 6 years</p>
+<p>XXX-Large - 7 years</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Football</s:tag>
+    <s:tag>Graphic T-Shirt</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Salmon</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Gray / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XXSM-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Gray / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-X-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-S-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-M-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-L-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-2XL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Gray / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XXXL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Purple / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XXSM-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Purple / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-X-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Purple / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-S-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Purple / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-M-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Purple / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-L-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Purple / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XL-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Purple / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-2XL-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Purple / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XXXL-PUR</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Salmon / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XXSM-SLMN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Salmon / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-X-SLMN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Salmon / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-S-SLMN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Salmon / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-M-SLMN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Salmon / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-L-SLMN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Salmon / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XL-SLMN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Salmon / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-2XL-SLMN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Salmon / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XXXL-SLMN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Turquoise / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XXSM-TRQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Turquoise / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-X-TRQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Turquoise / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-S-TRQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Turquoise / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-M-TRQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Turquoise / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-L-TRQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Turquoise / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XL-TRQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Turquoise / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-2XL-TRQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581119436</id>
+      <title>Turquoise / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19957-XXXL-TRQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8581117644</id>
+    <published>2016-09-16T15:02:00-05:00</published>
+    <updated>2016-09-16T15:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/its-football-season-raglan-t-shirt"/>
+    <title>It&apos;s Football Season Raglan T-Shirt</title>
+    <s:type>Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/19955_20_4.jpg?v=1480634117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable long sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• One piece</p>
+<p>• It's Football Season design is printed on the front of the shirt</p>
+<p>• Red - Black - Blue - Gray</p>
+<p>Fabric &amp; Care:</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Hand Wash Only</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>XX-Small - 6 to 12 months</p>
+<p>X-Small - 12 to 18 months</p>
+<p>Small - 2T</p>
+<p>Medium - 3T</p>
+<p>Large - 4T</p>
+<p>X-Large - 5 years</p>
+<p>XX-Large - 6 years</p>
+<p>XXX-Large - 7 years</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XX-Small / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XXSM-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XX-Small / Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XXSM-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XX-Small / Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XXSM-BLU</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XX-Small / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XXSM-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>X-Small / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-X-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>X-Small / Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-X-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>X-Small / Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-X-BLU</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>X-Small / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-X-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Small / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-S-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-S-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Small / Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-S-BLU</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Small / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-S-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Medium / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-M-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-M-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Medium / Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-M-BLU</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Medium / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-M-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Large / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-L-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-L-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Large / Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-L-BLU</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>Large / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-L-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>X-Large / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>X-Large / Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XL-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>X-Large / Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XL-BLU</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>X-Large / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XX-Large / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-2XL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XX-Large / Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-2XL-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XX-Large / Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-2XL-BLU</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XX-Large / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-2XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XXX-Large / Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XXXL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XXX-Large / Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XXXL-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XXX-Large / Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XXXL-BLU</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117644</id>
+      <title>XXX-Large / Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19955-XXXL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8581117068</id>
+    <published>2016-09-16T15:02:00-05:00</published>
+    <updated>2016-09-16T15:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/green-text-football-raglan-t-shirt"/>
+    <title>Green Text Football Raglan T-Shirt</title>
+    <s:type>Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/19954_-_Angeline_Dunn_3.jpg?v=1520320078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable long sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• One piece</p>
+<p>• Football design in Green Text is printed on the front of the shirt</p>
+<p>• Yellow - Black - Gray - Green</p>
+<p>Fabric &amp; Care:</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Hand Wash Only</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>XX-Small - 6 to 12 months</p>
+<p>X-Small - 12 to 18 months</p>
+<p>Small - 2T</p>
+<p>Medium - 3T</p>
+<p>Large - 4T</p>
+<p>X-Large - 5 years</p>
+<p>XX-Large - 6 years</p>
+<p>XXX-Large - 7 years</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Yellow / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XXSM-YEL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Yellow / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-X-YEL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Yellow / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-S-YEL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Yellow / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-M-YEL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Yellow / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-L-YEL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Yellow / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XL-YEL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Yellow / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-2XL-YEL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Yellow / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XXXL-YEL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Black / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XXSM-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Black / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-X-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-S-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-M-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-L-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XL-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Black / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-2XL-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Black / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XXXL-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Green / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XXSM-GRN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Green / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-X-GRN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Green / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-S-GRN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Green / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-M-GRN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Green / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-L-GRN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Green / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XL-GRN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Green / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-2XL-GRN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Green / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XXXL-GRN</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Gray / XX-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XXSM-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Gray / X-Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-X-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-S-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-M-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-L-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-2XL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581117068</id>
+      <title>Gray / XXX-Large</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19954-XXXL-GRY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9930878284</id>
+    <published>2016-09-16T13:23:00-05:00</published>
+    <updated>2016-09-16T13:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/baller-raglan-t-shirt-1"/>
+    <title>Baller Raglan Baseball T-Shirt</title>
+    <s:type>Boys - Graphic T-Shirts</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/18887_20dl-nw_20_6_efc51b48-bbbb-4c67-811d-e77916d624c6.jpg?v=1489591057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Boys - Graphic T-Shirts<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable long sleeve t-shirts are super stylish for your little one.</p>
+<p>Details:</p>
+<p>• One piece</p>
+<p>• Baller is printed on the front of the shirt (Baseball/Softball Themed)</p>
+<p>• Red - Black</p>
+<p>Fabric &amp; Care:</p>
+<p>• 95% Cotton and 5% Spandex</p>
+<p>• Hand Wash Only</p>
+<p>• Hang Dry</p>
+<p>• Imported</p>
+<p>• Lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>XX-Small - 6 to 12 months</p>
+<p>X-Small - 12 to 18 months</p>
+<p>Small - 2T</p>
+<p>Medium - 3T</p>
+<p>Large - 4T</p>
+<p>X-Large - 5 years</p>
+<p>XX-Large - 6 years</p>
+<p>XXX-Large - 7 years</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Baseball</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Graphic T-Shirts</s:tag>
+    <s:tag>Features_Raglan T-Shirts</s:tag>
+    <s:tag>Graphic T-Shirts</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>In Season</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Material_Raglan T-Shirts</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Raglan T-Shirts</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Swatches_Raglan</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>X-Large</s:tag>
+    <s:tag>X-Small</s:tag>
+    <s:tag>XX-Large</s:tag>
+    <s:tag>XX-Small</s:tag>
+    <s:tag>XXX-Large</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Black / XX-Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XXS-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Black / X-Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XS-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-S-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-M-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-L-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XL-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Black / XX-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XXL-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Black / XXX-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-3XL-BLK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Gray / XX-Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XXS-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Gray / X-Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XS-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-S-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Gray / Medium</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-M-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-L-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Gray / X-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Gray / XX-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XXL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Gray / XXX-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-3XL-GRAY</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Light Blue / XX-Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XXS-LTBL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Light Blue / X-Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XS-LTBL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Light Blue / Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-S-LTBL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Light Blue / Medium</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-M-LTBL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Light Blue / Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-L-LTBL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Light Blue / X-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XL-LTBL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Light Blue / XX-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XXL-LTBL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Light Blue / XXX-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-3XL-LTBL</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Red / XX-Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XXS-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Red / X-Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XS-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-S-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Red / Medium</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-M-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-L-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Red / X-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Red / XX-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XXL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Red / XXX-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-3XL-RED</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Turquoise / XX-Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XXS-TURQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Turquoise / X-Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XS-TURQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Turquoise / Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-S-TURQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Turquoise / Medium</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-M-TURQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Turquoise / Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-L-TURQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Turquoise / X-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XL-TURQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Turquoise / XX-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-XXL-TURQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9930878284</id>
+      <title>Turquoise / XXX-Large</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18887-3XL-TURQ</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+</feed>

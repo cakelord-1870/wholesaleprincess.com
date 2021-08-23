@@ -1,0 +1,2171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/sale-only-1-5.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2021-08-13T17:55:02-05:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10395660556</id>
+    <published>2021-08-13T17:55:02-05:00</published>
+    <updated>2021-08-13T17:55:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/lace-detail-button-up-sleeved-blouse"/>
+    <title>Lace Detail Button Up Sleeved Blouse</title>
+    <s:type>Women - Tops</s:type>
+    <s:vendor>Dear Lover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/Army-Green-Lace-Detail-Button-Up-Sleeved-Blouse-LC25881-9-18569.JPG?v=1492727976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dear Lover<br>
+        <strong>Type: </strong>Women - Tops<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's all in the shape of this of this top with a flowing silhouette and handkerchief hem. Insets of floral lace crochet and crisp pleats accentuate the Victorian feel of a front-button blouse relaxed with a breezy silhouette and skin-baring V-neckline 3/4 sleeves.</p>
+[features]
+<p>Army Green, Black, Blue, Dark Green, Gray, Deep Red or Terracotta<br>4 Buttons Down Front<br>Floral Crochet Pattern<br>3/4 Sleeves</p>
+[/features] [materials]
+<p>Hand Wash Cold<br>Hang Dry<br>Imported Material</p>
+[/materials] [sizes]
+<table width="100%">
+<tbody>
+<tr style="background-color: #6f767e; color: #ffffff; font-weight: bold; height: 20px;">
+<td style="height: 20px;">Size</td>
+<td style="height: 20px;">Bust</td>
+<td style="height: 20px;">Waist</td>
+<td style="height: 20px;">Length</td>
+<td style="height: 20px;">Sleeve</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Small (4-6)</td>
+<td style="height: 20px;">36"</td>
+<td style="height: 20px;">34.5"</td>
+<td style="height: 20px;">27.5"</td>
+<td style="height: 20px;">20.75"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Medium (8-10)</td>
+<td style="height: 20px;">38"</td>
+<td style="height: 20px;">36.5"</td>
+<td style="height: 20px;">28"</td>
+<td style="height: 20px;">21"</td>
+</tr>
+<tr style="height: 20px;">
+<td style="height: 20px;">Large (12-14)</td>
+<td style="height: 20px;">40"</td>
+<td style="height: 20px;">38.5"</td>
+<td style="height: 20px;">29"</td>
+<td style="height: 20px;">21.25"</td>
+</tr>
+<tr style="height: 20.5px;">
+<td style="height: 20.5px;">X-Large (14-16)</td>
+<td style="height: 20.5px;">43"</td>
+<td style="height: 20.5px;">41"</td>
+<td style="height: 20.5px;">29.5"</td>
+<td style="height: 20.5px;">21.75"</td>
+</tr>
+</tbody>
+</table>
+[/sizes]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Army Green</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Dark Green</s:tag>
+    <s:tag>Deep Red</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Large (12-14)</s:tag>
+    <s:tag>Medium (8-10)</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Small (4-6)</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Terracotta</s:tag>
+    <s:tag>Tops &amp; Shirts</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Tops</s:tag>
+    <s:tag>X-Large (14-16)</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Blue / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21533-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Blue / X-Large (14-16)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21533-LC25881-XL</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Gray / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21534-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Gray / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21534-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Gray / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21534-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Terracotta / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21535-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Terracotta / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21535-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Terracotta / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21535-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Terracotta / X-Large (14-16)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21535-LC25881-XL</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Army Green / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21536-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Army Green / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21536-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Army Green / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21536-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Army Green / X-Large (14-16)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21536-LC25881-XL</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Dark Green / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21537-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Dark Green / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21537-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Dark Green / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21537-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Dark Green / X-Large (14-16)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21537-LC25881-XL</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Deep Red / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21538-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Deep Red / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21538-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Deep Red / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21538-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Black / Small (4-6)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21539-LC25881-S</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Black / Medium (8-10)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21539-LC25881-M</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10395660556</id>
+      <title>Black / Large (12-14)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21539-LC25881-L</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1346117173292</id>
+    <published>2018-09-10T11:14:10-05:00</published>
+    <updated>2018-09-10T11:14:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/2-5-glittery-bow-hair-bow-clip-set-of-two-6-colors-to-choose-from"/>
+    <title>2.5&quot; Glitter Bow Hair Bow Clip Set of Two - 6 Colors to Choose From</title>
+    <s:type>Girls - Hair Bows</s:type>
+    <s:vendor>Michelle And Scotts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29504.jpg?v=1542596982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michelle And Scotts<br>
+        <strong>Type: </strong>Girls - Hair Bows<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These little hair bows are the perfect addition for your little girl’s accessory collection from Wholesale Princess.</p>
+<p>Number of Pieces: 2</p>
+<p>Size: 2.5"</p>
+<p>Includes: Clip</p>
+<p>Colors:</p>
+<p>Pink</p>
+<p>Lime</p>
+<p>Bubblegum</p>
+<p>Peach</p>
+<p>Blue</p>
+<p>Gold</p>
+<p>Used For: Hair Styling and Dress Up</p>
+<p>Hair Type: All Hair Types</p>
+<p>Textile Material: Metal ( 20 %) , Polyester ( 80%)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Birthday</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Bubblegum Pink</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Hair Bows</s:tag>
+    <s:tag>Glitter</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Hair Bows</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1346117173292</id>
+      <title>Pink</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>29504</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1346117173292</id>
+      <title>Lime</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>29505</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1346117173292</id>
+      <title>Bubblegum Pink</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>29506</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1346117173292</id>
+      <title>Peach</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>29507</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1346117173292</id>
+      <title>Blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>29508</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1346117173292</id>
+      <title>Gold</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>29509</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1249374208044</id>
+    <published>2018-07-31T09:02:58-05:00</published>
+    <updated>2018-07-31T09:02:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/6-green-with-green-and-white-polka-dots-grosgrain-hair-bow-clip"/>
+    <title>6&quot; Green with Green and White Polka Dots Grosgrain Hair Bow Clip</title>
+    <s:type>Girls - Hair Bows</s:type>
+    <s:vendor>Michelle And Scotts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29351.jpg?v=1548783436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michelle And Scotts<br>
+        <strong>Type: </strong>Girls - Hair Bows<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These big hair bows are the perfect addition to your little girl’s accessory collection from Wholesale Princess.</p>
+<p>Number of Pieces: 1</p>
+<p>Size: 6"</p>
+<p>Includes: Green with Green and White Polka Dot Bow with Clip</p>
+<p>Used For: Hair Styling and Dress Up</p>
+<p>Ribbon: Grosgrain</p>
+<p>Hair Type: All Hair Types</p>
+<p>Textile Material: Metal (20%) , Polyester (80%)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Hair Bows</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Grosgrain</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Hair Bows</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1249374208044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29351</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1363743801388</id>
+    <published>2017-11-26T11:54:19-06:00</published>
+    <updated>2017-11-26T11:54:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/santa-hat"/>
+    <title>Santa Hat</title>
+    <s:type>Girls, Boys - Hats</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_2439.jpg?v=1542180890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Girls, Boys - Hats<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Santa hats are extra soft and adorable for holiday photo shoots!</p>
+<p>Number of Pieces: 1</p>
+<p>Hat Color: Red &amp; White</p>
+<p>Used For: Dress Up</p>
+<p>Hair Type: All Hair Types</p>
+<p>Sizes: One Size Fits Most</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Boys - Costumes &amp; Accessories</s:tag>
+    <s:tag>Boys - Hats</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Costumes &amp; Accessories</s:tag>
+    <s:tag>Crochet</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Costumes &amp; Accessories</s:tag>
+    <s:tag>Girls - Hats</s:tag>
+    <s:tag>Girls Boys - Hats</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Santa Claus</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1363743801388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29546</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/358429458471</id>
+    <published>2017-11-18T08:14:40-06:00</published>
+    <updated>2017-11-18T08:14:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/santas-magic-front-door-key"/>
+    <title>Santa&apos;s Magic Front Door Key</title>
+    <s:type>Home - Decorations</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_0584.jpg?v=1520324977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Home - Decorations<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If your home or the home of someone you know does not have a chimney for "Santa" lots of times little ones wonder how he is going to get in. Our Adorable "Santa's Magic Key" is a great little way to let them know that it is no problem for the Jolly Man to get in with this Magic Key.<br> Our Key comes attached to card stock with a little verse for you to share with your little ones. Hopefully you can use the verse to get them to go to sleep LOL.</p>
+<p>The card stock is cut to easily hang on your door.</p>
+<p><br><em> To Leave your gifts beneath the tree, I'm giving you this magic key.</em><br> <br><em> Before you sleep you'll have a chore, please hang this key outside your door.</em><br> <br><em> Then go to bed, turn off your light, and Santa Clause will come tonight!</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Home - Decorations</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Santa Claus</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/358429458471</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>22199</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/367040692263</id>
+    <published>2017-11-09T17:02:49-06:00</published>
+    <updated>2017-11-09T17:02:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/furry-animal-paw-slippers-infant-toddler"/>
+    <title>Furry Animal Paw Slippers - Infant &amp; Toddler</title>
+    <s:type>Girls, Boys - Shoes</s:type>
+    <s:vendor>Ellen - China Broker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/22175-22181.jpg?v=1520318097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen - China Broker<br>
+        <strong>Type: </strong>Girls, Boys - Shoes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="right text ng-scope" ng-if="!editFinalized">
+<div ng-bind-html="proposal.description" class="ng-binding">
+<p>Cold weather has once again arrived and it is time to keep those little tootsies warm even when they are in the house.  Get them a pair of our adorable furry slippers to keep them warm while they have fun wearing them!</p>
+<p><strong>Available in 7 colors:</strong></p>
+<p>Brown</p>
+<p>Cheetah</p>
+<p>Dark Pink</p>
+<p>Gray</p>
+<p>Ivory</p>
+<p>Light Pink</p>
+<p>White</p>
+<p><strong>Sizes:</strong></p>
+<p>3-6 Months - 11 cm / 4.33"</p>
+<p>6-12 Months - 12 cm / 4.72"</p>
+<p>12-18 Months - 13 cm / 5.11"</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>3-6 Months</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Basic Shoes</s:tag>
+    <s:tag>Beige</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Cheetah</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Dark Pink</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Shoes</s:tag>
+    <s:tag>Girls Boys - Shoes</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Beige / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22181-11-TAN</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Beige / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22181-12-TAN</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Beige / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22181-13-TAN</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Cheetah / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22179-11-CHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Cheetah / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22179-12-CHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Cheetah / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22179-13-CHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Dark Pink / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22177-11-HP</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Dark Pink / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22177-12-HP</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Dark Pink / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22177-13-HP</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Gray / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22176-11-GRY</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Gray / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22176-12-GRY</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Gray / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22176-13-GRY</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Pink / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22180-11-PNK</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Pink / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22180-12-PNK</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>Pink / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22180-13-PNK</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>White / 3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22178-11-WHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>White / 6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22178-12-WHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/367040692263</id>
+      <title>White / 12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22178-13-WHT</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/33401372697</id>
+    <published>2017-08-10T12:40:26-05:00</published>
+    <updated>2017-08-10T12:40:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/womens-colorful-bandanas-with-tassels"/>
+    <title>Women&apos;s Colorful Bandanas with Tassels</title>
+    <s:type>Women - Head Wraps</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/21734-BlueDot2.jpg?v=1529505558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Women - Head Wraps<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Bandanas with Tassels are a great accessory.  They look amazing in your hair or around your neck.  Available in many different colors, each measures 21" x 21".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Bandana</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blue Dot</s:tag>
+    <s:tag>Blue Paisley</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>Coral Daisy</s:tag>
+    <s:tag>Coral Dot</s:tag>
+    <s:tag>Coral Paisley</s:tag>
+    <s:tag>Daisy</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Floral</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Green Dot</s:tag>
+    <s:tag>Hats &amp; Head Wraps</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Hot Pink Dot</s:tag>
+    <s:tag>Light Blue</s:tag>
+    <s:tag>Mint Daisy</s:tag>
+    <s:tag>Mint Dot</s:tag>
+    <s:tag>Mint Paisley</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>Paisley</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink Daisy</s:tag>
+    <s:tag>Polka Dots</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Scarves &amp; Shawls</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Women - Head Wraps</s:tag>
+    <s:tag>Women - Scarves</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Yellow Daisy</s:tag>
+    <s:tag>Yellow Paisley</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Blue Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-BLUDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Blue Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-BLUPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Coral Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-CORDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Coral Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-CORPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Coral Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-CORDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Green Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-GRNDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Hot Pink Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-HPKDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Mint Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-MINTDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Mint Dot</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-MINTDOT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Mint Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-MINTPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Pink Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-PKDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Yellow Daisy</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-YELDSY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/33401372697</id>
+      <title>Yellow Paisley</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>21734-YELPAIS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10215570444</id>
+    <published>2017-07-25T15:09:43-05:00</published>
+    <updated>2017-07-25T15:09:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/girls-polka-dot-elastic-dance-tutu"/>
+    <title>SALE Girls Small Polka Dot Elastic Dance Tutu</title>
+    <s:type>Girls - Tutus</s:type>
+    <s:vendor>Yiou Ornaments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/10332-1.jpg?v=1520324825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yiou Ornaments<br>
+        <strong>Type: </strong>Girls - Tutus<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>What a great addition to give a birthday girl!</p>
+<p>Details:</p>
+<p>• one piece</p>
+<p>• satin bow embellishment</p>
+<p>• great birthday gifts</p>
+<p>• adorable for photo shoots</p>
+<p>• 3 layered tutu</p>
+<p>• elastic waistband</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% polyester</p>
+<p>• hand wash cold</p>
+<p>• imported</p>
+<p>• satin waistband</p>
+<p>• lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• one size fits most approx. ages: 2-8 years</p>
+<p>• measurements: 12” Long, 26” Stretched Circumference</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Brown/Pink</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Tutus</s:tag>
+    <s:tag>Google Shopping</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Hot Pink/Black</s:tag>
+    <s:tag>OSFA</s:tag>
+    <s:tag>Polka Dots</s:tag>
+    <s:tag>Red/Black</s:tag>
+    <s:tag>Red/Green</s:tag>
+    <s:tag>Red/White</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Thanksgiving</s:tag>
+    <s:tag>Tutus</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White/Black</s:tag>
+    <s:tag>White/Red</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Yellow/Black</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10215570444</id>
+      <title>Hot Pink/Black / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>10334-LG-HP/B</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10215570444</id>
+      <title>Brown/Pink / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>16202-LG-B/P</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10215570444</id>
+      <title>Red/Black / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>10333-LG-R/B</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10215570444</id>
+      <title>Red/Green / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>10329-LG-R/G</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10215570444</id>
+      <title>Red/White / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>7161-LG-R/W</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10215570444</id>
+      <title>White/Black / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>10331-LG-W/B</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10215570444</id>
+      <title>White/Red / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>7160-LG-W/R</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10215570444</id>
+      <title>Yellow/Black / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>13117-LG-Y/B</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1398581592108</id>
+    <published>2017-05-11T19:30:00-05:00</published>
+    <updated>2017-05-11T19:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/unicorn-outline-headbands-6-colors-to-choose-from"/>
+    <title>Unicorn Outline Headbands - 7 Colors to Choose from</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Michelle And Scotts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29622-31060.jpg?v=1620851602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michelle And Scotts<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These headbands are the perfect addition to your little girl’s accessory collection from Wholesale Princess.</span></p>
+<p><strong>Colors</strong></p>
+<p>Blue</p>
+<p>Hot Pink</p>
+<p>White</p>
+<p>Pink</p>
+<p>Yellow</p>
+<p>Lavender</p>
+<p>Aqua</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Aqua</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Headband</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Blue</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29622-Blue-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29623-Hot Pink-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>White</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29624-White-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Pink</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29625-Pink-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Yellow</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29626-Yellow-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Lavender</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29627-Lavender-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1398581592108</id>
+      <title>Aqua</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>31060-Aqua-83197</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1272488493100</id>
+    <published>2017-05-11T19:30:00-05:00</published>
+    <updated>2017-05-11T19:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/princess-tiara-headbands-6-colors-to-choose-from"/>
+    <title>Princess Tiara Headbands - 6 Colors to Choose from</title>
+    <s:type>Girls - Headbands</s:type>
+    <s:vendor>Alice B.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_1918.jpg?v=1542181952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice B.<br>
+        <strong>Type: </strong>Girls - Headbands<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These headbands are the perfect addition to your little girl’s accessory collection from Wholesale Princess.</span></p>
+<p><strong>Colors</strong></p>
+<p>Pink</p>
+<p>Silver</p>
+<p>Yellow</p>
+<p>Lavender</p>
+<p>Light Pink</p>
+<p>Blue</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Fix_Swatches</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Headbands</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Headband</s:tag>
+    <s:tag>Headbands</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Light Pink</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Princess</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Tiara</s:tag>
+    <s:tag>TV &amp; Movie Characters</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Pink</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29440-Pink</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Silver</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29441-Silver</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Yellow</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29442-Yellow</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Lavender</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29443-Lavender</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Light Pink</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29444-Light Pink</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1272488493100</id>
+      <title>Blue</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>29445-Blue</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10216068044</id>
+    <published>2017-04-06T14:13:00-05:00</published>
+    <updated>2017-04-06T14:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/infant-polka-dot-elastic-dance-tutu"/>
+    <title>SALE Infant Polka Dot Elastic Dance Tutu</title>
+    <s:type>Girls - Tutus</s:type>
+    <s:vendor>Yiou Ornaments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_0612.jpg?v=1493406716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yiou Ornaments<br>
+        <strong>Type: </strong>Girls - Tutus<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>What a great addition to give a birthday girl!</p>
+<p>Details:</p>
+<p>• one piece</p>
+<p>• satin bow</p>
+<p>• great birthday gifts!</p>
+<p>• adorable for photo shoots!</p>
+<p>• 3 layered tutu</p>
+<p>• elastic waistband</p>
+<p>Fabric &amp; Care:</p>
+<p>• 100% polyester</p>
+<p>• hand wash cold</p>
+<p>• imported</p>
+<p>• satin waistband</p>
+<p>• lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• one size fits most approx. ages: Newborn-24 Months</p>
+<p>• measurements: 7” Long, 24” Stretched Circumference</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-24 Mo</s:tag>
+    <s:tag>0-5</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Aqua/Pink</s:tag>
+    <s:tag>Brown/Pink</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Tutus</s:tag>
+    <s:tag>Google Shopping</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Hot Pink/Black</s:tag>
+    <s:tag>OSFA</s:tag>
+    <s:tag>Polka Dots</s:tag>
+    <s:tag>Red/Black</s:tag>
+    <s:tag>Red/Green</s:tag>
+    <s:tag>Red/White</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Thanksgiving</s:tag>
+    <s:tag>Tutus</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White/Black</s:tag>
+    <s:tag>White/Pink</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10216068044</id>
+      <title>Red/White / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>17507-SM-R/W</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10216068044</id>
+      <title>Aqua/Pink / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>16201-SM-A/P</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10216068044</id>
+      <title>Brown/Pink / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>16200-SM-B/P</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10216068044</id>
+      <title>Hot Pink/Black / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>14783-SM-HP/B</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10216068044</id>
+      <title>Red/Black / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>10333-SM-R/B</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10216068044</id>
+      <title>Red/Green / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20923-SM-R/G</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10216068044</id>
+      <title>White/Black / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>18688-SM-W/B</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10216068044</id>
+      <title>White/Pink / OSFA</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>14782-SM-W/P</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9650581708</id>
+    <published>2017-02-09T16:10:00-06:00</published>
+    <updated>2017-02-09T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/this-is-love-monthly-baby-photo-blanket"/>
+    <title>This Is Love - Monthly Baby Photo Sheet</title>
+    <s:type>Baby - Monthly Blankets</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/this-is-love-boy.jpg?v=1520324701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Monthly Blankets<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Is Love Monthly Baby Photo Sheet is an ideal photo prop to help mark those precious changes during their first year. </p>
+<p>Personalize this sheet with your little one's name!</p>
+<p>Blue "Boy" Font or Pink "Girl" Font</p>
+<p>150cm X 150cm</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby - Monthly Blankets</s:tag>
+    <s:tag>Baby - Monthly Stickers</s:tag>
+    <s:tag>Blankets</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>White/Blue</s:tag>
+    <s:tag>White/Pink</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9650581708</id>
+      <title>White / Without Personalization</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>21275-BLANK</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9650581708</id>
+      <title>White/Blue / With Personalization</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>21275-BLUE</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9650581708</id>
+      <title>White/Pink / With Personalization</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>21275-PINK</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/9290418572</id>
+    <published>2016-12-28T12:45:00-06:00</published>
+    <updated>2016-12-28T12:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/chiffon-mum-3-5-fabric-flower-clip"/>
+    <title>Chiffon Mum 3.5&quot; Fabric Flower/Clip</title>
+    <s:type>Girls - Flower Hair Clips</s:type>
+    <s:vendor>Yiwu Yazhao E-Commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/9832_0fc13406-e71a-4934-9833-40255a929f0c.jpg?v=1520317725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yiwu Yazhao E-Commerce<br>
+        <strong>Type: </strong>Girls - Flower Hair Clips<br>
+        <strong>Price: </strong>
+            0.40 - 1.00
+            <a href="https://wholesaleprincess.com/products/chiffon-mum-3-5-fabric-flower-clip">(27 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add our lovely fabric flower hair clips to your little girl's hair accessory collection from Wholesale Princess.</p>
+<p>• Number of Pieces: 1</p>
+<p>• Size: 3.5"</p>
+<p>• Type: Chiffon Fabric Flower</p>
+<p>• Includes: With Clip/Without Clip</p>
+<p>• Used For: Hair Styling and Dress Up</p>
+<p>• Hair Type: All Hair Types</p>
+<p>• Material: Polyester</p>
+<p>• Textile Material: Metal (20%), Polyester (80%)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>4th of July</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Chiffon</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>DIY - Flowers</s:tag>
+    <s:tag>Flower Hair Clips</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Flower Hair Clips</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hair Accessories</s:tag>
+    <s:tag>Hair Clips</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Halloween Costume Accessories</s:tag>
+    <s:tag>Hot Pink</s:tag>
+    <s:tag>Ivory</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Light Pink</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>Lime Green</s:tag>
+    <s:tag>Mint Green</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>St. Patrick&apos;s Day</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Swatches_Custom</s:tag>
+    <s:tag>Teal</s:tag>
+    <s:tag>Turquoise</s:tag>
+    <s:tag>Under $1</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Hot Pink / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9825-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Hot Pink / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9825-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Red / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9827-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Red / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9827-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Light Pink / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9824-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Light Pink / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9824-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Black / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9832-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Turquoise / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9822-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Turquoise / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9822-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Ivory / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9830-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Ivory / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9830-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Lavender / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9823-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Lavender / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9823-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Lime Green / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>13468-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Lime Green / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>13468-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Mint Green / With Clip Attached</title>
+      <s:price currency="USD">0.65</s:price>
+      <s:sku>21337-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Mint Green / Without Clip Attached</title>
+      <s:price currency="USD">0.40</s:price>
+      <s:sku>21337-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Orange / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9828-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Orange / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9828-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Peach / With Clip Attached</title>
+      <s:price currency="USD">0.65</s:price>
+      <s:sku>9826-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Peach / Without Clip Attached</title>
+      <s:price currency="USD">0.40</s:price>
+      <s:sku>9826-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Teal / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9821-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Teal / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9821-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>White / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9831-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>White / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9831-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Yellow / With Clip Attached</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>9829-CLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/9290418572</id>
+      <title>Yellow / Without Clip Attached</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>9829-NOCLIP</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8585656908</id>
+    <published>2016-09-17T00:40:00-05:00</published>
+    <updated>2016-09-17T00:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/aqua-and-red-crochet-baby-flip-flops"/>
+    <title>Aqua And Red Crochet Baby Flip Flops</title>
+    <s:type>Girls - Shoes</s:type>
+    <s:vendor>Peigecrochet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/14291_20_2.jpg?v=1474090864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Peigecrochet<br>
+        <strong>Type: </strong>Girls - Shoes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simply adorable baby crochet shoes from Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>Details:</p>
+<p>• 1 pair</p>
+<p>• Aqua and Red with Pink Bead</p>
+<p>• Hand Crocheted</p>
+<p>• Crochet Baby Flip Flops</p>
+<p>• perfect for newborn/toddler pictures!!</p>
+<p>• great for a gift to start a little girl’s shoe collection!!</p>
+<p>Fabric &amp; Care:</p>
+<p>• Upper:: 80% Cotton 20% Polyester</p>
+<p>• Sole:: 100% Cotton</p>
+<p>• hand wash</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:0-3 months (Small) / 3-6 months (Medium) /6-9 months (Large)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-3 Months</s:tag>
+    <s:tag>0-5</s:tag>
+    <s:tag>3-6 Months</s:tag>
+    <s:tag>6-9 Months</s:tag>
+    <s:tag>Basic Shoes</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Crochet</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Shoes</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Spring Clearance</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8585656908</id>
+      <title>0-3 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>14291-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8585656908</id>
+      <title>3-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>14291-M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8585656908</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>14291-L</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8583163084</id>
+    <published>2016-09-16T18:28:00-05:00</published>
+    <updated>2016-09-16T18:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/wide-brimmed-girls-sunglasses-multiple-colors"/>
+    <title>Wide Rimmed Girls Sunglasses - Multiple Colors</title>
+    <s:type>Girls - Sunglasses</s:type>
+    <s:vendor>Ellen - China Broker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/17147_-_Elizabeth_Dejesus_2.jpg?v=1520320879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen - China Broker<br>
+        <strong>Type: </strong>Girls - Sunglasses<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable Sunglasses your little girl will absolutely love!! Lots of styles to choose from at Wholesale Princess!</p>
+<p>• Wide Rimmed Frames</p>
+<p>• Multiple Color Options:</p>
+<p> <span class="Apple-tab-span">•</span> Lime Green with Pink Earpiece</p>
+<p> <span class="Apple-tab-span" style="white-space: pre;">• </span>Light Pink Frames with Red Earpiece</p>
+<p><span class="Apple-tab-span" style="white-space: pre;"> • </span>Light Blue Frames with White Earpiece</p>
+<p> • Red Frames with Yellow Earpiece</p>
+<p> • Leopard Print Frames</p>
+<p> • White Frames with Lime Green Earpiece</p>
+<p> • Yellow Rims with Blue Earpiece</p>
+<p> • Black Frames </p>
+<p>• Great for photoshoots and birthday parties!</p>
+<p>• One Size Fits All </p>
+<p>• Metal/Plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Sunglasses</s:tag>
+    <s:tag>Green Frames with Pink Earpiece</s:tag>
+    <s:tag>Leopard Print</s:tag>
+    <s:tag>Light Blue Frames with White Earpiece</s:tag>
+    <s:tag>Multicolor</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink Frames with Red Earpiece</s:tag>
+    <s:tag>Red Frames with Yellow Earpiece</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>White Frames with Lime Earpiece</s:tag>
+    <s:tag>Yellow Frames with Light Blue Earpiece</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Black</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-BLK</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Green Frames with Pink Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-GRNPNK</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Light Blue Frames with White Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-LBLWHT</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Leopard Print</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-LPD</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Pink Frames with Red Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-PNKRD</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Red Frames with Yellow Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-RDYLW</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>White Frames with Lime Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-WHTLME</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8583163084</id>
+      <title>Yellow Frames with Light Blue Earpiece</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>16125-YLWLBL</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8581646988</id>
+    <published>2016-09-16T16:18:00-05:00</published>
+    <updated>2016-09-16T16:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/pink-metallic-sandals"/>
+    <title>Pink Metallic Sandals</title>
+    <s:type>Girls - Shoes</s:type>
+    <s:vendor>Baby Vision</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/18763_1.jpg?v=1495582251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby Vision<br>
+        <strong>Type: </strong>Girls - Shoes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simply adorable baby shoes from Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>Details:</p>
+<p>• 1 pair</p>
+<p>• Pink Leather Sandals with Metallic Multicolor Straps</p>
+<p>• Pink/Green/Hot Pink/Blue</p>
+<p>• perfect for pictures!!</p>
+<p>• great for a gift to start a little girl’s shoe collection!!</p>
+<p>Fabric &amp; Care:</p>
+<p>• hand wash</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p>it &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>0-6 months (Small) - 11 Centimeters Long</p>
+<p>6-12 months (Medium) - 12 Centimeters Long</p>
+<p>12-18 months (Large) - 13 CFentimeters Long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>0-6 Months</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>Basic Shoes</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Shoes</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Spring Clearance</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581646988</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>18763-BV-12057-06</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581646988</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>18763-BV-12057-6M12M</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581646988</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>18763-BV-12057-1218MO</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8581644940</id>
+    <published>2016-09-16T16:18:00-05:00</published>
+    <updated>2016-09-16T16:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/silver-and-pink-strappy-sandals"/>
+    <title>Silver &amp; Pink Strappy Sandals</title>
+    <s:type>Girls - Shoes</s:type>
+    <s:vendor>Baby Vision</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/18761_1.jpg?v=1495582561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby Vision<br>
+        <strong>Type: </strong>Girls - Shoes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simply adorable baby shoes from Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>Details:</p>
+<p>• 1 pair</p>
+<p>• Silver &amp; Pink Leather Strappy Sandals </p>
+<p>• Cork-Look Footbed</p>
+<p>• perfect for pictures!!</p>
+<p>• great for a gift to start a little girl’s shoe collection!!</p>
+<p>Fabric &amp; Care:</p>
+<p>• hand wash</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>0-6 months (Small) - 11 Centimeters Long</p>
+<p>6-12 months (Medium) - 12 Centimeters Long</p>
+<p>12-18 months (Large) - 13 Centimeters Long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>0-6 Months</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>Basic Shoes</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Shoes</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Spring Clearance</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581644940</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>18761-BV-11623-06</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581644940</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>18761-BV-11623-6M12M</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581644940</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>18761-BV-11623-1218MO</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8581643340</id>
+    <published>2016-09-16T16:18:00-05:00</published>
+    <updated>2016-09-16T16:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/white-and-purple-strappy-sandals"/>
+    <title>White &amp; Purple Strappy Sandals</title>
+    <s:type>Girls - Shoes</s:type>
+    <s:vendor>Baby Vision</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/18760_20dl-nw_20_3.jpg?v=1502379969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby Vision<br>
+        <strong>Type: </strong>Girls - Shoes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simply adorable baby shoes from Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>Details:</p>
+<p>• 1 pair</p>
+<p>• White &amp; Purple Leather Strappy Sandals </p>
+<p>• Cork-Look Footbed</p>
+<p>• perfect for pictures!!</p>
+<p>• great for a gift to start a little girl’s shoe collection!!</p>
+<p>Fabric &amp; Care:</p>
+<p>• hand wash</p>
+<p>• imported</p>
+<p>• lightweight material</p>
+<p>Fit &amp; Sizing:</p>
+<p>• Sizes:</p>
+<p>0-6 months (Small) - 11 Centimeters Long</p>
+<p>6-12 months (Medium) - 12 Centimeters Long</p>
+<p>12-18 months (Large) - 13 Centimeters Long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>0-6 Months</s:tag>
+    <s:tag>12-18 Months</s:tag>
+    <s:tag>6-12 Months</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Girls - Shoes</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Spring Clearance</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581643340</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>18760-BV-11626-06</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581643340</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>18760-BV-11626-6M12M</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8581643340</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>18760-BV-11626-1218MO</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8579174796</id>
+    <published>2016-09-16T08:45:00-05:00</published>
+    <updated>2016-09-16T08:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/6-inch-crochet-tops-assortment-pack-12-pieces"/>
+    <title>12 PACK - 6&quot; Crochet Tops - Assortment Pack -</title>
+    <s:type>Baby - Gear</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/127.jpg?v=1474033522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Baby - Gear<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">You will receive 14 different colors in each set.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Baby - Gear</s:tag>
+    <s:tag>Crochet</s:tag>
+    <s:tag>Crochet Top</s:tag>
+    <s:tag>Crochet Tops</s:tag>
+    <s:tag>Features_Crochet Top</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Material_Crochet Top</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Sizes_Crochet Top</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>Tops &amp; T-Shirts</s:tag>
+    <s:tag>Tube Tops</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8579174796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.49</s:price>
+      <s:sku>127</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+</feed>

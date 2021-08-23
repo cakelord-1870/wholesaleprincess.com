@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleprincess.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleprincess.com/collections/home-and-outdoor.atom"/>
+  <title>Wholesale Princess</title>
+  <updated>2018-11-18T21:34:10-06:00</updated>
+  <author>
+    <name>Wholesale Princess</name>
+  </author>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1049148391468</id>
+    <published>2018-11-18T21:34:10-06:00</published>
+    <updated>2018-11-18T21:34:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/special-delivery-giant-north-pole-gift-bag-with-reindeer-personalized"/>
+    <title>Special Delivery Giant North Pole Gift Bag with Reindeer - Personalized</title>
+    <s:type>Home - Decorations</s:type>
+    <s:vendor>Ellen - China Broker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28131-30_Pack_Girl.jpg?v=1542598463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen - China Broker<br>
+        <strong>Type: </strong>Home - Decorations<br>
+        <strong>Price: </strong>
+            12.99 - 17.99
+            <a href="https://wholesaleprincess.com/products/special-delivery-giant-north-pole-gift-bag-with-reindeer-personalized">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This bag is perfect to deliver that large gift to your little ones. Each bag can be personalized with your child's name. You can pick the color of the font that you like best:</p>
+<p>Red<br>Black</p>
+<p><strong>Measurements</strong><br>25" Tall x 19" wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Home - Decorations</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized Name</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Santa Claus</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1049148391468</id>
+      <title>Name - Red Font</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>26892-Personalized-Black</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1049148391468</id>
+      <title>Name - Black Font</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>26892-Personalized-Black</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1049148391468</id>
+      <title>Blank - Not Personalized</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>26892-NO NAME</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/1049148325932</id>
+    <published>2018-11-18T21:33:22-06:00</published>
+    <updated>2018-11-18T21:33:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/north-pole-special-delivery-giant-north-pole-gift-bag-personalized"/>
+    <title>North Pole Special Delivery Giant North Pole Gift Bag - Personalized</title>
+    <s:type>Home - Decorations</s:type>
+    <s:vendor>Ellen - China Broker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/28130-font_is_ar_julian.jpg?v=1542598255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen - China Broker<br>
+        <strong>Type: </strong>Home - Decorations<br>
+        <strong>Price: </strong>
+            12.99 - 17.99
+            <a href="https://wholesaleprincess.com/products/north-pole-special-delivery-giant-north-pole-gift-bag-personalized">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This bag is perfect to deliver that large gift to your little ones. Each bag is personalized with your child's name. You can pick the color of the font that you like best:</p>
+<p>Red<br>Black</p>
+<p><strong>Measurements</strong><br> 25" Tall x 19" wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Home - Decorations</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized Name</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Santa Claus</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1049148325932</id>
+      <title>Name - Black Font</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>26891-Personalized-Black</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/1049148325932</id>
+      <title>Blank - Not Personalized</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>26891-NO NAME</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/374537715751</id>
+    <published>2017-11-26T11:05:46-06:00</published>
+    <updated>2017-11-26T11:05:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/express-delivery-giant-north-pole-gift-bag-personalized"/>
+    <title>Express Delivery Giant North Pole Gift Bag - Personalized</title>
+    <s:type>Home - Decorations</s:type>
+    <s:vendor>Ellen - China Broker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/22220_-_Sell_for_17.99.jpg?v=1520325019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen - China Broker<br>
+        <strong>Type: </strong>Home - Decorations<br>
+        <strong>Price: </strong>
+            12.99 - 17.99
+            <a href="https://wholesaleprincess.com/products/express-delivery-giant-north-pole-gift-bag-personalized">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This bag is perfect to deliver gifts to your little ones. Each bag is personalized with your child's name. You can pick the color of the font that you like best:</p>
+<p>White<br> Black</p>
+<p><strong>Measurements</strong><br> 25" Tall x 19" wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Home - Decorations</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized Name</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Santa Claus</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/374537715751</id>
+      <title>Name - White Font</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>22220-Personalized-White</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/374537715751</id>
+      <title>Name - Black Font</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>22220-Personalized-Black</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/374537715751</id>
+      <title>Blank - Not Personalized</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>22220-NO NAME</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/401751277607</id>
+    <published>2017-11-20T12:16:11-06:00</published>
+    <updated>2017-11-20T12:16:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/elf-style-santa-gift-bags"/>
+    <title>Elf Style Santa Gift Bags</title>
+    <s:type>Home - Decorations</s:type>
+    <s:vendor>Ellen - China Broker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/name.jpg?v=1520318105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen - China Broker<br>
+        <strong>Type: </strong>Home - Decorations<br>
+        <strong>Price: </strong>
+            6.99 - 10.99
+            <a href="https://wholesaleprincess.com/products/elf-style-santa-gift-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Elf Style Santa Gift Bag is just like Santa's Bag! It measures 21" wide by 24" tall with a drawstring for closure. Jingle Bells accents add a cute touch. Perfect for that large gift that is hard to wrap.</p>
+<p>**This can be personalized for an additional charge of $4.00.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>5-10</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>DIY</s:tag>
+    <s:tag>DIY - Gift Wrapping</s:tag>
+    <s:tag>Elf</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Home - Decorations</s:tag>
+    <s:tag>Kelly Green</s:tag>
+    <s:tag>New Year Blow Out</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized  Name</s:tag>
+    <s:tag>Personalized General</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Santa Claus</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/401751277607</id>
+      <title>No Name</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>22296-NoName</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/401751277607</id>
+      <title>Add Name</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>22296-Personalized</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/358429458471</id>
+    <published>2017-11-18T08:14:40-06:00</published>
+    <updated>2017-11-18T08:14:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/santas-magic-front-door-key"/>
+    <title>Santa&apos;s Magic Front Door Key</title>
+    <s:type>Home - Decorations</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/IMG_0584.jpg?v=1520324977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Home - Decorations<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If your home or the home of someone you know does not have a chimney for "Santa" lots of times little ones wonder how he is going to get in. Our Adorable "Santa's Magic Key" is a great little way to let them know that it is no problem for the Jolly Man to get in with this Magic Key.<br> Our Key comes attached to card stock with a little verse for you to share with your little ones. Hopefully you can use the verse to get them to go to sleep LOL.</p>
+<p>The card stock is cut to easily hang on your door.</p>
+<p><br><em> To Leave your gifts beneath the tree, I'm giving you this magic key.</em><br> <br><em> Before you sleep you'll have a chore, please hang this key outside your door.</em><br> <br><em> Then go to bed, turn off your light, and Santa Clause will come tonight!</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>Boys</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>End of Year Sale</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Girls</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Home - Decorations</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Santa Claus</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/358429458471</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>22199</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10355577676</id>
+    <published>2017-04-18T16:33:15-05:00</published>
+    <updated>2017-04-18T16:33:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/90-square-indian-mandala-beach-throw-shades-of-rose-peach-orange-white-circle-pattern"/>
+    <title>90&quot; Square Indian Mandala Beach Throw - Shades of Rose, Peach, Orange &amp; White Circle Pattern</title>
+    <s:type>Home - Blankets</s:type>
+    <s:vendor>Avantiak Tapestry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/26-21391.jpg?v=1497471865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avantiak Tapestry<br>
+        <strong>Type: </strong>Home - Blankets<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Outdoor Throws are perfect for trips to the beach or picnics! Decorate your home and hang them on the wall! From Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Color/Print: Shades of Rose, Peach, Orange &amp; White Circle Pattern</p>
+<p><strong>Fabric Care:</strong></p>
+<p>• Cotton</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Light Weight Material</p>
+<p><strong>Size:</strong></p>
+<p>• 90" x 90" Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Home - Blankets</s:tag>
+    <s:tag>Mandala</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10355577676</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>21391</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10355512908</id>
+    <published>2017-04-18T16:33:15-05:00</published>
+    <updated>2017-04-18T16:33:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/90-square-indian-mandala-beach-throw-shades-of-purple-pink-ivory-circle-pattern"/>
+    <title>90&quot; Square Indian Mandala Beach Throw - Shades of Purple, Pink &amp; Ivory Circle Pattern</title>
+    <s:type>Home - Blankets</s:type>
+    <s:vendor>Avantiak Tapestry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/24-21389.jpg?v=1497471887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avantiak Tapestry<br>
+        <strong>Type: </strong>Home - Blankets<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Outdoor Throws are perfect for trips to the beach or picnics! Decorate your home and hang them on the wall! From Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Color/Print: Shades of Purple, Pink &amp; Ivory Circle Pattern</p>
+<p><strong>Fabric Care:</strong></p>
+<p>• Cotton</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Light Weight Material</p>
+<p><strong>Size:</strong></p>
+<p>• 90" x 90" Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Home - Blankets</s:tag>
+    <s:tag>Ivory</s:tag>
+    <s:tag>Mandala</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10355512908</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>21389</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10355431884</id>
+    <published>2017-04-18T16:33:15-05:00</published>
+    <updated>2017-04-18T16:33:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/90-square-indian-mandala-beach-throw-gorgeous-shades-of-lavender-cream-plum-circle-pattern"/>
+    <title>90&quot; Square Indian Mandala Beach Throw - Gorgeous Shades of Lavender, Cream &amp; Plum Circle Pattern</title>
+    <s:type>Home - Blankets</s:type>
+    <s:vendor>Avantiak Tapestry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/21-21386.jpg?v=1520324869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avantiak Tapestry<br>
+        <strong>Type: </strong>Home - Blankets<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Outdoor Throws are perfect for trips to the beach or picnics! Decorate your home and hang them on the wall! From Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Color/Print: Gorgeous Shades of Lavender, Cream &amp; Plum Circle Pattern</p>
+<p><strong>Fabric Care:</strong></p>
+<p>• Cotton</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Light Weight Material</p>
+<p><strong>Size:</strong></p>
+<p>• 90" x 90" Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Home - Blankets</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Mandala</s:tag>
+    <s:tag>Plum</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10355431884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>21386</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10355364748</id>
+    <published>2017-04-18T16:33:15-05:00</published>
+    <updated>2017-04-18T16:33:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/90-square-indian-mandala-beach-throw-amazing-shades-of-pink-purple-circle-pattern"/>
+    <title>90&quot; Square Indian Mandala Beach Throw - Amazing Shades of Pink &amp; Purple Circle Pattern</title>
+    <s:type>Home - Blankets</s:type>
+    <s:vendor>Avantiak Tapestry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/16-21382.jpg?v=1520324866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avantiak Tapestry<br>
+        <strong>Type: </strong>Home - Blankets<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Outdoor Throws are perfect for trips to the beach or picnics! Decorate your home and hang them on the wall! From Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Color/Print: Amazing Shades of Pink &amp; Purple Circle Pattern</p>
+<p><strong>Fabric Care:</strong></p>
+<p>• Cotton</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Light Weight Material</p>
+<p><strong>Size:</strong></p>
+<p>• 90" x 90" Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Home - Blankets</s:tag>
+    <s:tag>Mandala</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10355364748</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>21382</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/10355302284</id>
+    <published>2017-04-18T16:33:15-05:00</published>
+    <updated>2017-04-18T16:33:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/90-square-indian-mandala-beach-throw-purple-plum-lotus-pattern-with-flowers"/>
+    <title>90&quot; Square Indian Mandala Beach Throw - Purple &amp; Plum Lotus Pattern with Flowers</title>
+    <s:type>Home - Blankets</s:type>
+    <s:vendor>Avantiak Tapestry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/10-21376.jpg?v=1520324861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avantiak Tapestry<br>
+        <strong>Type: </strong>Home - Blankets<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Outdoor Throws are perfect for trips to the beach or picnics! Decorate your home and hang them on the wall! From Wholesale Princess, Where Adorable Meets Affordable!!</p>
+<p>• Number of Pieces: 1</p>
+<p>• Color/Print: Purple &amp; Plum Lotus Pattern with Flowers</p>
+<p><strong>Fabric Care:</strong></p>
+<p>• Cotton</p>
+<p>• Hand Wash Cold</p>
+<p>• Hang Dry</p>
+<p>• Light Weight Material</p>
+<p><strong>Size:</strong></p>
+<p>• 90" x 90" Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-20</s:tag>
+    <s:tag>Home - Blankets</s:tag>
+    <s:tag>Mandala</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Plum</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/10355302284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>21376</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8934111884</id>
+    <published>2016-11-21T15:01:00-06:00</published>
+    <updated>2016-11-21T15:01:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/family-christmas-tree-skirt-personalized-3-styles"/>
+    <title>Family Christmas Tree Skirt - Personalized (3 Styles</title>
+    <s:type>Home - Decorations</s:type>
+    <s:vendor>Wholesale Princess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/29703-29705_27591129-f144-4e6e-8acf-3b621e9933a1.jpg?v=1569003679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Princess<br>
+        <strong>Type: </strong>Home - Decorations<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christmas Tree Skirts</p>
+<p>3 Styles: Solid Red, Red &amp; White Stripes, &amp; Red &amp; Green Stripes</p>
+<p>46" in Diameter (6" Ruffle along the skirt)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-5</s:tag>
+    <s:tag>10-20</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Tree</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Home &amp; Outdoor</s:tag>
+    <s:tag>Home - Decorations</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Personalized</s:tag>
+    <s:tag>Personalized Name</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8934111884</id>
+      <title>Red/Green</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>20874-REDGREEN</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8934111884</id>
+      <title>Red/White</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>20874-REDWHITE</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8934111884</id>
+      <title>Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>20874-RED</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleprincess.com/products/8580566540</id>
+    <published>2016-09-16T13:16:00-05:00</published>
+    <updated>2016-09-16T13:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleprincess.com/products/magic-water-balloon-filler-111-balloons"/>
+    <title>Magic Water Balloon Filler (111 Balloons)</title>
+    <s:type>Toys - Water Balloons</s:type>
+    <s:vendor>Ellen - China Broker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1268/6111/products/18833_20_4.jpg?v=1474049807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen - China Broker<br>
+        <strong>Type: </strong>Toys - Water Balloons<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These water balloon fillers are perfect for outdoor summer parties!</p>
+<p>How To Use: Each package comes with three sets of 37 water balloons (111 total balloons). Attach each set onto your hose and fill them up until they detach. Each balloon is already tied!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-10</s:tag>
+    <s:tag>Home &amp; Outdoor</s:tag>
+    <s:tag>More</s:tag>
+    <s:tag>No Google Shopping</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Regularly Priced Products</s:tag>
+    <s:tag>Toys - Water Balloons</s:tag>
+    <s:tag>Water Toys</s:tag>
+    <s:variant>
+      <id>https://wholesaleprincess.com/products/8580566540</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>18833</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>
